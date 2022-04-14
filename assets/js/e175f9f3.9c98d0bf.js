@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkkelas_awan_pintar=self.webpackChunkkelas_awan_pintar||[]).push([[2881],{2530:function(a){a.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"education","name":"education","count":2,"permalink":"/blog/tags/education"}')}}]);

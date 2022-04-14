@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkkelas_awan_pintar=self.webpackChunkkelas_awan_pintar||[]).push([[54],{5889:function(a){a.exports=JSON.parse('{"allTagsPath":"/jumadi-cloud/blog/tags","slug":"facebook","name":"facebook","count":1,"permalink":"/jumadi-cloud/blog/tags/facebook"}')}}]);
