@@ -11,9 +11,9 @@
           "versionBanner": "none",
           "isLast": true,
           "routePriority": -1,
-          "sidebarFilePath": "C:\\Users\\arief\\project\\docu-jumadi\\sidebars.js",
-          "contentPath": "C:\\Users\\arief\\project\\docu-jumadi\\docs",
-          "contentPathLocalized": "C:\\Users\\arief\\project\\docu-jumadi\\i18n\\en\\docusaurus-plugin-content-docs\\current",
+          "sidebarFilePath": "C:\\Users\\arief\\Downloads\\docu-jumadi\\sidebars.js",
+          "contentPath": "C:\\Users\\arief\\Downloads\\docu-jumadi\\docs",
+          "contentPathLocalized": "C:\\Users\\arief\\Downloads\\docu-jumadi\\i18n\\en\\docusaurus-plugin-content-docs\\current",
           "mainDocId": "intro",
           "sidebars": {
             "tutorialSidebar": [
@@ -311,9 +311,9 @@
           "versionBanner": "none",
           "isLast": true,
           "routePriority": -1,
-          "sidebarFilePath": "C:\\Users\\arief\\project\\docu-jumadi\\sidebars.js",
-          "contentPath": "C:\\Users\\arief\\project\\docu-jumadi\\tutorial\\golang",
-          "contentPathLocalized": "C:\\Users\\arief\\project\\docu-jumadi\\i18n\\en\\docusaurus-plugin-content-docs-tutorial-golang\\current",
+          "sidebarFilePath": "C:\\Users\\arief\\Downloads\\docu-jumadi\\sidebars.js",
+          "contentPath": "C:\\Users\\arief\\Downloads\\docu-jumadi\\tutorial\\golang",
+          "contentPathLocalized": "C:\\Users\\arief\\Downloads\\docu-jumadi\\i18n\\en\\docusaurus-plugin-content-docs-tutorial-golang\\current",
           "mainDocId": "intro",
           "sidebars": {
             "tutorialSidebar": [
@@ -602,9 +602,9 @@
           "versionBanner": "none",
           "isLast": true,
           "routePriority": -1,
-          "sidebarFilePath": "C:\\Users\\arief\\project\\docu-jumadi\\sidebars.js",
-          "contentPath": "C:\\Users\\arief\\project\\docu-jumadi\\tutorial\\java",
-          "contentPathLocalized": "C:\\Users\\arief\\project\\docu-jumadi\\i18n\\en\\docusaurus-plugin-content-docs-tutorial-java\\current",
+          "sidebarFilePath": "C:\\Users\\arief\\Downloads\\docu-jumadi\\sidebars.js",
+          "contentPath": "C:\\Users\\arief\\Downloads\\docu-jumadi\\tutorial\\java",
+          "contentPathLocalized": "C:\\Users\\arief\\Downloads\\docu-jumadi\\i18n\\en\\docusaurus-plugin-content-docs-tutorial-java\\current",
           "mainDocId": "dasar/pengenalan-java",
           "sidebars": {
             "tutorialSidebar": [
@@ -1030,9 +1030,9 @@
           "versionBanner": "none",
           "isLast": true,
           "routePriority": -1,
-          "sidebarFilePath": "C:\\Users\\arief\\project\\docu-jumadi\\sidebars.js",
-          "contentPath": "C:\\Users\\arief\\project\\docu-jumadi\\tutorial\\javascript",
-          "contentPathLocalized": "C:\\Users\\arief\\project\\docu-jumadi\\i18n\\en\\docusaurus-plugin-content-docs-tutorial-javascript\\current",
+          "sidebarFilePath": "C:\\Users\\arief\\Downloads\\docu-jumadi\\sidebars.js",
+          "contentPath": "C:\\Users\\arief\\Downloads\\docu-jumadi\\tutorial\\javascript",
+          "contentPathLocalized": "C:\\Users\\arief\\Downloads\\docu-jumadi\\i18n\\en\\docusaurus-plugin-content-docs-tutorial-javascript\\current",
           "mainDocId": "intro",
           "sidebars": {
             "tutorialSidebar": [
@@ -1321,9 +1321,9 @@
           "versionBanner": "none",
           "isLast": true,
           "routePriority": -1,
-          "sidebarFilePath": "C:\\Users\\arief\\project\\docu-jumadi\\sidebars.js",
-          "contentPath": "C:\\Users\\arief\\project\\docu-jumadi\\tutorial\\kotlin",
-          "contentPathLocalized": "C:\\Users\\arief\\project\\docu-jumadi\\i18n\\en\\docusaurus-plugin-content-docs-tutorial-kotlin\\current",
+          "sidebarFilePath": "C:\\Users\\arief\\Downloads\\docu-jumadi\\sidebars.js",
+          "contentPath": "C:\\Users\\arief\\Downloads\\docu-jumadi\\tutorial\\kotlin",
+          "contentPathLocalized": "C:\\Users\\arief\\Downloads\\docu-jumadi\\i18n\\en\\docusaurus-plugin-content-docs-tutorial-kotlin\\current",
           "mainDocId": "intro",
           "sidebars": {
             "tutorialSidebar": [
@@ -1744,9 +1744,9 @@
           "versionBanner": "none",
           "isLast": true,
           "routePriority": -1,
-          "sidebarFilePath": "C:\\Users\\arief\\project\\docu-jumadi\\sidebars.js",
-          "contentPath": "C:\\Users\\arief\\project\\docu-jumadi\\tutorial\\php",
-          "contentPathLocalized": "C:\\Users\\arief\\project\\docu-jumadi\\i18n\\en\\docusaurus-plugin-content-docs-tutorial-php\\current",
+          "sidebarFilePath": "C:\\Users\\arief\\Downloads\\docu-jumadi\\sidebars.js",
+          "contentPath": "C:\\Users\\arief\\Downloads\\docu-jumadi\\tutorial\\php",
+          "contentPathLocalized": "C:\\Users\\arief\\Downloads\\docu-jumadi\\i18n\\en\\docusaurus-plugin-content-docs-tutorial-php\\current",
           "mainDocId": "intro",
           "sidebars": {
             "tutorialSidebar": [

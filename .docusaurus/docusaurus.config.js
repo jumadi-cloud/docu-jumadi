@@ -1,7 +1,7 @@
 export default {
   "title": "Kelas Awan Pintar",
   "tagline": "Buka Masa Depanmu Dengan Terus Belajar!",
-  "url": "https://jumadi-cloud.github.io.git",
+  "url": "https://github.com/jumadi-cloud/docu-jumadi.git",
   "baseUrl": "/",
   "onBrokenLinks": "throw",
   "onBrokenMarkdownLinks": "warn",
@@ -365,7 +365,7 @@ export default {
       "@docusaurus/preset-classic",
       {
         "docs": {
-          "sidebarPath": "C:\\Users\\arief\\project\\docu-jumadi\\sidebars.js",
+          "sidebarPath": "C:\\Users\\arief\\Downloads\\docu-jumadi\\sidebars.js",
           "editUrl": "https://github.com/jumadi-cloud/docu-tutorial"
         },
         "blog": {
@@ -373,7 +373,7 @@ export default {
           "editUrl": "https://github.com/jumadi-cloud/docu-tutorial"
         },
         "theme": {
-          "customCss": "C:\\Users\\arief\\project\\docu-jumadi\\src\\css\\custom.css"
+          "customCss": "C:\\Users\\arief\\Downloads\\docu-jumadi\\src\\css\\custom.css"
         }
       }
     ]
@@ -385,7 +385,7 @@ export default {
         "id": "tutorial-golang",
         "path": "tutorial/golang",
         "routeBasePath": "tutorial-golang",
-        "sidebarPath": "C:\\Users\\arief\\project\\docu-jumadi\\sidebars.js"
+        "sidebarPath": "C:\\Users\\arief\\Downloads\\docu-jumadi\\sidebars.js"
       }
     ],
     [
@@ -394,7 +394,7 @@ export default {
         "id": "tutorial-java",
         "path": "tutorial/java",
         "routeBasePath": "tutorial-java",
-        "sidebarPath": "C:\\Users\\arief\\project\\docu-jumadi\\sidebars.js"
+        "sidebarPath": "C:\\Users\\arief\\Downloads\\docu-jumadi\\sidebars.js"
       }
     ],
     [
@@ -403,7 +403,7 @@ export default {
         "id": "tutorial-javascript",
         "path": "tutorial/javascript",
         "routeBasePath": "tutorial-javascript",
-        "sidebarPath": "C:\\Users\\arief\\project\\docu-jumadi\\sidebars.js"
+        "sidebarPath": "C:\\Users\\arief\\Downloads\\docu-jumadi\\sidebars.js"
       }
     ],
     [
@@ -412,7 +412,7 @@ export default {
         "id": "tutorial-kotlin",
         "path": "tutorial/kotlin",
         "routeBasePath": "tutorial-kotlin",
-        "sidebarPath": "C:\\Users\\arief\\project\\docu-jumadi\\sidebars.js"
+        "sidebarPath": "C:\\Users\\arief\\Downloads\\docu-jumadi\\sidebars.js"
       }
     ],
     [
@@ -421,7 +421,7 @@ export default {
         "id": "tutorial-php",
         "path": "tutorial/php",
         "routeBasePath": "tutorial-php",
-        "sidebarPath": "C:\\Users\\arief\\project\\docu-jumadi\\sidebars.js"
+        "sidebarPath": "C:\\Users\\arief\\Downloads\\docu-jumadi\\sidebars.js"
       }
     ]
   ],

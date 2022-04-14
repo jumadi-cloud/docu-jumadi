@@ -5,13 +5,13 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 module.exports = {
   title: 'Kelas Awan Pintar',
   tagline: 'Buka Masa Depanmu Dengan Terus Belajar!',
-  url: 'https://github.com/jumadi-cloud/docu-jumadi.git',
+  url: 'https://jumadi-cloud.github.io.git',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/kap.png',
   organizationName: 'jumadi-cloud',
-  projectName: 'docu-tutorial',
+  projectName: 'docu-jumadi',
   themeConfig: {
     // googleAnalytics: {
     //     trackingID: 'G-EL58ST4JHS',
