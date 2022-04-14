@@ -6,7 +6,7 @@ module.exports = {
   title: 'Kelas Awan Pintar',
   tagline: 'Buka Masa Depanmu Dengan Terus Belajar!',
   url: 'https://jumadi-cloud.github.io.git',
-  baseUrl: '/',
+  baseUrl: '/docu-jumadi',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/kap.png',
