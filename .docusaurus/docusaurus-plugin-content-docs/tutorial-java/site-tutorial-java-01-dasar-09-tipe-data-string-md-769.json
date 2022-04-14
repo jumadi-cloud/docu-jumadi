@@ -1,0 +1,25 @@
+{
+  "unversionedId": "dasar/tipe-data-string",
+  "id": "dasar/tipe-data-string",
+  "isDocsHomePage": false,
+  "title": "Tipe Data String",
+  "description": "Tipe data string adalah tipe data yang berisikan kumpulan kosong atau lebih karakter. Sederhananya, string adalah tulisan atau text. Di Java, string direpresentasikan dengan kata kunci String. Dan untuk membuat data String, kita bisa menggunakan \" (petik dua) lalu diikuti dengan isi string nya, dan diakhiri dengan \" (petik dua) lagi.",
+  "source": "@site/tutorial/java/01-dasar/09-tipe-data-string.md",
+  "sourceDirName": "01-dasar",
+  "slug": "/dasar/tipe-data-string",
+  "permalink": "/tutorial-java/dasar/tipe-data-string",
+  "version": "current",
+  "sidebarPosition": 9,
+  "frontMatter": {
+    "sidebar_position": 9
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Tipe Data Character",
+    "permalink": "/tutorial-java/dasar/tipe-data-character"
+  },
+  "next": {
+    "title": "Variable",
+    "permalink": "/tutorial-java/dasar/variable"
+  }
+}

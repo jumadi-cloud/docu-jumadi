@@ -1,0 +1,21 @@
+{
+  "unversionedId": "dasar/pengenalan-java",
+  "id": "dasar/pengenalan-java",
+  "isDocsHomePage": false,
+  "title": "Pengenalan Java",
+  "description": "Java adalah bahasa pemrograman berorientasi objek yang sangat populer. Java merupakan salah satu bahasa pemrograman yang bisa digunakan untuk membuat aplikasi console, desktop, web sampai ke mobile.",
+  "source": "@site/tutorial/java/01-dasar/01-pengenalan-java.md",
+  "sourceDirName": "01-dasar",
+  "slug": "/dasar/pengenalan-java",
+  "permalink": "/tutorial-java/dasar/pengenalan-java",
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "next": {
+    "title": "Menginstall Java",
+    "permalink": "/tutorial-java/dasar/menginstall-java"
+  }
+}

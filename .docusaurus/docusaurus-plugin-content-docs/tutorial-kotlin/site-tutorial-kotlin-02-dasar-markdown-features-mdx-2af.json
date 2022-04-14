@@ -1,0 +1,25 @@
+{
+  "unversionedId": "dasar/markdown-features",
+  "id": "dasar/markdown-features",
+  "isDocsHomePage": false,
+  "title": "Markdown Features",
+  "description": "Docusaurus supports Markdown and a few additional features.",
+  "source": "@site/tutorial/kotlin/02-dasar/markdown-features.mdx",
+  "sourceDirName": "02-dasar",
+  "slug": "/dasar/markdown-features",
+  "permalink": "/tutorial-kotlin/dasar/markdown-features",
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Create a Blog Post",
+    "permalink": "/tutorial-kotlin/dasar/create-a-blog-post"
+  },
+  "next": {
+    "title": "Deploy your site",
+    "permalink": "/tutorial-kotlin/dasar/deploy-your-site"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "unversionedId": "dasar/komentar",
+  "id": "dasar/komentar",
+  "isDocsHomePage": false,
+  "title": "Komentar",
+  "description": "Setiap bahasa pemrograman pasti memiliki fitur yang namanya komentar. Komentar adalah kode program yang tidak akan dieksekusi ketika dijalankan. Biasanya komentar digunakan untuk memberi informasi tambahan pada kode program kita agar mudah dimengerti.",
+  "source": "@site/tutorial/java/01-dasar/05-komentar.md",
+  "sourceDirName": "01-dasar",
+  "slug": "/dasar/komentar",
+  "permalink": "/tutorial-java/dasar/komentar",
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "sidebar_position": 5
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Program Hello World",
+    "permalink": "/tutorial-java/dasar/program-hello-world"
+  },
+  "next": {
+    "title": "Tipe Data Number",
+    "permalink": "/tutorial-java/dasar/tipe-data-number"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "unversionedId": "dasar/variable",
+  "id": "dasar/variable",
+  "isDocsHomePage": false,
+  "title": "Variable",
+  "description": "Variable adalah tempat untuk menyimpan data. Saat membuat variable di Java, kita perlu menentukan tipe data yang ingin kita gunakan. Dan di Java, variable tidak bisa berubah tipe data setelah dibuat. Misal jika kita sudah membuat variable dengan tipe data String, tidak bisa berubah menjadi variable dengan tipe data int atau yang lainnya. Berikut adalah cara membuat variable di Java.",
+  "source": "@site/tutorial/java/01-dasar/10-variable.md",
+  "sourceDirName": "01-dasar",
+  "slug": "/dasar/variable",
+  "permalink": "/tutorial-java/dasar/variable",
+  "version": "current",
+  "sidebarPosition": 10,
+  "frontMatter": {
+    "sidebar_position": 10
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Tipe Data String",
+    "permalink": "/tutorial-java/dasar/tipe-data-string"
+  },
+  "next": {
+    "title": "Tipe Data Bukan Primitif",
+    "permalink": "/tutorial-java/dasar/tipe-data-bukan-primitif"
+  }
+}

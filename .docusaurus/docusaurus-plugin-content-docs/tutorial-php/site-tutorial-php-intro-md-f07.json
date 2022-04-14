@@ -1,0 +1,21 @@
+{
+  "unversionedId": "intro",
+  "id": "intro",
+  "isDocsHomePage": false,
+  "title": "PHP",
+  "description": "Let's discover Docusaurus in less than 5 minutes.",
+  "source": "@site/tutorial/php/intro.md",
+  "sourceDirName": ".",
+  "slug": "/intro",
+  "permalink": "/tutorial-php/intro",
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "next": {
+    "title": "Create a Page",
+    "permalink": "/tutorial-php/dasar/create-a-page"
+  }
+}

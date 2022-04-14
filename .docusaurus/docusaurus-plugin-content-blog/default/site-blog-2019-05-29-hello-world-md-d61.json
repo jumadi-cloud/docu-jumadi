@@ -1,0 +1,25 @@
+{
+  "permalink": "/blog/hello-world",
+  "editUrl": "https://github.com/jumadi-cloud/docu-tutorial/blog/2019-05-29-hello-world.md",
+  "source": "@site/blog/2019-05-29-hello-world.md",
+  "title": "Work Experience",
+  "description": "Tahun 2021 - Sekarang",
+  "date": "2019-05-29T00:00:00.000Z",
+  "formattedDate": "May 29, 2019",
+  "tags": [
+    {
+      "label": "Work Experience",
+      "permalink": "/blog/tags/work-experience"
+    }
+  ],
+  "readingTime": 1.04,
+  "truncated": true,
+  "prevItem": {
+    "title": "About",
+    "permalink": "/blog/About"
+  },
+  "nextItem": {
+    "title": "Education",
+    "permalink": "/blog/helo"
+  }
+}

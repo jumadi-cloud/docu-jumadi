@@ -1,0 +1,25 @@
+{
+  "unversionedId": "generic/manage-docs-versions",
+  "id": "generic/manage-docs-versions",
+  "isDocsHomePage": false,
+  "title": "Manage Docs Versions",
+  "description": "Docusaurus can manage multiple versions of your docs.",
+  "source": "@site/tutorial/kotlin/04-generic/manage-docs-versions.md",
+  "sourceDirName": "04-generic",
+  "slug": "/generic/manage-docs-versions",
+  "permalink": "/tutorial-kotlin/generic/manage-docs-versions",
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Translate your site",
+    "permalink": "/tutorial-kotlin/oop/translate-your-site"
+  },
+  "next": {
+    "title": "Translate your site",
+    "permalink": "/tutorial-kotlin/generic/translate-your-site"
+  }
+}

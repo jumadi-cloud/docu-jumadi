@@ -1,0 +1,25 @@
+{
+  "unversionedId": "dasar/translate-your-site",
+  "id": "dasar/translate-your-site",
+  "isDocsHomePage": false,
+  "title": "Translate your site",
+  "description": "Let's translate docs/intro.md to French.",
+  "source": "@site/tutorial/golang/02-dasar/translate-your-site.md",
+  "sourceDirName": "02-dasar",
+  "slug": "/dasar/translate-your-site",
+  "permalink": "/tutorial-golang/dasar/translate-your-site",
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Manage Docs Versions",
+    "permalink": "/tutorial-golang/dasar/manage-docs-versions"
+  },
+  "next": {
+    "title": "Create a Page",
+    "permalink": "/tutorial-golang/modules/create-a-page"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "unversionedId": "dasar/congratulations",
+  "id": "dasar/congratulations",
+  "isDocsHomePage": false,
+  "title": "Congratulations!",
+  "description": "You have just learned the basics of Docusaurus and made some changes to the initial template.",
+  "source": "@site/tutorial/kotlin/02-dasar/congratulations.md",
+  "sourceDirName": "02-dasar",
+  "slug": "/dasar/congratulations",
+  "permalink": "/tutorial-kotlin/dasar/congratulations",
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "sidebar_position": 6
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Deploy your site",
+    "permalink": "/tutorial-kotlin/dasar/deploy-your-site"
+  },
+  "next": {
+    "title": "Manage Docs Versions",
+    "permalink": "/tutorial-kotlin/oop/manage-docs-versions"
+  }
+}

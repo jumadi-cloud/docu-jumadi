@@ -1,0 +1,23 @@
+{
+  "facebook": {
+    "allTagsPath": "/blog/tags",
+    "slug": "facebook",
+    "name": "facebook",
+    "count": 1,
+    "permalink": "/blog/tags/facebook"
+  },
+  "work-experience": {
+    "allTagsPath": "/blog/tags",
+    "slug": "work-experience",
+    "name": "work experience",
+    "count": 2,
+    "permalink": "/blog/tags/work-experience"
+  },
+  "education": {
+    "allTagsPath": "/blog/tags",
+    "slug": "education",
+    "name": "education",
+    "count": 2,
+    "permalink": "/blog/tags/education"
+  }
+}

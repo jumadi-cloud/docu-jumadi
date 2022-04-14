@@ -1,0 +1,21 @@
+{
+  "unversionedId": "intro",
+  "id": "intro",
+  "isDocsHomePage": false,
+  "title": "Go-Lang",
+  "description": "Let's discover Docusaurus in less than 5 minutes.",
+  "source": "@site/tutorial/golang/intro.md",
+  "sourceDirName": ".",
+  "slug": "/intro",
+  "permalink": "/tutorial-golang/intro",
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "next": {
+    "title": "Manage Docs Versions",
+    "permalink": "/tutorial-golang/dasar/manage-docs-versions"
+  }
+}

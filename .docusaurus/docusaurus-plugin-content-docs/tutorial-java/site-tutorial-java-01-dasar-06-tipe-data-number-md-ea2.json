@@ -1,0 +1,25 @@
+{
+  "unversionedId": "dasar/tipe-data-number",
+  "id": "dasar/tipe-data-number",
+  "isDocsHomePage": false,
+  "title": "Tipe Data Number",
+  "description": "Dalam pemrograman, ada banyak sekali tipe data. Salah satu yang paling sering kita gunakan adalah tipe data number atau angka. Data number banyak sekali kita gunakan dalam kehidupan sehari-hari, contohnya uang, jumlah, nilai ujian di sekolah, harga barang, dan lain-lain.",
+  "source": "@site/tutorial/java/01-dasar/06-tipe-data-number.md",
+  "sourceDirName": "01-dasar",
+  "slug": "/dasar/tipe-data-number",
+  "permalink": "/tutorial-java/dasar/tipe-data-number",
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "sidebar_position": 6
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Komentar",
+    "permalink": "/tutorial-java/dasar/komentar"
+  },
+  "next": {
+    "title": "Tipe Data Boolean",
+    "permalink": "/tutorial-java/dasar/tipe-data-boolean"
+  }
+}

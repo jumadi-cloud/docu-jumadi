@@ -1,0 +1,25 @@
+{
+  "unversionedId": "dasar/tipe-data-character",
+  "id": "dasar/tipe-data-character",
+  "isDocsHomePage": false,
+  "title": "Tipe Data Character",
+  "description": "Selain tipe data number, Java mendukung tipe data karakter (character). Ini adalah tipe data yang berisikan satu karakter (hurup, angka, dan simbol). Karakter di Java merupakan karakter 16-bit Unicode.",
+  "source": "@site/tutorial/java/01-dasar/08-tipe-data-character.md",
+  "sourceDirName": "01-dasar",
+  "slug": "/dasar/tipe-data-character",
+  "permalink": "/tutorial-java/dasar/tipe-data-character",
+  "version": "current",
+  "sidebarPosition": 8,
+  "frontMatter": {
+    "sidebar_position": 8
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Tipe Data Boolean",
+    "permalink": "/tutorial-java/dasar/tipe-data-boolean"
+  },
+  "next": {
+    "title": "Tipe Data String",
+    "permalink": "/tutorial-java/dasar/tipe-data-string"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "unversionedId": "oop/translate-your-site",
+  "id": "oop/translate-your-site",
+  "isDocsHomePage": false,
+  "title": "Translate your site",
+  "description": "Let's translate docs/intro.md to French.",
+  "source": "@site/tutorial/php/03-oop/translate-your-site.md",
+  "sourceDirName": "03-oop",
+  "slug": "/oop/translate-your-site",
+  "permalink": "/tutorial-php/oop/translate-your-site",
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Manage Docs Versions",
+    "permalink": "/tutorial-php/oop/manage-docs-versions"
+  }
+}

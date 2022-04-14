@@ -1,0 +1,25 @@
+{
+  "unversionedId": "dasar/integrated-development-environment",
+  "id": "dasar/integrated-development-environment",
+  "isDocsHomePage": false,
+  "title": "Integrated Development Environment",
+  "description": "Membuat Aplikasi Java sangat disarankan menggunakan IDE (Integrated Development Environment). IDE adalah sebuah code editor pintar yang lebih dari sekedar text editor. IDE memiliki kemampuan untuk melakukan code management, kompilasi kode program secara otomatis, sampai bisa digunakan untuk membuat distribution file dari kode program Java yang kita buat.",
+  "source": "@site/tutorial/java/01-dasar/03-integrated-development-environment.md",
+  "sourceDirName": "01-dasar",
+  "slug": "/dasar/integrated-development-environment",
+  "permalink": "/tutorial-java/dasar/integrated-development-environment",
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Menginstall Java",
+    "permalink": "/tutorial-java/dasar/menginstall-java"
+  },
+  "next": {
+    "title": "Program Hello World",
+    "permalink": "/tutorial-java/dasar/program-hello-world"
+  }
+}

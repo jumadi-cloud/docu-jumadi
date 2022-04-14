@@ -1,0 +1,25 @@
+{
+  "unversionedId": "dasar/deploy-your-site",
+  "id": "dasar/deploy-your-site",
+  "isDocsHomePage": false,
+  "title": "Deploy your site",
+  "description": "Docusaurus is a static-site-generator (also called Jamstack).",
+  "source": "@site/tutorial/javascript/02-dasar/deploy-your-site.md",
+  "sourceDirName": "02-dasar",
+  "slug": "/dasar/deploy-your-site",
+  "permalink": "/tutorial-javascript/dasar/deploy-your-site",
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "sidebar_position": 5
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Markdown Features",
+    "permalink": "/tutorial-javascript/dasar/markdown-features"
+  },
+  "next": {
+    "title": "Congratulations!",
+    "permalink": "/tutorial-javascript/dasar/congratulations"
+  }
+}

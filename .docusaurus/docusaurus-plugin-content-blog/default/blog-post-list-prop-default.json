@@ -1,0 +1,17 @@
+{
+  "title": "Recent posts",
+  "items": [
+    {
+      "title": "About",
+      "permalink": "/blog/About"
+    },
+    {
+      "title": "Work Experience",
+      "permalink": "/blog/hello-world"
+    },
+    {
+      "title": "Education",
+      "permalink": "/blog/helo"
+    }
+  ]
+}

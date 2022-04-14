@@ -1,0 +1,25 @@
+{
+  "unversionedId": "dasar/create-a-page",
+  "id": "dasar/create-a-page",
+  "isDocsHomePage": false,
+  "title": "Create a Page",
+  "description": "Add Markdown or React files to src/pages to create a standalone page:",
+  "source": "@site/tutorial/php/02-dasar/create-a-page.md",
+  "sourceDirName": "02-dasar",
+  "slug": "/dasar/create-a-page",
+  "permalink": "/tutorial-php/dasar/create-a-page",
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "PHP",
+    "permalink": "/tutorial-php/intro"
+  },
+  "next": {
+    "title": "Create a Document",
+    "permalink": "/tutorial-php/dasar/create-a-document"
+  }
+}

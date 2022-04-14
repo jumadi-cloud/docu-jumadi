@@ -1,0 +1,25 @@
+{
+  "unversionedId": "dasar/manage-docs-versions",
+  "id": "dasar/manage-docs-versions",
+  "isDocsHomePage": false,
+  "title": "Manage Docs Versions",
+  "description": "Docusaurus can manage multiple versions of your docs.",
+  "source": "@site/tutorial/golang/02-dasar/manage-docs-versions.md",
+  "sourceDirName": "02-dasar",
+  "slug": "/dasar/manage-docs-versions",
+  "permalink": "/tutorial-golang/dasar/manage-docs-versions",
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Go-Lang",
+    "permalink": "/tutorial-golang/intro"
+  },
+  "next": {
+    "title": "Translate your site",
+    "permalink": "/tutorial-golang/dasar/translate-your-site"
+  }
+}

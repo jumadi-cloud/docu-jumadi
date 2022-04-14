@@ -1,0 +1,25 @@
+{
+  "unversionedId": "modules/deploy-your-site",
+  "id": "modules/deploy-your-site",
+  "isDocsHomePage": false,
+  "title": "Deploy your site",
+  "description": "Docusaurus is a static-site-generator (also called Jamstack).",
+  "source": "@site/tutorial/golang/03-modules/deploy-your-site.md",
+  "sourceDirName": "03-modules",
+  "slug": "/modules/deploy-your-site",
+  "permalink": "/tutorial-golang/modules/deploy-your-site",
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "sidebar_position": 5
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Markdown Features",
+    "permalink": "/tutorial-golang/modules/markdown-features"
+  },
+  "next": {
+    "title": "Congratulations!",
+    "permalink": "/tutorial-golang/modules/congratulations"
+  }
+}

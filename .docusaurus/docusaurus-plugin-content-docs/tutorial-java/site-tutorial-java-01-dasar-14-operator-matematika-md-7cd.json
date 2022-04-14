@@ -1,0 +1,21 @@
+{
+  "unversionedId": "dasar/operator-matematika",
+  "id": "dasar/operator-matematika",
+  "isDocsHomePage": false,
+  "title": "Operator Matematika",
+  "description": "Java mendukung operasi banyak sekali operator matematika. Fitur operator matematika wajib dimiliki oleh semua bahasa pemrograman. Di artikel ini kita akan bahas secara lengkap operator matematika apa saja yang bisa dilakukan di Java.",
+  "source": "@site/tutorial/java/01-dasar/14-operator-matematika.md",
+  "sourceDirName": "01-dasar",
+  "slug": "/dasar/operator-matematika",
+  "permalink": "/tutorial-java/dasar/operator-matematika",
+  "version": "current",
+  "sidebarPosition": 14,
+  "frontMatter": {
+    "sidebar_position": 14
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Tipe Data Array",
+    "permalink": "/tutorial-java/dasar/tipe-data-array"
+  }
+}

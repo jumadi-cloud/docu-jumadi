@@ -1,0 +1,25 @@
+{
+  "unversionedId": "dasar/tipe-data-boolean",
+  "id": "dasar/tipe-data-boolean",
+  "isDocsHomePage": false,
+  "title": "Tipe Data Boolean",
+  "description": "Boolean adalah tipe data tentang kebenaran, dimana terdapat dua nilai, benar dan salah. Di Java tipe data ini direpresentasikan dengan kata kunci boolean, dan untuk nilai benar direpresentasikan dengan kata kunci true, sedangkan untuk salah direpresentasikan dengan kata kunci false.",
+  "source": "@site/tutorial/java/01-dasar/07-tipe-data-boolean.md",
+  "sourceDirName": "01-dasar",
+  "slug": "/dasar/tipe-data-boolean",
+  "permalink": "/tutorial-java/dasar/tipe-data-boolean",
+  "version": "current",
+  "sidebarPosition": 7,
+  "frontMatter": {
+    "sidebar_position": 7
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Tipe Data Number",
+    "permalink": "/tutorial-java/dasar/tipe-data-number"
+  },
+  "next": {
+    "title": "Tipe Data Character",
+    "permalink": "/tutorial-java/dasar/tipe-data-character"
+  }
+}

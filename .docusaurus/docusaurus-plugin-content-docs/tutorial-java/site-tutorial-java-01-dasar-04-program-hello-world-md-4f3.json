@@ -1,0 +1,25 @@
+{
+  "unversionedId": "dasar/program-hello-world",
+  "id": "dasar/program-hello-world",
+  "isDocsHomePage": false,
+  "title": "Program Hello World",
+  "description": "Saat belajar bahasa pemrograman, biasanya kita akan membuat sebuah program Hello World. Program Hello World adalah sebuah program sederhana yang hanya menampilkan tulisan Hello World. Dan pada tutorial ini, kita akan mencoba membuat program Hello World menggunakan Java",
+  "source": "@site/tutorial/java/01-dasar/04-program-hello-world.md",
+  "sourceDirName": "01-dasar",
+  "slug": "/dasar/program-hello-world",
+  "permalink": "/tutorial-java/dasar/program-hello-world",
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Integrated Development Environment",
+    "permalink": "/tutorial-java/dasar/integrated-development-environment"
+  },
+  "next": {
+    "title": "Komentar",
+    "permalink": "/tutorial-java/dasar/komentar"
+  }
+}
