@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkkelas_awan_pintar=self.webpackChunkkelas_awan_pintar||[]).push([[8931],{2929:function(a){a.exports=JSON.parse('{"allTagsPath":"/docu-jumadi/blog/tags","slug":"education","name":"education","count":2,"permalink":"/docu-jumadi/blog/tags/education"}')}}]);

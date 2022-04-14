@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkkelas_awan_pintar=self.webpackChunkkelas_awan_pintar||[]).push([[8115],{8797:function(a){a.exports=JSON.parse('{"permalink":"/docu-jumadi/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":3,"previousPage":null,"nextPage":null,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

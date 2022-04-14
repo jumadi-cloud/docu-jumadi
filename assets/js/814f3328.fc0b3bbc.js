@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkkelas_awan_pintar=self.webpackChunkkelas_awan_pintar||[]).push([[2535],{5641:function(e){e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"About","permalink":"/jumadi-cloud/blog/About"},{"title":"Work Experience","permalink":"/jumadi-cloud/blog/hello-world"},{"title":"Education","permalink":"/jumadi-cloud/blog/helo"}]}')}}]);

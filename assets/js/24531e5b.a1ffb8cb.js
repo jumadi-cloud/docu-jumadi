@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkkelas_awan_pintar=self.webpackChunkkelas_awan_pintar||[]).push([[7739],{4308:function(a){a.exports=JSON.parse('{"allTagsPath":"/jumadi-cloud/blog/tags","slug":"education","name":"education","count":2,"permalink":"/jumadi-cloud/blog/tags/education"}')}}]);

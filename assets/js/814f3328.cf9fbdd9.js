@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkkelas_awan_pintar=self.webpackChunkkelas_awan_pintar||[]).push([[2535],{5641:function(e){e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"About","permalink":"/docu-jumadi/blog/About"},{"title":"Work Experience","permalink":"/docu-jumadi/blog/hello-world"},{"title":"Education","permalink":"/docu-jumadi/blog/helo"}]}')}}]);

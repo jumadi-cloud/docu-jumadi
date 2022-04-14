@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkkelas_awan_pintar=self.webpackChunkkelas_awan_pintar||[]).push([[8669],{7942:function(e){e.exports=JSON.parse('{"allTagsPath":"/jumadi-cloud/blog/tags","slug":"work-experience","name":"work experience","count":2,"permalink":"/jumadi-cloud/blog/tags/work-experience"}')}}]);
