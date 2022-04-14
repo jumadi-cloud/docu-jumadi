@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://jumadi-cloud.github.io.git/blog</id>
+    <title>Kelas Awan Pintar Blog</title>
+    <updated>2019-05-30T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://jumadi-cloud.github.io.git/blog"/>
+    <subtitle>Kelas Awan Pintar Blog</subtitle>
+    <icon>https://jumadi-cloud.github.io.git/img/kap.png</icon>
+    <entry>
+        <title type="html"><![CDATA[About]]></title>
+        <id>About</id>
+        <link href="https://jumadi-cloud.github.io.git/blog/About"/>
+        <updated>2019-05-30T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Saya memiliki pengalaman teknis langsung selama 9 tahun di bidang Supply Chain Management (SCM).]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Work Experience]]></title>
+        <id>hello-world</id>
+        <link href="https://jumadi-cloud.github.io.git/blog/hello-world"/>
+        <updated>2019-05-29T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Tahun 2021 - Sekarang]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Education]]></title>
+        <id>helo</id>
+        <link href="https://jumadi-cloud.github.io.git/blog/helo"/>
+        <updated>2019-05-28T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[- S1 Sistem Informasi @ Universitas Nusa Mandiri Jakarta (2017 - 2018)]]></summary>
+    </entry>
+</feed>

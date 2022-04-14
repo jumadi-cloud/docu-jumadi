@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+    <channel>
+        <title>Kelas Awan Pintar Blog</title>
+        <link>https://jumadi-cloud.github.io.git/blog</link>
+        <description>Kelas Awan Pintar Blog</description>
+        <lastBuildDate>Thu, 30 May 2019 00:00:00 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[About]]></title>
+            <link>https://jumadi-cloud.github.io.git/blog/About</link>
+            <guid>About</guid>
+            <pubDate>Thu, 30 May 2019 00:00:00 GMT</pubDate>
+            <description><![CDATA[Saya memiliki pengalaman teknis langsung selama 9 tahun di bidang Supply Chain Management (SCM).]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Work Experience]]></title>
+            <link>https://jumadi-cloud.github.io.git/blog/hello-world</link>
+            <guid>hello-world</guid>
+            <pubDate>Wed, 29 May 2019 00:00:00 GMT</pubDate>
+            <description><![CDATA[Tahun 2021 - Sekarang]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Education]]></title>
+            <link>https://jumadi-cloud.github.io.git/blog/helo</link>
+            <guid>helo</guid>
+            <pubDate>Tue, 28 May 2019 00:00:00 GMT</pubDate>
+            <description><![CDATA[- S1 Sistem Informasi @ Universitas Nusa Mandiri Jakarta (2017 - 2018)]]></description>
+        </item>
+    </channel>
+</rss>
