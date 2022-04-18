@@ -7,7 +7,7 @@
   "source": "@site/tutorial/golang/03-modules/congratulations.md",
   "sourceDirName": "03-modules",
   "slug": "/modules/congratulations",
-  "permalink": "/tutorial-golang/modules/congratulations",
+  "permalink": "/docu-jumadi/tutorial-golang/modules/congratulations",
   "version": "current",
   "sidebarPosition": 6,
   "frontMatter": {
@@ -16,6 +16,6 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Deploy your site",
-    "permalink": "/tutorial-golang/modules/deploy-your-site"
+    "permalink": "/docu-jumadi/tutorial-golang/modules/deploy-your-site"
   }
 }

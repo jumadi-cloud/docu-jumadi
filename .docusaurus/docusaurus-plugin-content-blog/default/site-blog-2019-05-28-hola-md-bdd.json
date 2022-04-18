@@ -1,5 +1,5 @@
 {
-  "permalink": "/blog/helo",
+  "permalink": "/docu-jumadi/blog/helo",
   "editUrl": "https://github.com/jumadi-cloud/docu-tutorial/blog/2019-05-28-hola.md",
   "source": "@site/blog/2019-05-28-hola.md",
   "title": "Education",
@@ -9,13 +9,13 @@
   "tags": [
     {
       "label": "Education",
-      "permalink": "/blog/tags/education"
+      "permalink": "/docu-jumadi/blog/tags/education"
     }
   ],
   "readingTime": 0.18,
   "truncated": false,
   "prevItem": {
     "title": "Work Experience",
-    "permalink": "/blog/hello-world"
+    "permalink": "/docu-jumadi/blog/hello-world"
   }
 }

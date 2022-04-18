@@ -1,5 +1,5 @@
 {
-  "permalink": "/blog/About",
+  "permalink": "/docu-jumadi/blog/About",
   "editUrl": "https://github.com/jumadi-cloud/docu-tutorial/blog/2019-05-30-welcome.md",
   "source": "@site/blog/2019-05-30-welcome.md",
   "title": "About",
@@ -9,21 +9,21 @@
   "tags": [
     {
       "label": "facebook",
-      "permalink": "/blog/tags/facebook"
+      "permalink": "/docu-jumadi/blog/tags/facebook"
     },
     {
       "label": "Work Experience",
-      "permalink": "/blog/tags/work-experience"
+      "permalink": "/docu-jumadi/blog/tags/work-experience"
     },
     {
       "label": "Education",
-      "permalink": "/blog/tags/education"
+      "permalink": "/docu-jumadi/blog/tags/education"
     }
   ],
   "readingTime": 0.465,
   "truncated": false,
   "nextItem": {
     "title": "Work Experience",
-    "permalink": "/blog/hello-world"
+    "permalink": "/docu-jumadi/blog/hello-world"
   }
 }

@@ -7,7 +7,7 @@
   "source": "@site/tutorial/javascript/02-dasar/congratulations.md",
   "sourceDirName": "02-dasar",
   "slug": "/dasar/congratulations",
-  "permalink": "/tutorial-javascript/dasar/congratulations",
+  "permalink": "/docu-jumadi/tutorial-javascript/dasar/congratulations",
   "version": "current",
   "sidebarPosition": 6,
   "frontMatter": {
@@ -16,10 +16,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Deploy your site",
-    "permalink": "/tutorial-javascript/dasar/deploy-your-site"
+    "permalink": "/docu-jumadi/tutorial-javascript/dasar/deploy-your-site"
   },
   "next": {
     "title": "Manage Docs Versions",
-    "permalink": "/tutorial-javascript/oop/manage-docs-versions"
+    "permalink": "/docu-jumadi/tutorial-javascript/oop/manage-docs-versions"
   }
 }

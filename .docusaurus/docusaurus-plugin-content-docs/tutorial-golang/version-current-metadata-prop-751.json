@@ -9,7 +9,7 @@
       {
         "type": "link",
         "label": "Go-Lang",
-        "href": "/tutorial-golang/intro"
+        "href": "/docu-jumadi/tutorial-golang/intro"
       },
       {
         "type": "category",
@@ -18,12 +18,12 @@
           {
             "type": "link",
             "label": "Manage Docs Versions",
-            "href": "/tutorial-golang/dasar/manage-docs-versions"
+            "href": "/docu-jumadi/tutorial-golang/dasar/manage-docs-versions"
           },
           {
             "type": "link",
             "label": "Translate your site",
-            "href": "/tutorial-golang/dasar/translate-your-site"
+            "href": "/docu-jumadi/tutorial-golang/dasar/translate-your-site"
           }
         ],
         "collapsed": true,
@@ -36,32 +36,32 @@
           {
             "type": "link",
             "label": "Create a Page",
-            "href": "/tutorial-golang/modules/create-a-page"
+            "href": "/docu-jumadi/tutorial-golang/modules/create-a-page"
           },
           {
             "type": "link",
             "label": "Create a Document",
-            "href": "/tutorial-golang/modules/create-a-document"
+            "href": "/docu-jumadi/tutorial-golang/modules/create-a-document"
           },
           {
             "type": "link",
             "label": "Create a Blog Post",
-            "href": "/tutorial-golang/modules/create-a-blog-post"
+            "href": "/docu-jumadi/tutorial-golang/modules/create-a-blog-post"
           },
           {
             "type": "link",
             "label": "Markdown Features",
-            "href": "/tutorial-golang/modules/markdown-features"
+            "href": "/docu-jumadi/tutorial-golang/modules/markdown-features"
           },
           {
             "type": "link",
             "label": "Deploy your site",
-            "href": "/tutorial-golang/modules/deploy-your-site"
+            "href": "/docu-jumadi/tutorial-golang/modules/deploy-your-site"
           },
           {
             "type": "link",
             "label": "Congratulations!",
-            "href": "/tutorial-golang/modules/congratulations"
+            "href": "/docu-jumadi/tutorial-golang/modules/congratulations"
           }
         ],
         "collapsed": true,

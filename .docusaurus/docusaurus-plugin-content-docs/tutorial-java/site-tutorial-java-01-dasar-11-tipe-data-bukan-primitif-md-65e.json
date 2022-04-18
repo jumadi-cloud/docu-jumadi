@@ -7,7 +7,7 @@
   "source": "@site/tutorial/java/01-dasar/11-tipe-data-bukan-primitif.md",
   "sourceDirName": "01-dasar",
   "slug": "/dasar/tipe-data-bukan-primitif",
-  "permalink": "/tutorial-java/dasar/tipe-data-bukan-primitif",
+  "permalink": "/docu-jumadi/tutorial-java/dasar/tipe-data-bukan-primitif",
   "version": "current",
   "sidebarPosition": 11,
   "frontMatter": {
@@ -16,10 +16,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Variable",
-    "permalink": "/tutorial-java/dasar/variable"
+    "permalink": "/docu-jumadi/tutorial-java/dasar/variable"
   },
   "next": {
     "title": "Null",
-    "permalink": "/tutorial-java/dasar/null"
+    "permalink": "/docu-jumadi/tutorial-java/dasar/null"
   }
 }

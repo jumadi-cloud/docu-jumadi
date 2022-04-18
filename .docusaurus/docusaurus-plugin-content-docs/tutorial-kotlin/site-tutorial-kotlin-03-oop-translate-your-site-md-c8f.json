@@ -7,7 +7,7 @@
   "source": "@site/tutorial/kotlin/03-oop/translate-your-site.md",
   "sourceDirName": "03-oop",
   "slug": "/oop/translate-your-site",
-  "permalink": "/tutorial-kotlin/oop/translate-your-site",
+  "permalink": "/docu-jumadi/tutorial-kotlin/oop/translate-your-site",
   "version": "current",
   "sidebarPosition": 2,
   "frontMatter": {
@@ -16,10 +16,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Manage Docs Versions",
-    "permalink": "/tutorial-kotlin/oop/manage-docs-versions"
+    "permalink": "/docu-jumadi/tutorial-kotlin/oop/manage-docs-versions"
   },
   "next": {
     "title": "Manage Docs Versions",
-    "permalink": "/tutorial-kotlin/generic/manage-docs-versions"
+    "permalink": "/docu-jumadi/tutorial-kotlin/generic/manage-docs-versions"
   }
 }

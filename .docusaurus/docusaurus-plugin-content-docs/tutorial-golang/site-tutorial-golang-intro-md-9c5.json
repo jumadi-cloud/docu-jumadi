@@ -7,7 +7,7 @@
   "source": "@site/tutorial/golang/intro.md",
   "sourceDirName": ".",
   "slug": "/intro",
-  "permalink": "/tutorial-golang/intro",
+  "permalink": "/docu-jumadi/tutorial-golang/intro",
   "version": "current",
   "sidebarPosition": 1,
   "frontMatter": {
@@ -16,6 +16,6 @@
   "sidebar": "tutorialSidebar",
   "next": {
     "title": "Manage Docs Versions",
-    "permalink": "/tutorial-golang/dasar/manage-docs-versions"
+    "permalink": "/docu-jumadi/tutorial-golang/dasar/manage-docs-versions"
   }
 }

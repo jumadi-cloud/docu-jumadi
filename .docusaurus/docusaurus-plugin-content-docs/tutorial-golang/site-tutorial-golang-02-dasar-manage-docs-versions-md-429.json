@@ -7,7 +7,7 @@
   "source": "@site/tutorial/golang/02-dasar/manage-docs-versions.md",
   "sourceDirName": "02-dasar",
   "slug": "/dasar/manage-docs-versions",
-  "permalink": "/tutorial-golang/dasar/manage-docs-versions",
+  "permalink": "/docu-jumadi/tutorial-golang/dasar/manage-docs-versions",
   "version": "current",
   "sidebarPosition": 1,
   "frontMatter": {
@@ -16,10 +16,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Go-Lang",
-    "permalink": "/tutorial-golang/intro"
+    "permalink": "/docu-jumadi/tutorial-golang/intro"
   },
   "next": {
     "title": "Translate your site",
-    "permalink": "/tutorial-golang/dasar/translate-your-site"
+    "permalink": "/docu-jumadi/tutorial-golang/dasar/translate-your-site"
   }
 }

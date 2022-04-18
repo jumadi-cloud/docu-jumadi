@@ -7,7 +7,7 @@
   "source": "@site/tutorial/java/01-dasar/09-tipe-data-string.md",
   "sourceDirName": "01-dasar",
   "slug": "/dasar/tipe-data-string",
-  "permalink": "/tutorial-java/dasar/tipe-data-string",
+  "permalink": "/docu-jumadi/tutorial-java/dasar/tipe-data-string",
   "version": "current",
   "sidebarPosition": 9,
   "frontMatter": {
@@ -16,10 +16,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Tipe Data Character",
-    "permalink": "/tutorial-java/dasar/tipe-data-character"
+    "permalink": "/docu-jumadi/tutorial-java/dasar/tipe-data-character"
   },
   "next": {
     "title": "Variable",
-    "permalink": "/tutorial-java/dasar/variable"
+    "permalink": "/docu-jumadi/tutorial-java/dasar/variable"
   }
 }

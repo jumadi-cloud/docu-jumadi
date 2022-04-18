@@ -7,7 +7,7 @@
   "source": "@site/tutorial/kotlin/02-dasar/create-a-blog-post.md",
   "sourceDirName": "02-dasar",
   "slug": "/dasar/create-a-blog-post",
-  "permalink": "/tutorial-kotlin/dasar/create-a-blog-post",
+  "permalink": "/docu-jumadi/tutorial-kotlin/dasar/create-a-blog-post",
   "version": "current",
   "sidebarPosition": 3,
   "frontMatter": {
@@ -16,10 +16,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Create a Document",
-    "permalink": "/tutorial-kotlin/dasar/create-a-document"
+    "permalink": "/docu-jumadi/tutorial-kotlin/dasar/create-a-document"
   },
   "next": {
     "title": "Markdown Features",
-    "permalink": "/tutorial-kotlin/dasar/markdown-features"
+    "permalink": "/docu-jumadi/tutorial-kotlin/dasar/markdown-features"
   }
 }

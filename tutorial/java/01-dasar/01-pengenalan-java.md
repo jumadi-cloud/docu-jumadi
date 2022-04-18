@@ -40,7 +40,7 @@ Secara garis besar, Java sendiri dibagi menjadi beberapa teknologi, yaitu :
 
 - Java Standard Edition. Ini adalah teknologi Java yang menjadi Standard semua teknologi Java. Dalam JSE terdapat semua fitur dasar yang ada di Java, seperti Database, Network, Input Output, Struktur Data, Desktop, dan lain-lain
 - Java Micro Edition. Ini adalah teknologi Java yang dikhususkan untuk membuat aplikasi Mobile. Namun teknologi ini sekarang sudah tidak terlalu populer karena sudah jarang orang menggunakan sistem operasi Symbian di handphone nya.
-- Java Enterprise Edition. Ini adalah teknologi Java yang dikhususkan sebagai improvement dari JSE untuk ditargetkan membuat  aplikasi skala enterprise (besar). Biasanya ini digunakan oleh perusahaan-perusahaan korporat
+- Java Enterprise Edition. Ini adalah teknologi Java yang dikhususkan sebagai improvement dari JSE untuk ditargetkan membuat aplikasi skala enterprise (besar). Biasanya ini digunakan oleh perusahaan-perusahaan korporat
 
 ## Versi Java
 

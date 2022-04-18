@@ -3,15 +3,15 @@
   "items": [
     {
       "title": "About",
-      "permalink": "/blog/About"
+      "permalink": "/docu-jumadi/blog/About"
     },
     {
       "title": "Work Experience",
-      "permalink": "/blog/hello-world"
+      "permalink": "/docu-jumadi/blog/hello-world"
     },
     {
       "title": "Education",
-      "permalink": "/blog/helo"
+      "permalink": "/docu-jumadi/blog/helo"
     }
   ]
 }

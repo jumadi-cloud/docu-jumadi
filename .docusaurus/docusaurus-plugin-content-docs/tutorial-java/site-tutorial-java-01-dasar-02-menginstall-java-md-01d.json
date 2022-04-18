@@ -7,7 +7,7 @@
   "source": "@site/tutorial/java/01-dasar/02-menginstall-java.md",
   "sourceDirName": "01-dasar",
   "slug": "/dasar/menginstall-java",
-  "permalink": "/tutorial-java/dasar/menginstall-java",
+  "permalink": "/docu-jumadi/tutorial-java/dasar/menginstall-java",
   "version": "current",
   "sidebarPosition": 2,
   "frontMatter": {
@@ -16,10 +16,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Pengenalan Java",
-    "permalink": "/tutorial-java/dasar/pengenalan-java"
+    "permalink": "/docu-jumadi/tutorial-java/dasar/pengenalan-java"
   },
   "next": {
     "title": "Integrated Development Environment",
-    "permalink": "/tutorial-java/dasar/integrated-development-environment"
+    "permalink": "/docu-jumadi/tutorial-java/dasar/integrated-development-environment"
   }
 }

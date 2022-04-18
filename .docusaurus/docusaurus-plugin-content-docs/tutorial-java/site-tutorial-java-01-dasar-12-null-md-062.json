@@ -7,7 +7,7 @@
   "source": "@site/tutorial/java/01-dasar/12-null.md",
   "sourceDirName": "01-dasar",
   "slug": "/dasar/null",
-  "permalink": "/tutorial-java/dasar/null",
+  "permalink": "/docu-jumadi/tutorial-java/dasar/null",
   "version": "current",
   "sidebarPosition": 12,
   "frontMatter": {
@@ -16,10 +16,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Tipe Data Bukan Primitif",
-    "permalink": "/tutorial-java/dasar/tipe-data-bukan-primitif"
+    "permalink": "/docu-jumadi/tutorial-java/dasar/tipe-data-bukan-primitif"
   },
   "next": {
     "title": "Tipe Data Array",
-    "permalink": "/tutorial-java/dasar/tipe-data-array"
+    "permalink": "/docu-jumadi/tutorial-java/dasar/tipe-data-array"
   }
 }

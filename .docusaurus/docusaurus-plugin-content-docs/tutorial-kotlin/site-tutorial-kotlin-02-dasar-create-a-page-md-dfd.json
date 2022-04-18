@@ -7,7 +7,7 @@
   "source": "@site/tutorial/kotlin/02-dasar/create-a-page.md",
   "sourceDirName": "02-dasar",
   "slug": "/dasar/create-a-page",
-  "permalink": "/tutorial-kotlin/dasar/create-a-page",
+  "permalink": "/docu-jumadi/tutorial-kotlin/dasar/create-a-page",
   "version": "current",
   "sidebarPosition": 1,
   "frontMatter": {
@@ -16,10 +16,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Kotlin",
-    "permalink": "/tutorial-kotlin/intro"
+    "permalink": "/docu-jumadi/tutorial-kotlin/intro"
   },
   "next": {
     "title": "Create a Document",
-    "permalink": "/tutorial-kotlin/dasar/create-a-document"
+    "permalink": "/docu-jumadi/tutorial-kotlin/dasar/create-a-document"
   }
 }

@@ -6,7 +6,7 @@ module.exports = {
   title: 'Kelas Awan Pintar',
   tagline: 'Buka Masa Depanmu Dengan Terus Belajar!',
   url: 'https://jumadi-cloud.github.io.git',
-  baseUrl: '/docu-jumadi',
+  baseUrl: '/docu-jumadi/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/kap.png',
@@ -70,30 +70,38 @@ module.exports = {
             //     to: '/tutorial-golang/intro',
             //     label: 'Go-Lang',
             // },
+            // {
+            //   to: '/tutorial-java/dasar/pengenalan-java',
+            //   label: 'Java',
+            // },
             {
-              to: '/tutorial-java/dasar/pengenalan-java',
-              label: 'Java',
-            },
-            {
-              to: '#',
+              to: '/tutorial-python/dasar/pengenalan-python',
               label: 'Python',
             },
-            {
-              to: '/tutorial-javascript/intro',
-              label: 'JavaScript',
-            },
+            // {
+            //   to: '/tutorial-javascript/intro',
+            //   label: 'JavaScript',
+            // },
             {
               to: '#',
               label: 'HTML',
             },
             {
               to: '#',
+              label: 'JavaScript',
+            },
+            {
+              to: '#',
               label: 'CSS',
             },
             {
-              to: '/tutorial-php/intro',
+              to: '#',
               label: 'PHP',
             },
+            // {
+            //   to: '/tutorial-php/intro',
+            //   label: 'PHP',
+            // },
             // {
             //     to: '/tutorial-javascript/intro',
             //     label: 'JavaScript',
@@ -131,9 +139,32 @@ module.exports = {
           ],
         },
 
+        // {
+        //   position: 'right',
+        //   label: 'Artificial Intelligence',
+        //   items: [
+        //     // {
+        //     //   to: '/tutorial-java/dasar/pengenalan-java',
+        //     //   label: 'Java',
+        //     // },
+        //     {
+        //       to: '#',
+        //       label: 'Machine Learning',
+        //     },
+        //     {
+        //       to: '#',
+        //       label: 'Deep Learning',
+        //     },
+        //     {
+        //       to: '#',
+        //       label: 'Neural Networks',
+        //     },
+        //   ],
+        // },
+
         {
           position: 'right',
-          label: 'Artificial Intelligence',
+          label: 'Teknologi',
           items: [
             // {
             //   to: '/tutorial-java/dasar/pengenalan-java',
@@ -141,15 +172,15 @@ module.exports = {
             // },
             {
               to: '#',
-              label: 'Machine Learning',
+              label: 'Artificial Intelligence',
             },
             {
               to: '#',
-              label: 'Deep Learning',
+              label: 'Github',
             },
             {
               to: '#',
-              label: 'Neural Networks',
+              label: 'Virtual environment',
             },
           ],
         },
@@ -324,6 +355,15 @@ module.exports = {
         id: 'tutorial-php',
         path: 'tutorial/php',
         routeBasePath: 'tutorial-php',
+        sidebarPath: require.resolve('./sidebars.js'),
+      },
+    ],
+    [
+      '@docusaurus/plugin-content-docs',
+      {
+        id: 'tutorial-python',
+        path: 'tutorial/python',
+        routeBasePath: 'tutorial-python',
         sidebarPath: require.resolve('./sidebars.js'),
       },
     ],

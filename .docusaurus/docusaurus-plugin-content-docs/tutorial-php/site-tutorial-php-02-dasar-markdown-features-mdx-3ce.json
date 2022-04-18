@@ -7,7 +7,7 @@
   "source": "@site/tutorial/php/02-dasar/markdown-features.mdx",
   "sourceDirName": "02-dasar",
   "slug": "/dasar/markdown-features",
-  "permalink": "/tutorial-php/dasar/markdown-features",
+  "permalink": "/docu-jumadi/tutorial-php/dasar/markdown-features",
   "version": "current",
   "sidebarPosition": 4,
   "frontMatter": {
@@ -16,10 +16,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Create a Blog Post",
-    "permalink": "/tutorial-php/dasar/create-a-blog-post"
+    "permalink": "/docu-jumadi/tutorial-php/dasar/create-a-blog-post"
   },
   "next": {
     "title": "Deploy your site",
-    "permalink": "/tutorial-php/dasar/deploy-your-site"
+    "permalink": "/docu-jumadi/tutorial-php/dasar/deploy-your-site"
   }
 }

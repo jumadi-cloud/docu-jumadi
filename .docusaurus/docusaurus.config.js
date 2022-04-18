@@ -1,13 +1,13 @@
 export default {
   "title": "Kelas Awan Pintar",
   "tagline": "Buka Masa Depanmu Dengan Terus Belajar!",
-  "url": "https://github.com/jumadi-cloud/docu-jumadi.git",
-  "baseUrl": "/",
+  "url": "https://jumadi-cloud.github.io.git",
+  "baseUrl": "/docu-jumadi/",
   "onBrokenLinks": "throw",
   "onBrokenMarkdownLinks": "warn",
   "favicon": "img/kap.png",
   "organizationName": "jumadi-cloud",
-  "projectName": "docu-tutorial",
+  "projectName": "docu-jumadi",
   "themeConfig": {
     "navbar": {
       "title": "Kelas Awan Pintar",
@@ -26,16 +26,8 @@ export default {
           "label": "Pemrograman",
           "items": [
             {
-              "to": "/tutorial-java/dasar/pengenalan-java",
-              "label": "Java"
-            },
-            {
-              "to": "#",
+              "to": "/tutorial-python/dasar/pengenalan-python",
               "label": "Python"
-            },
-            {
-              "to": "/tutorial-javascript/intro",
-              "label": "JavaScript"
             },
             {
               "to": "#",
@@ -43,10 +35,14 @@ export default {
             },
             {
               "to": "#",
+              "label": "JavaScript"
+            },
+            {
+              "to": "#",
               "label": "CSS"
             },
             {
-              "to": "/tutorial-php/intro",
+              "to": "#",
               "label": "PHP"
             }
           ]
@@ -71,19 +67,19 @@ export default {
         },
         {
           "position": "right",
-          "label": "Artificial Intelligence",
+          "label": "Teknologi",
           "items": [
             {
               "to": "#",
-              "label": "Machine Learning"
+              "label": "Artificial Intelligence"
             },
             {
               "to": "#",
-              "label": "Deep Learning"
+              "label": "Github"
             },
             {
               "to": "#",
-              "label": "Neural Networks"
+              "label": "Virtual environment"
             }
           ]
         },
@@ -365,7 +361,7 @@ export default {
       "@docusaurus/preset-classic",
       {
         "docs": {
-          "sidebarPath": "C:\\Users\\arief\\Downloads\\docu-jumadi\\sidebars.js",
+          "sidebarPath": "C:\\Users\\arief\\project\\docu-jumadi\\sidebars.js",
           "editUrl": "https://github.com/jumadi-cloud/docu-tutorial"
         },
         "blog": {
@@ -373,7 +369,7 @@ export default {
           "editUrl": "https://github.com/jumadi-cloud/docu-tutorial"
         },
         "theme": {
-          "customCss": "C:\\Users\\arief\\Downloads\\docu-jumadi\\src\\css\\custom.css"
+          "customCss": "C:\\Users\\arief\\project\\docu-jumadi\\src\\css\\custom.css"
         }
       }
     ]
@@ -385,7 +381,7 @@ export default {
         "id": "tutorial-golang",
         "path": "tutorial/golang",
         "routeBasePath": "tutorial-golang",
-        "sidebarPath": "C:\\Users\\arief\\Downloads\\docu-jumadi\\sidebars.js"
+        "sidebarPath": "C:\\Users\\arief\\project\\docu-jumadi\\sidebars.js"
       }
     ],
     [
@@ -394,7 +390,7 @@ export default {
         "id": "tutorial-java",
         "path": "tutorial/java",
         "routeBasePath": "tutorial-java",
-        "sidebarPath": "C:\\Users\\arief\\Downloads\\docu-jumadi\\sidebars.js"
+        "sidebarPath": "C:\\Users\\arief\\project\\docu-jumadi\\sidebars.js"
       }
     ],
     [
@@ -403,7 +399,7 @@ export default {
         "id": "tutorial-javascript",
         "path": "tutorial/javascript",
         "routeBasePath": "tutorial-javascript",
-        "sidebarPath": "C:\\Users\\arief\\Downloads\\docu-jumadi\\sidebars.js"
+        "sidebarPath": "C:\\Users\\arief\\project\\docu-jumadi\\sidebars.js"
       }
     ],
     [
@@ -412,7 +408,7 @@ export default {
         "id": "tutorial-kotlin",
         "path": "tutorial/kotlin",
         "routeBasePath": "tutorial-kotlin",
-        "sidebarPath": "C:\\Users\\arief\\Downloads\\docu-jumadi\\sidebars.js"
+        "sidebarPath": "C:\\Users\\arief\\project\\docu-jumadi\\sidebars.js"
       }
     ],
     [
@@ -421,7 +417,16 @@ export default {
         "id": "tutorial-php",
         "path": "tutorial/php",
         "routeBasePath": "tutorial-php",
-        "sidebarPath": "C:\\Users\\arief\\Downloads\\docu-jumadi\\sidebars.js"
+        "sidebarPath": "C:\\Users\\arief\\project\\docu-jumadi\\sidebars.js"
+      }
+    ],
+    [
+      "@docusaurus/plugin-content-docs",
+      {
+        "id": "tutorial-python",
+        "path": "tutorial/python",
+        "routeBasePath": "tutorial-python",
+        "sidebarPath": "C:\\Users\\arief\\project\\docu-jumadi\\sidebars.js"
       }
     ]
   ],

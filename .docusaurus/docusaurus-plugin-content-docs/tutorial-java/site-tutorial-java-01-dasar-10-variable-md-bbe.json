@@ -7,7 +7,7 @@
   "source": "@site/tutorial/java/01-dasar/10-variable.md",
   "sourceDirName": "01-dasar",
   "slug": "/dasar/variable",
-  "permalink": "/tutorial-java/dasar/variable",
+  "permalink": "/docu-jumadi/tutorial-java/dasar/variable",
   "version": "current",
   "sidebarPosition": 10,
   "frontMatter": {
@@ -16,10 +16,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Tipe Data String",
-    "permalink": "/tutorial-java/dasar/tipe-data-string"
+    "permalink": "/docu-jumadi/tutorial-java/dasar/tipe-data-string"
   },
   "next": {
     "title": "Tipe Data Bukan Primitif",
-    "permalink": "/tutorial-java/dasar/tipe-data-bukan-primitif"
+    "permalink": "/docu-jumadi/tutorial-java/dasar/tipe-data-bukan-primitif"
   }
 }

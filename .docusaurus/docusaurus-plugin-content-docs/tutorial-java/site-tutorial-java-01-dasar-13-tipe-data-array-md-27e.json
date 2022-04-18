@@ -7,7 +7,7 @@
   "source": "@site/tutorial/java/01-dasar/13-tipe-data-array.md",
   "sourceDirName": "01-dasar",
   "slug": "/dasar/tipe-data-array",
-  "permalink": "/tutorial-java/dasar/tipe-data-array",
+  "permalink": "/docu-jumadi/tutorial-java/dasar/tipe-data-array",
   "version": "current",
   "sidebarPosition": 13,
   "frontMatter": {
@@ -16,10 +16,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Null",
-    "permalink": "/tutorial-java/dasar/null"
+    "permalink": "/docu-jumadi/tutorial-java/dasar/null"
   },
   "next": {
     "title": "Operator Matematika",
-    "permalink": "/tutorial-java/dasar/operator-matematika"
+    "permalink": "/docu-jumadi/tutorial-java/dasar/operator-matematika"
   }
 }

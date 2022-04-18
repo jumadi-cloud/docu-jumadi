@@ -4,589 +4,625 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 
 export default [
   {
-    path: '/',
-    component: ComponentCreator('/','deb'),
+    path: '/docu-jumadi/',
+    component: ComponentCreator('/docu-jumadi/','7ca'),
     exact: true
   },
   {
-    path: '/__docusaurus/debug',
-    component: ComponentCreator('/__docusaurus/debug','3d6'),
+    path: '/docu-jumadi/__docusaurus/debug',
+    component: ComponentCreator('/docu-jumadi/__docusaurus/debug','fa3'),
     exact: true
   },
   {
-    path: '/__docusaurus/debug/config',
-    component: ComponentCreator('/__docusaurus/debug/config','914'),
+    path: '/docu-jumadi/__docusaurus/debug/config',
+    component: ComponentCreator('/docu-jumadi/__docusaurus/debug/config','50f'),
     exact: true
   },
   {
-    path: '/__docusaurus/debug/content',
-    component: ComponentCreator('/__docusaurus/debug/content','c28'),
+    path: '/docu-jumadi/__docusaurus/debug/content',
+    component: ComponentCreator('/docu-jumadi/__docusaurus/debug/content','45e'),
     exact: true
   },
   {
-    path: '/__docusaurus/debug/globalData',
-    component: ComponentCreator('/__docusaurus/debug/globalData','3cf'),
+    path: '/docu-jumadi/__docusaurus/debug/globalData',
+    component: ComponentCreator('/docu-jumadi/__docusaurus/debug/globalData','fd2'),
     exact: true
   },
   {
-    path: '/__docusaurus/debug/metadata',
-    component: ComponentCreator('/__docusaurus/debug/metadata','31b'),
+    path: '/docu-jumadi/__docusaurus/debug/metadata',
+    component: ComponentCreator('/docu-jumadi/__docusaurus/debug/metadata','7d4'),
     exact: true
   },
   {
-    path: '/__docusaurus/debug/registry',
-    component: ComponentCreator('/__docusaurus/debug/registry','0da'),
+    path: '/docu-jumadi/__docusaurus/debug/registry',
+    component: ComponentCreator('/docu-jumadi/__docusaurus/debug/registry','ccf'),
     exact: true
   },
   {
-    path: '/__docusaurus/debug/routes',
-    component: ComponentCreator('/__docusaurus/debug/routes','244'),
+    path: '/docu-jumadi/__docusaurus/debug/routes',
+    component: ComponentCreator('/docu-jumadi/__docusaurus/debug/routes','7f2'),
     exact: true
   },
   {
-    path: '/blog',
-    component: ComponentCreator('/blog','569'),
+    path: '/docu-jumadi/blog',
+    component: ComponentCreator('/docu-jumadi/blog','1ec'),
     exact: true
   },
   {
-    path: '/blog/About',
-    component: ComponentCreator('/blog/About','02e'),
+    path: '/docu-jumadi/blog/About',
+    component: ComponentCreator('/docu-jumadi/blog/About','ee2'),
     exact: true
   },
   {
-    path: '/blog/hello-world',
-    component: ComponentCreator('/blog/hello-world','07a'),
+    path: '/docu-jumadi/blog/hello-world',
+    component: ComponentCreator('/docu-jumadi/blog/hello-world','0e4'),
     exact: true
   },
   {
-    path: '/blog/helo',
-    component: ComponentCreator('/blog/helo','d0b'),
+    path: '/docu-jumadi/blog/helo',
+    component: ComponentCreator('/docu-jumadi/blog/helo','a0b'),
     exact: true
   },
   {
-    path: '/blog/tags',
-    component: ComponentCreator('/blog/tags','e13'),
+    path: '/docu-jumadi/blog/tags',
+    component: ComponentCreator('/docu-jumadi/blog/tags','ec9'),
     exact: true
   },
   {
-    path: '/blog/tags/education',
-    component: ComponentCreator('/blog/tags/education','84b'),
+    path: '/docu-jumadi/blog/tags/education',
+    component: ComponentCreator('/docu-jumadi/blog/tags/education','6cc'),
     exact: true
   },
   {
-    path: '/blog/tags/facebook',
-    component: ComponentCreator('/blog/tags/facebook','2fe'),
+    path: '/docu-jumadi/blog/tags/facebook',
+    component: ComponentCreator('/docu-jumadi/blog/tags/facebook','ad2'),
     exact: true
   },
   {
-    path: '/blog/tags/work-experience',
-    component: ComponentCreator('/blog/tags/work-experience','b85'),
+    path: '/docu-jumadi/blog/tags/work-experience',
+    component: ComponentCreator('/docu-jumadi/blog/tags/work-experience','5c4'),
     exact: true
   },
   {
-    path: '/kelas-online',
-    component: ComponentCreator('/kelas-online','e39'),
+    path: '/docu-jumadi/kelas-online',
+    component: ComponentCreator('/docu-jumadi/kelas-online','dc2'),
     exact: true
   },
   {
-    path: '/kelas-online/android',
-    component: ComponentCreator('/kelas-online/android','8ce'),
+    path: '/docu-jumadi/kelas-online/android',
+    component: ComponentCreator('/docu-jumadi/kelas-online/android','758'),
     exact: true
   },
   {
-    path: '/kelas-online/dart',
-    component: ComponentCreator('/kelas-online/dart','b4d'),
+    path: '/docu-jumadi/kelas-online/dart',
+    component: ComponentCreator('/docu-jumadi/kelas-online/dart','f6d'),
     exact: true
   },
   {
-    path: '/kelas-online/docker',
-    component: ComponentCreator('/kelas-online/docker','9b6'),
+    path: '/docu-jumadi/kelas-online/docker',
+    component: ComponentCreator('/docu-jumadi/kelas-online/docker','ddd'),
     exact: true
   },
   {
-    path: '/kelas-online/git',
-    component: ComponentCreator('/kelas-online/git','6db'),
+    path: '/docu-jumadi/kelas-online/git',
+    component: ComponentCreator('/docu-jumadi/kelas-online/git','127'),
     exact: true
   },
   {
-    path: '/kelas-online/golang',
-    component: ComponentCreator('/kelas-online/golang','532'),
+    path: '/docu-jumadi/kelas-online/golang',
+    component: ComponentCreator('/docu-jumadi/kelas-online/golang','4ff'),
     exact: true
   },
   {
-    path: '/kelas-online/http',
-    component: ComponentCreator('/kelas-online/http','b56'),
+    path: '/docu-jumadi/kelas-online/http',
+    component: ComponentCreator('/docu-jumadi/kelas-online/http','49d'),
     exact: true
   },
   {
-    path: '/kelas-online/java',
-    component: ComponentCreator('/kelas-online/java','c04'),
+    path: '/docu-jumadi/kelas-online/java',
+    component: ComponentCreator('/docu-jumadi/kelas-online/java','2fa'),
     exact: true
   },
   {
-    path: '/kelas-online/javascript',
-    component: ComponentCreator('/kelas-online/javascript','ef2'),
+    path: '/docu-jumadi/kelas-online/javascript',
+    component: ComponentCreator('/docu-jumadi/kelas-online/javascript','5ca'),
     exact: true
   },
   {
-    path: '/kelas-online/kotlin',
-    component: ComponentCreator('/kelas-online/kotlin','81c'),
+    path: '/docu-jumadi/kelas-online/kotlin',
+    component: ComponentCreator('/docu-jumadi/kelas-online/kotlin','b2b'),
     exact: true
   },
   {
-    path: '/kelas-online/mysql',
-    component: ComponentCreator('/kelas-online/mysql','5f6'),
+    path: '/docu-jumadi/kelas-online/mysql',
+    component: ComponentCreator('/docu-jumadi/kelas-online/mysql','4b6'),
     exact: true
   },
   {
-    path: '/kelas-online/nodejs',
-    component: ComponentCreator('/kelas-online/nodejs','9a0'),
+    path: '/docu-jumadi/kelas-online/nodejs',
+    component: ComponentCreator('/docu-jumadi/kelas-online/nodejs','b49'),
     exact: true
   },
   {
-    path: '/kelas-online/openapi',
-    component: ComponentCreator('/kelas-online/openapi','8ec'),
+    path: '/docu-jumadi/kelas-online/openapi',
+    component: ComponentCreator('/docu-jumadi/kelas-online/openapi','34c'),
     exact: true
   },
   {
-    path: '/kelas-online/php',
-    component: ComponentCreator('/kelas-online/php','ee0'),
+    path: '/docu-jumadi/kelas-online/php',
+    component: ComponentCreator('/docu-jumadi/kelas-online/php','fca'),
     exact: true
   },
   {
-    path: '/kelas-online/restful-api',
-    component: ComponentCreator('/kelas-online/restful-api','c7e'),
+    path: '/docu-jumadi/kelas-online/restful-api',
+    component: ComponentCreator('/docu-jumadi/kelas-online/restful-api','bd9'),
     exact: true
   },
   {
-    path: '/kelas-online/spring-boot',
-    component: ComponentCreator('/kelas-online/spring-boot','a2d'),
+    path: '/docu-jumadi/kelas-online/spring-boot',
+    component: ComponentCreator('/docu-jumadi/kelas-online/spring-boot','2eb'),
     exact: true
   },
   {
-    path: '/kelas-online/spring-boot-design-patterns',
-    component: ComponentCreator('/kelas-online/spring-boot-design-patterns','cc1'),
+    path: '/docu-jumadi/kelas-online/spring-boot-design-patterns',
+    component: ComponentCreator('/docu-jumadi/kelas-online/spring-boot-design-patterns','11e'),
     exact: true
   },
   {
-    path: '/markdown-page',
-    component: ComponentCreator('/markdown-page','be1'),
+    path: '/docu-jumadi/markdown-page',
+    component: ComponentCreator('/docu-jumadi/markdown-page','62b'),
     exact: true
   },
   {
-    path: '/promo',
-    component: ComponentCreator('/promo','b1d'),
+    path: '/docu-jumadi/promo',
+    component: ComponentCreator('/docu-jumadi/promo','889'),
     exact: true
   },
   {
-    path: '/docs',
-    component: ComponentCreator('/docs','87d'),
+    path: '/docu-jumadi/docs',
+    component: ComponentCreator('/docu-jumadi/docs','3f7'),
     routes: [
       {
-        path: '/docs/intro',
-        component: ComponentCreator('/docs/intro','aed'),
+        path: '/docu-jumadi/docs/intro',
+        component: ComponentCreator('/docu-jumadi/docs/intro','893'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/docs/tutorial-basics/congratulations',
-        component: ComponentCreator('/docs/tutorial-basics/congratulations','793'),
+        path: '/docu-jumadi/docs/tutorial-basics/congratulations',
+        component: ComponentCreator('/docu-jumadi/docs/tutorial-basics/congratulations','91f'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/docs/tutorial-basics/create-a-blog-post',
-        component: ComponentCreator('/docs/tutorial-basics/create-a-blog-post','68e'),
+        path: '/docu-jumadi/docs/tutorial-basics/create-a-blog-post',
+        component: ComponentCreator('/docu-jumadi/docs/tutorial-basics/create-a-blog-post','9dd'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/docs/tutorial-basics/create-a-document',
-        component: ComponentCreator('/docs/tutorial-basics/create-a-document','c2d'),
+        path: '/docu-jumadi/docs/tutorial-basics/create-a-document',
+        component: ComponentCreator('/docu-jumadi/docs/tutorial-basics/create-a-document','667'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/docs/tutorial-basics/create-a-page',
-        component: ComponentCreator('/docs/tutorial-basics/create-a-page','f44'),
+        path: '/docu-jumadi/docs/tutorial-basics/create-a-page',
+        component: ComponentCreator('/docu-jumadi/docs/tutorial-basics/create-a-page','d56'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/docs/tutorial-basics/deploy-your-site',
-        component: ComponentCreator('/docs/tutorial-basics/deploy-your-site','e46'),
+        path: '/docu-jumadi/docs/tutorial-basics/deploy-your-site',
+        component: ComponentCreator('/docu-jumadi/docs/tutorial-basics/deploy-your-site','a1a'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/docs/tutorial-basics/markdown-features',
-        component: ComponentCreator('/docs/tutorial-basics/markdown-features','4b7'),
+        path: '/docu-jumadi/docs/tutorial-basics/markdown-features',
+        component: ComponentCreator('/docu-jumadi/docs/tutorial-basics/markdown-features','dbe'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/docs/tutorial-extras/manage-docs-versions',
-        component: ComponentCreator('/docs/tutorial-extras/manage-docs-versions','fdd'),
+        path: '/docu-jumadi/docs/tutorial-extras/manage-docs-versions',
+        component: ComponentCreator('/docu-jumadi/docs/tutorial-extras/manage-docs-versions','786'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/docs/tutorial-extras/translate-your-site',
-        component: ComponentCreator('/docs/tutorial-extras/translate-your-site','2d7'),
+        path: '/docu-jumadi/docs/tutorial-extras/translate-your-site',
+        component: ComponentCreator('/docu-jumadi/docs/tutorial-extras/translate-your-site','d39'),
         exact: true,
         'sidebar': "tutorialSidebar"
       }
     ]
   },
   {
-    path: '/tutorial-golang',
-    component: ComponentCreator('/tutorial-golang','6b1'),
+    path: '/docu-jumadi/tutorial-golang',
+    component: ComponentCreator('/docu-jumadi/tutorial-golang','c7f'),
     routes: [
       {
-        path: '/tutorial-golang/dasar/manage-docs-versions',
-        component: ComponentCreator('/tutorial-golang/dasar/manage-docs-versions','84f'),
+        path: '/docu-jumadi/tutorial-golang/dasar/manage-docs-versions',
+        component: ComponentCreator('/docu-jumadi/tutorial-golang/dasar/manage-docs-versions','b66'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/tutorial-golang/dasar/translate-your-site',
-        component: ComponentCreator('/tutorial-golang/dasar/translate-your-site','814'),
+        path: '/docu-jumadi/tutorial-golang/dasar/translate-your-site',
+        component: ComponentCreator('/docu-jumadi/tutorial-golang/dasar/translate-your-site','b9f'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/tutorial-golang/intro',
-        component: ComponentCreator('/tutorial-golang/intro','6af'),
+        path: '/docu-jumadi/tutorial-golang/intro',
+        component: ComponentCreator('/docu-jumadi/tutorial-golang/intro','41d'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/tutorial-golang/modules/congratulations',
-        component: ComponentCreator('/tutorial-golang/modules/congratulations','b99'),
+        path: '/docu-jumadi/tutorial-golang/modules/congratulations',
+        component: ComponentCreator('/docu-jumadi/tutorial-golang/modules/congratulations','7a1'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/tutorial-golang/modules/create-a-blog-post',
-        component: ComponentCreator('/tutorial-golang/modules/create-a-blog-post','5a3'),
+        path: '/docu-jumadi/tutorial-golang/modules/create-a-blog-post',
+        component: ComponentCreator('/docu-jumadi/tutorial-golang/modules/create-a-blog-post','3df'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/tutorial-golang/modules/create-a-document',
-        component: ComponentCreator('/tutorial-golang/modules/create-a-document','593'),
+        path: '/docu-jumadi/tutorial-golang/modules/create-a-document',
+        component: ComponentCreator('/docu-jumadi/tutorial-golang/modules/create-a-document','4f6'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/tutorial-golang/modules/create-a-page',
-        component: ComponentCreator('/tutorial-golang/modules/create-a-page','27f'),
+        path: '/docu-jumadi/tutorial-golang/modules/create-a-page',
+        component: ComponentCreator('/docu-jumadi/tutorial-golang/modules/create-a-page','82e'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/tutorial-golang/modules/deploy-your-site',
-        component: ComponentCreator('/tutorial-golang/modules/deploy-your-site','68f'),
+        path: '/docu-jumadi/tutorial-golang/modules/deploy-your-site',
+        component: ComponentCreator('/docu-jumadi/tutorial-golang/modules/deploy-your-site','813'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/tutorial-golang/modules/markdown-features',
-        component: ComponentCreator('/tutorial-golang/modules/markdown-features','00c'),
+        path: '/docu-jumadi/tutorial-golang/modules/markdown-features',
+        component: ComponentCreator('/docu-jumadi/tutorial-golang/modules/markdown-features','9cd'),
         exact: true,
         'sidebar': "tutorialSidebar"
       }
     ]
   },
   {
-    path: '/tutorial-java',
-    component: ComponentCreator('/tutorial-java','468'),
+    path: '/docu-jumadi/tutorial-java',
+    component: ComponentCreator('/docu-jumadi/tutorial-java','f85'),
     routes: [
       {
-        path: '/tutorial-java/dasar/integrated-development-environment',
-        component: ComponentCreator('/tutorial-java/dasar/integrated-development-environment','012'),
+        path: '/docu-jumadi/tutorial-java/dasar/integrated-development-environment',
+        component: ComponentCreator('/docu-jumadi/tutorial-java/dasar/integrated-development-environment','5de'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/tutorial-java/dasar/komentar',
-        component: ComponentCreator('/tutorial-java/dasar/komentar','2e1'),
+        path: '/docu-jumadi/tutorial-java/dasar/komentar',
+        component: ComponentCreator('/docu-jumadi/tutorial-java/dasar/komentar','daa'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/tutorial-java/dasar/menginstall-java',
-        component: ComponentCreator('/tutorial-java/dasar/menginstall-java','d22'),
+        path: '/docu-jumadi/tutorial-java/dasar/menginstall-java',
+        component: ComponentCreator('/docu-jumadi/tutorial-java/dasar/menginstall-java','3a2'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/tutorial-java/dasar/null',
-        component: ComponentCreator('/tutorial-java/dasar/null','4de'),
+        path: '/docu-jumadi/tutorial-java/dasar/null',
+        component: ComponentCreator('/docu-jumadi/tutorial-java/dasar/null','a90'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/tutorial-java/dasar/operator-matematika',
-        component: ComponentCreator('/tutorial-java/dasar/operator-matematika','362'),
+        path: '/docu-jumadi/tutorial-java/dasar/operator-matematika',
+        component: ComponentCreator('/docu-jumadi/tutorial-java/dasar/operator-matematika','ca4'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/tutorial-java/dasar/pengenalan-java',
-        component: ComponentCreator('/tutorial-java/dasar/pengenalan-java','ae8'),
+        path: '/docu-jumadi/tutorial-java/dasar/pengenalan-java',
+        component: ComponentCreator('/docu-jumadi/tutorial-java/dasar/pengenalan-java','12b'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/tutorial-java/dasar/program-hello-world',
-        component: ComponentCreator('/tutorial-java/dasar/program-hello-world','fdd'),
+        path: '/docu-jumadi/tutorial-java/dasar/program-hello-world',
+        component: ComponentCreator('/docu-jumadi/tutorial-java/dasar/program-hello-world','80a'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/tutorial-java/dasar/tipe-data-array',
-        component: ComponentCreator('/tutorial-java/dasar/tipe-data-array','77f'),
+        path: '/docu-jumadi/tutorial-java/dasar/tipe-data-array',
+        component: ComponentCreator('/docu-jumadi/tutorial-java/dasar/tipe-data-array','70f'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/tutorial-java/dasar/tipe-data-boolean',
-        component: ComponentCreator('/tutorial-java/dasar/tipe-data-boolean','a03'),
+        path: '/docu-jumadi/tutorial-java/dasar/tipe-data-boolean',
+        component: ComponentCreator('/docu-jumadi/tutorial-java/dasar/tipe-data-boolean','1c1'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/tutorial-java/dasar/tipe-data-bukan-primitif',
-        component: ComponentCreator('/tutorial-java/dasar/tipe-data-bukan-primitif','5b1'),
+        path: '/docu-jumadi/tutorial-java/dasar/tipe-data-bukan-primitif',
+        component: ComponentCreator('/docu-jumadi/tutorial-java/dasar/tipe-data-bukan-primitif','96e'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/tutorial-java/dasar/tipe-data-character',
-        component: ComponentCreator('/tutorial-java/dasar/tipe-data-character','3f0'),
+        path: '/docu-jumadi/tutorial-java/dasar/tipe-data-character',
+        component: ComponentCreator('/docu-jumadi/tutorial-java/dasar/tipe-data-character','dd1'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/tutorial-java/dasar/tipe-data-number',
-        component: ComponentCreator('/tutorial-java/dasar/tipe-data-number','f40'),
+        path: '/docu-jumadi/tutorial-java/dasar/tipe-data-number',
+        component: ComponentCreator('/docu-jumadi/tutorial-java/dasar/tipe-data-number','2a8'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/tutorial-java/dasar/tipe-data-string',
-        component: ComponentCreator('/tutorial-java/dasar/tipe-data-string','2f0'),
+        path: '/docu-jumadi/tutorial-java/dasar/tipe-data-string',
+        component: ComponentCreator('/docu-jumadi/tutorial-java/dasar/tipe-data-string','22a'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/tutorial-java/dasar/variable',
-        component: ComponentCreator('/tutorial-java/dasar/variable','fa6'),
+        path: '/docu-jumadi/tutorial-java/dasar/variable',
+        component: ComponentCreator('/docu-jumadi/tutorial-java/dasar/variable','778'),
         exact: true,
         'sidebar': "tutorialSidebar"
       }
     ]
   },
   {
-    path: '/tutorial-javascript',
-    component: ComponentCreator('/tutorial-javascript','36c'),
+    path: '/docu-jumadi/tutorial-javascript',
+    component: ComponentCreator('/docu-jumadi/tutorial-javascript','79d'),
     routes: [
       {
-        path: '/tutorial-javascript/dasar/congratulations',
-        component: ComponentCreator('/tutorial-javascript/dasar/congratulations','494'),
+        path: '/docu-jumadi/tutorial-javascript/dasar/congratulations',
+        component: ComponentCreator('/docu-jumadi/tutorial-javascript/dasar/congratulations','20a'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/tutorial-javascript/dasar/create-a-blog-post',
-        component: ComponentCreator('/tutorial-javascript/dasar/create-a-blog-post','754'),
+        path: '/docu-jumadi/tutorial-javascript/dasar/create-a-blog-post',
+        component: ComponentCreator('/docu-jumadi/tutorial-javascript/dasar/create-a-blog-post','42a'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/tutorial-javascript/dasar/create-a-document',
-        component: ComponentCreator('/tutorial-javascript/dasar/create-a-document','ff4'),
+        path: '/docu-jumadi/tutorial-javascript/dasar/create-a-document',
+        component: ComponentCreator('/docu-jumadi/tutorial-javascript/dasar/create-a-document','c78'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/tutorial-javascript/dasar/create-a-page',
-        component: ComponentCreator('/tutorial-javascript/dasar/create-a-page','769'),
+        path: '/docu-jumadi/tutorial-javascript/dasar/create-a-page',
+        component: ComponentCreator('/docu-jumadi/tutorial-javascript/dasar/create-a-page','2a2'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/tutorial-javascript/dasar/deploy-your-site',
-        component: ComponentCreator('/tutorial-javascript/dasar/deploy-your-site','657'),
+        path: '/docu-jumadi/tutorial-javascript/dasar/deploy-your-site',
+        component: ComponentCreator('/docu-jumadi/tutorial-javascript/dasar/deploy-your-site','244'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/tutorial-javascript/dasar/markdown-features',
-        component: ComponentCreator('/tutorial-javascript/dasar/markdown-features','077'),
+        path: '/docu-jumadi/tutorial-javascript/dasar/markdown-features',
+        component: ComponentCreator('/docu-jumadi/tutorial-javascript/dasar/markdown-features','3c9'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/tutorial-javascript/intro',
-        component: ComponentCreator('/tutorial-javascript/intro','847'),
+        path: '/docu-jumadi/tutorial-javascript/intro',
+        component: ComponentCreator('/docu-jumadi/tutorial-javascript/intro','440'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/tutorial-javascript/oop/manage-docs-versions',
-        component: ComponentCreator('/tutorial-javascript/oop/manage-docs-versions','801'),
+        path: '/docu-jumadi/tutorial-javascript/oop/manage-docs-versions',
+        component: ComponentCreator('/docu-jumadi/tutorial-javascript/oop/manage-docs-versions','776'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/tutorial-javascript/oop/translate-your-site',
-        component: ComponentCreator('/tutorial-javascript/oop/translate-your-site','3d1'),
+        path: '/docu-jumadi/tutorial-javascript/oop/translate-your-site',
+        component: ComponentCreator('/docu-jumadi/tutorial-javascript/oop/translate-your-site','dc0'),
         exact: true,
         'sidebar': "tutorialSidebar"
       }
     ]
   },
   {
-    path: '/tutorial-kotlin',
-    component: ComponentCreator('/tutorial-kotlin','4dd'),
+    path: '/docu-jumadi/tutorial-kotlin',
+    component: ComponentCreator('/docu-jumadi/tutorial-kotlin','4f6'),
     routes: [
       {
-        path: '/tutorial-kotlin/collection/manage-docs-versions',
-        component: ComponentCreator('/tutorial-kotlin/collection/manage-docs-versions','1e8'),
+        path: '/docu-jumadi/tutorial-kotlin/collection/manage-docs-versions',
+        component: ComponentCreator('/docu-jumadi/tutorial-kotlin/collection/manage-docs-versions','923'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/tutorial-kotlin/collection/translate-your-site',
-        component: ComponentCreator('/tutorial-kotlin/collection/translate-your-site','342'),
+        path: '/docu-jumadi/tutorial-kotlin/collection/translate-your-site',
+        component: ComponentCreator('/docu-jumadi/tutorial-kotlin/collection/translate-your-site','34f'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/tutorial-kotlin/dasar/congratulations',
-        component: ComponentCreator('/tutorial-kotlin/dasar/congratulations','c51'),
+        path: '/docu-jumadi/tutorial-kotlin/dasar/congratulations',
+        component: ComponentCreator('/docu-jumadi/tutorial-kotlin/dasar/congratulations','96a'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/tutorial-kotlin/dasar/create-a-blog-post',
-        component: ComponentCreator('/tutorial-kotlin/dasar/create-a-blog-post','6f6'),
+        path: '/docu-jumadi/tutorial-kotlin/dasar/create-a-blog-post',
+        component: ComponentCreator('/docu-jumadi/tutorial-kotlin/dasar/create-a-blog-post','d47'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/tutorial-kotlin/dasar/create-a-document',
-        component: ComponentCreator('/tutorial-kotlin/dasar/create-a-document','674'),
+        path: '/docu-jumadi/tutorial-kotlin/dasar/create-a-document',
+        component: ComponentCreator('/docu-jumadi/tutorial-kotlin/dasar/create-a-document','c08'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/tutorial-kotlin/dasar/create-a-page',
-        component: ComponentCreator('/tutorial-kotlin/dasar/create-a-page','d39'),
+        path: '/docu-jumadi/tutorial-kotlin/dasar/create-a-page',
+        component: ComponentCreator('/docu-jumadi/tutorial-kotlin/dasar/create-a-page','483'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/tutorial-kotlin/dasar/deploy-your-site',
-        component: ComponentCreator('/tutorial-kotlin/dasar/deploy-your-site','eb3'),
+        path: '/docu-jumadi/tutorial-kotlin/dasar/deploy-your-site',
+        component: ComponentCreator('/docu-jumadi/tutorial-kotlin/dasar/deploy-your-site','708'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/tutorial-kotlin/dasar/markdown-features',
-        component: ComponentCreator('/tutorial-kotlin/dasar/markdown-features','6c9'),
+        path: '/docu-jumadi/tutorial-kotlin/dasar/markdown-features',
+        component: ComponentCreator('/docu-jumadi/tutorial-kotlin/dasar/markdown-features','f6f'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/tutorial-kotlin/generic/manage-docs-versions',
-        component: ComponentCreator('/tutorial-kotlin/generic/manage-docs-versions','3eb'),
+        path: '/docu-jumadi/tutorial-kotlin/generic/manage-docs-versions',
+        component: ComponentCreator('/docu-jumadi/tutorial-kotlin/generic/manage-docs-versions','21a'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/tutorial-kotlin/generic/translate-your-site',
-        component: ComponentCreator('/tutorial-kotlin/generic/translate-your-site','fa3'),
+        path: '/docu-jumadi/tutorial-kotlin/generic/translate-your-site',
+        component: ComponentCreator('/docu-jumadi/tutorial-kotlin/generic/translate-your-site','d7d'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/tutorial-kotlin/intro',
-        component: ComponentCreator('/tutorial-kotlin/intro','b56'),
+        path: '/docu-jumadi/tutorial-kotlin/intro',
+        component: ComponentCreator('/docu-jumadi/tutorial-kotlin/intro','009'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/tutorial-kotlin/oop/manage-docs-versions',
-        component: ComponentCreator('/tutorial-kotlin/oop/manage-docs-versions','bbc'),
+        path: '/docu-jumadi/tutorial-kotlin/oop/manage-docs-versions',
+        component: ComponentCreator('/docu-jumadi/tutorial-kotlin/oop/manage-docs-versions','0d8'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/tutorial-kotlin/oop/translate-your-site',
-        component: ComponentCreator('/tutorial-kotlin/oop/translate-your-site','24e'),
+        path: '/docu-jumadi/tutorial-kotlin/oop/translate-your-site',
+        component: ComponentCreator('/docu-jumadi/tutorial-kotlin/oop/translate-your-site','392'),
         exact: true,
         'sidebar': "tutorialSidebar"
       }
     ]
   },
   {
-    path: '/tutorial-php',
-    component: ComponentCreator('/tutorial-php','85f'),
+    path: '/docu-jumadi/tutorial-php',
+    component: ComponentCreator('/docu-jumadi/tutorial-php','f75'),
     routes: [
       {
-        path: '/tutorial-php/dasar/congratulations',
-        component: ComponentCreator('/tutorial-php/dasar/congratulations','1e0'),
+        path: '/docu-jumadi/tutorial-php/dasar/congratulations',
+        component: ComponentCreator('/docu-jumadi/tutorial-php/dasar/congratulations','2d5'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/tutorial-php/dasar/create-a-blog-post',
-        component: ComponentCreator('/tutorial-php/dasar/create-a-blog-post','2d4'),
+        path: '/docu-jumadi/tutorial-php/dasar/create-a-blog-post',
+        component: ComponentCreator('/docu-jumadi/tutorial-php/dasar/create-a-blog-post','8c3'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/tutorial-php/dasar/create-a-document',
-        component: ComponentCreator('/tutorial-php/dasar/create-a-document','0ff'),
+        path: '/docu-jumadi/tutorial-php/dasar/create-a-document',
+        component: ComponentCreator('/docu-jumadi/tutorial-php/dasar/create-a-document','7c9'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/tutorial-php/dasar/create-a-page',
-        component: ComponentCreator('/tutorial-php/dasar/create-a-page','8a1'),
+        path: '/docu-jumadi/tutorial-php/dasar/create-a-page',
+        component: ComponentCreator('/docu-jumadi/tutorial-php/dasar/create-a-page','65a'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/tutorial-php/dasar/deploy-your-site',
-        component: ComponentCreator('/tutorial-php/dasar/deploy-your-site','003'),
+        path: '/docu-jumadi/tutorial-php/dasar/deploy-your-site',
+        component: ComponentCreator('/docu-jumadi/tutorial-php/dasar/deploy-your-site','271'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/tutorial-php/dasar/markdown-features',
-        component: ComponentCreator('/tutorial-php/dasar/markdown-features','894'),
+        path: '/docu-jumadi/tutorial-php/dasar/markdown-features',
+        component: ComponentCreator('/docu-jumadi/tutorial-php/dasar/markdown-features','2bd'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/tutorial-php/intro',
-        component: ComponentCreator('/tutorial-php/intro','629'),
+        path: '/docu-jumadi/tutorial-php/intro',
+        component: ComponentCreator('/docu-jumadi/tutorial-php/intro','74c'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/tutorial-php/oop/manage-docs-versions',
-        component: ComponentCreator('/tutorial-php/oop/manage-docs-versions','2a4'),
+        path: '/docu-jumadi/tutorial-php/oop/manage-docs-versions',
+        component: ComponentCreator('/docu-jumadi/tutorial-php/oop/manage-docs-versions','b20'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/tutorial-php/oop/translate-your-site',
-        component: ComponentCreator('/tutorial-php/oop/translate-your-site','bfe'),
+        path: '/docu-jumadi/tutorial-php/oop/translate-your-site',
+        component: ComponentCreator('/docu-jumadi/tutorial-php/oop/translate-your-site','ff3'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      }
+    ]
+  },
+  {
+    path: '/docu-jumadi/tutorial-python',
+    component: ComponentCreator('/docu-jumadi/tutorial-python','7c7'),
+    routes: [
+      {
+        path: '/docu-jumadi/tutorial-python/dasar/integrated-development-environment',
+        component: ComponentCreator('/docu-jumadi/tutorial-python/dasar/integrated-development-environment','258'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/docu-jumadi/tutorial-python/dasar/komentar',
+        component: ComponentCreator('/docu-jumadi/tutorial-python/dasar/komentar','39e'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/docu-jumadi/tutorial-python/dasar/menginstall-python-with-anaconda',
+        component: ComponentCreator('/docu-jumadi/tutorial-python/dasar/menginstall-python-with-anaconda','d9c'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/docu-jumadi/tutorial-python/dasar/pengenalan-python',
+        component: ComponentCreator('/docu-jumadi/tutorial-python/dasar/pengenalan-python','fb0'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/docu-jumadi/tutorial-python/dasar/program-hello-world',
+        component: ComponentCreator('/docu-jumadi/tutorial-python/dasar/program-hello-world','c10'),
         exact: true,
         'sidebar': "tutorialSidebar"
       }

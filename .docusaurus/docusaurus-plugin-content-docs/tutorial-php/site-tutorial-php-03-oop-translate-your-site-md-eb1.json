@@ -7,7 +7,7 @@
   "source": "@site/tutorial/php/03-oop/translate-your-site.md",
   "sourceDirName": "03-oop",
   "slug": "/oop/translate-your-site",
-  "permalink": "/tutorial-php/oop/translate-your-site",
+  "permalink": "/docu-jumadi/tutorial-php/oop/translate-your-site",
   "version": "current",
   "sidebarPosition": 2,
   "frontMatter": {
@@ -16,6 +16,6 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Manage Docs Versions",
-    "permalink": "/tutorial-php/oop/manage-docs-versions"
+    "permalink": "/docu-jumadi/tutorial-php/oop/manage-docs-versions"
   }
 }

@@ -13,72 +13,72 @@
           {
             "type": "link",
             "label": "Pengenalan Java",
-            "href": "/tutorial-java/dasar/pengenalan-java"
+            "href": "/docu-jumadi/tutorial-java/dasar/pengenalan-java"
           },
           {
             "type": "link",
             "label": "Menginstall Java",
-            "href": "/tutorial-java/dasar/menginstall-java"
+            "href": "/docu-jumadi/tutorial-java/dasar/menginstall-java"
           },
           {
             "type": "link",
             "label": "Integrated Development Environment",
-            "href": "/tutorial-java/dasar/integrated-development-environment"
+            "href": "/docu-jumadi/tutorial-java/dasar/integrated-development-environment"
           },
           {
             "type": "link",
             "label": "Program Hello World",
-            "href": "/tutorial-java/dasar/program-hello-world"
+            "href": "/docu-jumadi/tutorial-java/dasar/program-hello-world"
           },
           {
             "type": "link",
             "label": "Komentar",
-            "href": "/tutorial-java/dasar/komentar"
+            "href": "/docu-jumadi/tutorial-java/dasar/komentar"
           },
           {
             "type": "link",
             "label": "Tipe Data Number",
-            "href": "/tutorial-java/dasar/tipe-data-number"
+            "href": "/docu-jumadi/tutorial-java/dasar/tipe-data-number"
           },
           {
             "type": "link",
             "label": "Tipe Data Boolean",
-            "href": "/tutorial-java/dasar/tipe-data-boolean"
+            "href": "/docu-jumadi/tutorial-java/dasar/tipe-data-boolean"
           },
           {
             "type": "link",
             "label": "Tipe Data Character",
-            "href": "/tutorial-java/dasar/tipe-data-character"
+            "href": "/docu-jumadi/tutorial-java/dasar/tipe-data-character"
           },
           {
             "type": "link",
             "label": "Tipe Data String",
-            "href": "/tutorial-java/dasar/tipe-data-string"
+            "href": "/docu-jumadi/tutorial-java/dasar/tipe-data-string"
           },
           {
             "type": "link",
             "label": "Variable",
-            "href": "/tutorial-java/dasar/variable"
+            "href": "/docu-jumadi/tutorial-java/dasar/variable"
           },
           {
             "type": "link",
             "label": "Tipe Data Bukan Primitif",
-            "href": "/tutorial-java/dasar/tipe-data-bukan-primitif"
+            "href": "/docu-jumadi/tutorial-java/dasar/tipe-data-bukan-primitif"
           },
           {
             "type": "link",
             "label": "Null",
-            "href": "/tutorial-java/dasar/null"
+            "href": "/docu-jumadi/tutorial-java/dasar/null"
           },
           {
             "type": "link",
             "label": "Tipe Data Array",
-            "href": "/tutorial-java/dasar/tipe-data-array"
+            "href": "/docu-jumadi/tutorial-java/dasar/tipe-data-array"
           },
           {
             "type": "link",
             "label": "Operator Matematika",
-            "href": "/tutorial-java/dasar/operator-matematika"
+            "href": "/docu-jumadi/tutorial-java/dasar/operator-matematika"
           }
         ],
         "collapsed": true,

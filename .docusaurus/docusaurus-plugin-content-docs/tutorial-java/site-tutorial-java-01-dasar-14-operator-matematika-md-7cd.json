@@ -7,7 +7,7 @@
   "source": "@site/tutorial/java/01-dasar/14-operator-matematika.md",
   "sourceDirName": "01-dasar",
   "slug": "/dasar/operator-matematika",
-  "permalink": "/tutorial-java/dasar/operator-matematika",
+  "permalink": "/docu-jumadi/tutorial-java/dasar/operator-matematika",
   "version": "current",
   "sidebarPosition": 14,
   "frontMatter": {
@@ -16,6 +16,6 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Tipe Data Array",
-    "permalink": "/tutorial-java/dasar/tipe-data-array"
+    "permalink": "/docu-jumadi/tutorial-java/dasar/tipe-data-array"
   }
 }

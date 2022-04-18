@@ -7,7 +7,7 @@
   "source": "@site/tutorial/javascript/03-oop/manage-docs-versions.md",
   "sourceDirName": "03-oop",
   "slug": "/oop/manage-docs-versions",
-  "permalink": "/tutorial-javascript/oop/manage-docs-versions",
+  "permalink": "/docu-jumadi/tutorial-javascript/oop/manage-docs-versions",
   "version": "current",
   "sidebarPosition": 1,
   "frontMatter": {
@@ -16,10 +16,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Congratulations!",
-    "permalink": "/tutorial-javascript/dasar/congratulations"
+    "permalink": "/docu-jumadi/tutorial-javascript/dasar/congratulations"
   },
   "next": {
     "title": "Translate your site",
-    "permalink": "/tutorial-javascript/oop/translate-your-site"
+    "permalink": "/docu-jumadi/tutorial-javascript/oop/translate-your-site"
   }
 }

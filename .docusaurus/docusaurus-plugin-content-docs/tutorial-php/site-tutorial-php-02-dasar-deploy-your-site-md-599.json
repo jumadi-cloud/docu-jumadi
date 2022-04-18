@@ -7,7 +7,7 @@
   "source": "@site/tutorial/php/02-dasar/deploy-your-site.md",
   "sourceDirName": "02-dasar",
   "slug": "/dasar/deploy-your-site",
-  "permalink": "/tutorial-php/dasar/deploy-your-site",
+  "permalink": "/docu-jumadi/tutorial-php/dasar/deploy-your-site",
   "version": "current",
   "sidebarPosition": 5,
   "frontMatter": {
@@ -16,10 +16,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Markdown Features",
-    "permalink": "/tutorial-php/dasar/markdown-features"
+    "permalink": "/docu-jumadi/tutorial-php/dasar/markdown-features"
   },
   "next": {
     "title": "Congratulations!",
-    "permalink": "/tutorial-php/dasar/congratulations"
+    "permalink": "/docu-jumadi/tutorial-php/dasar/congratulations"
   }
 }
