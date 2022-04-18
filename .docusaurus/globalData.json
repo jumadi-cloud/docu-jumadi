@@ -59,124 +59,6 @@
         }
       ]
     },
-    "tutorial-javascript": {
-      "path": "/docu-jumadi/tutorial-javascript",
-      "versions": [
-        {
-          "name": "current",
-          "label": "Next",
-          "isLast": true,
-          "path": "/docu-jumadi/tutorial-javascript",
-          "mainDocId": "intro",
-          "docs": [
-            {
-              "id": "dasar/congratulations",
-              "path": "/docu-jumadi/tutorial-javascript/dasar/congratulations",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "dasar/create-a-blog-post",
-              "path": "/docu-jumadi/tutorial-javascript/dasar/create-a-blog-post",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "dasar/create-a-document",
-              "path": "/docu-jumadi/tutorial-javascript/dasar/create-a-document",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "dasar/create-a-page",
-              "path": "/docu-jumadi/tutorial-javascript/dasar/create-a-page",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "dasar/deploy-your-site",
-              "path": "/docu-jumadi/tutorial-javascript/dasar/deploy-your-site",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "dasar/markdown-features",
-              "path": "/docu-jumadi/tutorial-javascript/dasar/markdown-features",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "intro",
-              "path": "/docu-jumadi/tutorial-javascript/intro",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "oop/manage-docs-versions",
-              "path": "/docu-jumadi/tutorial-javascript/oop/manage-docs-versions",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "oop/translate-your-site",
-              "path": "/docu-jumadi/tutorial-javascript/oop/translate-your-site",
-              "sidebar": "tutorialSidebar"
-            }
-          ]
-        }
-      ]
-    },
-    "tutorial-php": {
-      "path": "/docu-jumadi/tutorial-php",
-      "versions": [
-        {
-          "name": "current",
-          "label": "Next",
-          "isLast": true,
-          "path": "/docu-jumadi/tutorial-php",
-          "mainDocId": "intro",
-          "docs": [
-            {
-              "id": "dasar/congratulations",
-              "path": "/docu-jumadi/tutorial-php/dasar/congratulations",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "dasar/create-a-blog-post",
-              "path": "/docu-jumadi/tutorial-php/dasar/create-a-blog-post",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "dasar/create-a-document",
-              "path": "/docu-jumadi/tutorial-php/dasar/create-a-document",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "dasar/create-a-page",
-              "path": "/docu-jumadi/tutorial-php/dasar/create-a-page",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "dasar/deploy-your-site",
-              "path": "/docu-jumadi/tutorial-php/dasar/deploy-your-site",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "dasar/markdown-features",
-              "path": "/docu-jumadi/tutorial-php/dasar/markdown-features",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "intro",
-              "path": "/docu-jumadi/tutorial-php/intro",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "oop/manage-docs-versions",
-              "path": "/docu-jumadi/tutorial-php/oop/manage-docs-versions",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "oop/translate-your-site",
-              "path": "/docu-jumadi/tutorial-php/oop/translate-your-site",
-              "sidebar": "tutorialSidebar"
-            }
-          ]
-        }
-      ]
-    },
     "tutorial-golang": {
       "path": "/docu-jumadi/tutorial-golang",
       "versions": [
@@ -320,39 +202,59 @@
         }
       ]
     },
-    "tutorial-python": {
-      "path": "/docu-jumadi/tutorial-python",
+    "tutorial-php": {
+      "path": "/docu-jumadi/tutorial-php",
       "versions": [
         {
           "name": "current",
           "label": "Next",
           "isLast": true,
-          "path": "/docu-jumadi/tutorial-python",
-          "mainDocId": "dasar/pengenalan-python",
+          "path": "/docu-jumadi/tutorial-php",
+          "mainDocId": "intro",
           "docs": [
             {
-              "id": "dasar/integrated-development-environment",
-              "path": "/docu-jumadi/tutorial-python/dasar/integrated-development-environment",
+              "id": "dasar/congratulations",
+              "path": "/docu-jumadi/tutorial-php/dasar/congratulations",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "dasar/komentar",
-              "path": "/docu-jumadi/tutorial-python/dasar/komentar",
+              "id": "dasar/create-a-blog-post",
+              "path": "/docu-jumadi/tutorial-php/dasar/create-a-blog-post",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "dasar/menginstall-python-with-anaconda",
-              "path": "/docu-jumadi/tutorial-python/dasar/menginstall-python-with-anaconda",
+              "id": "dasar/create-a-document",
+              "path": "/docu-jumadi/tutorial-php/dasar/create-a-document",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "dasar/pengenalan-python",
-              "path": "/docu-jumadi/tutorial-python/dasar/pengenalan-python",
+              "id": "dasar/create-a-page",
+              "path": "/docu-jumadi/tutorial-php/dasar/create-a-page",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "dasar/program-hello-world",
-              "path": "/docu-jumadi/tutorial-python/dasar/program-hello-world",
+              "id": "dasar/deploy-your-site",
+              "path": "/docu-jumadi/tutorial-php/dasar/deploy-your-site",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "dasar/markdown-features",
+              "path": "/docu-jumadi/tutorial-php/dasar/markdown-features",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "intro",
+              "path": "/docu-jumadi/tutorial-php/intro",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "oop/manage-docs-versions",
+              "path": "/docu-jumadi/tutorial-php/oop/manage-docs-versions",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "oop/translate-your-site",
+              "path": "/docu-jumadi/tutorial-php/oop/translate-your-site",
               "sidebar": "tutorialSidebar"
             }
           ]
@@ -432,6 +334,104 @@
             {
               "id": "oop/translate-your-site",
               "path": "/docu-jumadi/tutorial-kotlin/oop/translate-your-site",
+              "sidebar": "tutorialSidebar"
+            }
+          ]
+        }
+      ]
+    },
+    "tutorial-javascript": {
+      "path": "/docu-jumadi/tutorial-javascript",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/docu-jumadi/tutorial-javascript",
+          "mainDocId": "intro",
+          "docs": [
+            {
+              "id": "dasar/congratulations",
+              "path": "/docu-jumadi/tutorial-javascript/dasar/congratulations",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "dasar/create-a-blog-post",
+              "path": "/docu-jumadi/tutorial-javascript/dasar/create-a-blog-post",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "dasar/create-a-document",
+              "path": "/docu-jumadi/tutorial-javascript/dasar/create-a-document",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "dasar/create-a-page",
+              "path": "/docu-jumadi/tutorial-javascript/dasar/create-a-page",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "dasar/deploy-your-site",
+              "path": "/docu-jumadi/tutorial-javascript/dasar/deploy-your-site",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "dasar/markdown-features",
+              "path": "/docu-jumadi/tutorial-javascript/dasar/markdown-features",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "intro",
+              "path": "/docu-jumadi/tutorial-javascript/intro",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "oop/manage-docs-versions",
+              "path": "/docu-jumadi/tutorial-javascript/oop/manage-docs-versions",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "oop/translate-your-site",
+              "path": "/docu-jumadi/tutorial-javascript/oop/translate-your-site",
+              "sidebar": "tutorialSidebar"
+            }
+          ]
+        }
+      ]
+    },
+    "tutorial-python": {
+      "path": "/docu-jumadi/tutorial-python",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/docu-jumadi/tutorial-python",
+          "mainDocId": "dasar/pengenalan-python",
+          "docs": [
+            {
+              "id": "dasar/integrated-development-environment",
+              "path": "/docu-jumadi/tutorial-python/dasar/integrated-development-environment",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "dasar/komentar",
+              "path": "/docu-jumadi/tutorial-python/dasar/komentar",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "dasar/menginstall-python-with-anaconda",
+              "path": "/docu-jumadi/tutorial-python/dasar/menginstall-python-with-anaconda",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "dasar/pengenalan-python",
+              "path": "/docu-jumadi/tutorial-python/dasar/pengenalan-python",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "dasar/program-hello-world",
+              "path": "/docu-jumadi/tutorial-python/dasar/program-hello-world",
               "sidebar": "tutorialSidebar"
             }
           ]
