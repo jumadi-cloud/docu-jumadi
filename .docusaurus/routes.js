@@ -9,41 +9,6 @@ export default [
     exact: true
   },
   {
-    path: '/docu-jumadi/__docusaurus/debug',
-    component: ComponentCreator('/docu-jumadi/__docusaurus/debug','fa3'),
-    exact: true
-  },
-  {
-    path: '/docu-jumadi/__docusaurus/debug/config',
-    component: ComponentCreator('/docu-jumadi/__docusaurus/debug/config','50f'),
-    exact: true
-  },
-  {
-    path: '/docu-jumadi/__docusaurus/debug/content',
-    component: ComponentCreator('/docu-jumadi/__docusaurus/debug/content','45e'),
-    exact: true
-  },
-  {
-    path: '/docu-jumadi/__docusaurus/debug/globalData',
-    component: ComponentCreator('/docu-jumadi/__docusaurus/debug/globalData','fd2'),
-    exact: true
-  },
-  {
-    path: '/docu-jumadi/__docusaurus/debug/metadata',
-    component: ComponentCreator('/docu-jumadi/__docusaurus/debug/metadata','7d4'),
-    exact: true
-  },
-  {
-    path: '/docu-jumadi/__docusaurus/debug/registry',
-    component: ComponentCreator('/docu-jumadi/__docusaurus/debug/registry','ccf'),
-    exact: true
-  },
-  {
-    path: '/docu-jumadi/__docusaurus/debug/routes',
-    component: ComponentCreator('/docu-jumadi/__docusaurus/debug/routes','7f2'),
-    exact: true
-  },
-  {
     path: '/docu-jumadi/blog',
     component: ComponentCreator('/docu-jumadi/blog','1ec'),
     exact: true
