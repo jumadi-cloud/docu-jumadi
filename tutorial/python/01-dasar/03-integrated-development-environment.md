@@ -4,36 +4,41 @@ sidebar_position: 3
 
 # Integrated Development Environment
 
-Membuat Aplikasi Java sangat disarankan menggunakan IDE (Integrated Development Environment). IDE adalah sebuah code editor pintar yang lebih dari sekedar text editor. IDE memiliki kemampuan untuk melakukan code management, kompilasi kode program secara otomatis, sampai bisa digunakan untuk membuat distribution file dari kode program Java yang kita buat.
+Membuat Aplikasi Python sangat disarankan menggunakan IDE (Integrated Development Environment). IDE adalah sebuah code editor pintar yang lebih dari sekedar text editor. IDE memiliki kemampuan untuk melakukan code management, kompilasi kode program secara otomatis, sampai bisa digunakan untuk membuat distribution file dari kode program Python yang kita buat.
 
-Ada banyak sekali pilihan IDE yang bisa kita gunakan untuk membuat aplikasi menggunakan Java. Dari IDE yang OpenSource dan Gratis, sampai IDE yang berbayar.
+Ada banyak sekali pilihan IDE yang bisa kita gunakan untuk membuat aplikasi menggunakan Python. Dari IDE yang OpenSource dan IDE yang berbayar.
 
-## IntelliJ IDEA
+## Python IDLE
 
-IntellIJ IDEA adalah IDE buatan perusahaan JetBrains. Ini adalah IDE yang paling populer digunakan di dunia profesional Java. IntelliJ IDEA sendiri tersedia dalam dua versi. Versi community yang gratis, dan versi ultimate yang berbayar. Untuk belajar Java, kita bisa gunakan versi community yang gratis nya. Namun untuk kerja profesional, direkomendasikan menggunakan versi ultimate nya.
+IDLE (Integrated DeveLopment Environment) adalah editor bawaan Python yang bisa digunakan untuk menuliskan kode Python.
+yang telah digabungkan dengan implementasi default bahasa sejak 1.5.2b1. Ini dikemas sebagai bagian dari Python dengan banyak distribusi Linux. Ini ditulis dengan Python dan toolkit GUI Tkinter
 
-Kita bisa download IntelliJ IDEA Community di website nya : [https://www.jetbrains.com/idea/](https://www.jetbrains.com/idea/)
+Kita bisa download Python IDLE di website nya : [https://www.python.org/downloads/](https://www.python.org/downloads/)
 
-## NetBeans IDE
+## Spyder
 
-NetBeans adalah IDE Java yang sangat populer dikalangan pembuat aplikasi Java Desktop. Hal ini dikarenakan NetBeans memiliki fitur GUI Builder yang paling bagus diantara semua IDE Java. Jika teman-teman ingin membuat aplikasi Java berbasis Desktop. Saya rekomendasikan menggunakan NetBeans IDE.
+Spyder adalah development environment terintegrasi ilmiah yang ditulis dengan python. Software ini dirancang untuk dan oleh para data scientist yang terintegrasi dengan beberapa library python seperti Matplotlib, SciPy, NumPy, Pandas, Cython, IPython, SymPy, dan software open source lainnya dan Spyder termasuk dalam Distribusi Anaconda
 
-NetBeans IDE bisa di download secara gratis di websitenya : [https://netbeans.apache.org/](https://netbeans.apache.org/)
+Spyder bisa di download secara gratis di websitenya : [https://www.spyder-ide.org/](https://www.spyder-ide.org/)
 
-## Eclipse IDE
+## PyCharm
 
-Selain NetBeans dan IntelliJ IDEA, ada juga IDE lain bernama Eclipse. Eclipse dikenal dengan IDE yang sangat cepat dibanding IDE Java lainnya. Eclipse juga merupakan IDE yang gratis dan opensource seperti NetBeans. Jadi teman-teman tidak perlu membayar untuk menggunakannya.
+PyCharm adalah lingkungan pengembangan terintegrasi yang digunakan dalam pemrograman komputer, khusus untuk bahasa Python. Aplikasi ini dikembangkan oleh sebuah perusahaan yang berasal dari Ceko bernama JetBrains.[Wikipedia](https://id.wikipedia.org/wiki/PyCharm)
 
-Eclipse IDE untuk Java bisa di download di halaman websitenya : [https://www.eclipse.org/downloads/packages/](https://www.eclipse.org/downloads/packages/)
+PyCharm bisa di download di halaman websitenya : [https://www.jetbrains.com/pycharm/](https://www.jetbrains.com/pycharm/)
+
+## Jupyter Notebook
+
+Jupyter Notebook adalah aplikasi web asli untuk membuat dan berbagi dokumen komputasi. Ini menawarkan pengalaman yang sederhana, efisien, dan berpusat pada dokumen dan Jupyter Notebook termasuk dalam Distribusi Anaconda. [Jupyter](https://jupyter.org/)
+
+Jupyter Notebook bisa di download di halaman websitenya : [https://jupyter.org/](https://jupyter.org/)
 
 ## Visual Studio Code
 
-Sebenarnya Visual Studio Code bukanlah IDE melainkan Text Editor. Kemampuannya tidak secanggih IDE seperti IntelliJ IDEA, NetBeans atau Eclipse. Namun untuk belajar Java bagi pemula, Visual Studio Code pun cukup bisa diandalkan. Selain itu Visual Studio Code sudah pasti lebih ringan dibandingkan IDE lainnya.
+Sebenarnya Visual Studio Code bukanlah IDE melainkan Text Editor. Kemampuannya tidak secanggih IDE seperti Python IDLE, PyCharm atau Spyder. Namun untuk belajar Python bagi pemula, Visual Studio Code pun cukup bisa diandalkan. Selain itu Visual Studio Code sudah pasti lebih ringan.
 
 Visual Studio Code bisa di download di halaman websitenya : [https://code.visualstudio.com](https://code.visualstudio.com)
 
-Dan agar Visual Studio Code mendukung Java, kita bisa menginstall extension Java : [https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-pack](https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-pack)
+#### Jika teman-teman menginstall IDE yang teman-teman sukai. Berarti sekarang kita sudah siap untuk melanjutkan belajar Python
 
----
-
-Setelah teman-teman menginstall IDE yang teman-teman sukai. Sekarang saatnya kita mulai belajar pemrograman Java
+Dalam tutorial kali ini penulis akan mengunakan Integrated Development Environment Jupyter Notebook.

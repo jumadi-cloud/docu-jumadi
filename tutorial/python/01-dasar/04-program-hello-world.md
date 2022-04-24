@@ -4,84 +4,216 @@ sidebar_position: 4
 
 # Program Hello World
 
-Saat belajar bahasa pemrograman, biasanya kita akan membuat sebuah program Hello World. Program Hello World adalah sebuah program sederhana yang hanya menampilkan tulisan Hello World. Dan pada tutorial ini, kita akan mencoba membuat program Hello World menggunakan Java
+Saat belajar bahasa pemrograman, biasanya kita akan membuat sebuah program Hello World. Program Hello World adalah sebuah program sederhana yang hanya menampilkan tulisan Hello World. Dan sebelum kita belajar lebih lanjut pada tutorial ini, kita harus mengetahui Ekstensi File Python dan Aturan Penulisan Statement Pada Basic Python.
 
-## File Java
+Sekarang saatnya membuat program <i>Hello World.</i> Dimulai dengan membuat file Python, silahkan buat file Python dengan nama KelasAwanPintar.py (INGAT JANGAN BUAT FILE BERBEDA), pastikan hurup besar kecilnya harus sama.
 
-Sebelum kita membuat kode program Java, kita perlu tahu beberapa hal tentang tata cara pembuatan file Java.
+Selanjutnya, setelah membuat file KelasAwanPintar.py, silahkan buka menggunakan IDE atau Text Editor dan Dalam tutorial ini menggunakan IDE jupyter-notebook.
 
-- File kode program Java disimpan dalam file dengan ekstensi .java, misal Eko.java, Kurniawan.java, Programmer.java dan lain-lain
-- Penamaan file Java itu biasanya mengikuti format PascalCase (tiap awal kata selalu hurup kapital). Misal, EkoKurniawan.java, ProgramHelloWorld.java, ProgrammerZamanNow.java, AplikasiPenjualan.java, AplikasiOjekOnline.java dan lain-lain
-- Dilarang ada spasi dalam penamaan file Java
+Teman-teman Isi kode Python nya dengan kode sebagai berikut.
 
-## Program Hello World
+<i>Jika teman-teman tidak mengalamahi error, berarti bagus. Teman-teman susah mengikuti tutorialnya dengan baik. Namun jika ternyata ada error, berarti teman-teman kurang jeli mengikuti tutorial nya. Berikut saya bahas beberapa error yang sering terjadi.</i>
 
-Sekarang saatnya membuat program Hello World. Dimulai dengan membuat file Java, silahkan buat file Java dengan nama ProgramHelloWorld.java (INGAT JANGAN BUAT FILE BERBEDA), pastikan hurup besar kecilnya harus sama.
+## File Python
 
-Selanjutnya, setelah membuat file ProgramHelloWorld.java, silahkan buka menggunakan IDE atau Text Editor. Isi kode Java nya dengan kode sebagai berikut.
+Sebelum kita membuat kode program Python, kita perlu tahu beberapa hal tentang tata cara pembuatan file Python.
 
-```java title="ProgramHelloWorld.java"
-public class ProgramHelloWorld {
+- File kode program Python disimpan dalam file dengan ekstensi .py, misal Kelas.py, Awan.py, Pintar.py dan lain-lain
 
-}
+## Aturan Penulisan Statement Pada Basic Python
+
+1. Penulisan satu statement di dalam Python tidak diakhiri dengan tanda titik-koma.
+2. Statement pada Pyhton dinyatakan dalam satu baris. Jadi akhir dari sebuah pernyataan adalah baris baru (new line).
+3. Jika ada pernyataan yang panjangnya terdiri lebih dari 1 baris, maka dapat dilakukan dengan menggunakan tanda backslash (\).
+4. Statement yang ada di dalam atau diapit oleh tanda kurung seperti "[],{},()" tidak memerlukan tanda "".
+5. Python menggunakan tanda indentasi (spasi) sebagai penanda blok. Panjang spasi atau indentasi untuk setiap baris yang ada dalam satu blok kode harus sama. Bila spasi atau indentasi dalam satu grup kode tersebut tidak sama, python akan menamplikan sintaks error.
+6. Sebaga penanda string, Python menggunakan tanda kutip, baik tunggal ('), maupun ganda("). Tanda kutip tiga(""") digunakan untuk string multibaris.
+7. Bahasa Python bersifat case sensitif, yang berarti membedakan huruf besar dan huruf kecil (memiliki nilai yang berbeda).
+8. Untuk komentar di awali dengan tanda "#" yang artinya tidak diproses sebagai statement code.
+
+### Aturan Penulisan Statement Pada Basic Python Yang
+
+#### 1. Penulisan satu statement di dalam Python tidak diakhiri dengan tanda titik-koma
+
+```py title="KelasAwanPintar.py"
+print ("Hello Word")
+print("panjang = 100")
+print('lebar = 23')
+
+# Pada kode diatas kita membuat sebuah program sederhana. Teman-teman sekarang coba diikuti dulu.
+
+# Jika sukses, maka akan menghasilkan output dari syntax diatas
+
+Hello Word
+panjang = 100
+lebar = 23
 ```
 
-Pada kode diatas kita membuat sebuah public class bernama ProgramHelloWorld. Bentar, apa itu public class? Teman-teman tidak perlu tahu dulu untuk sekarang, ini akan kita bahas nanti di materi Java Object Oriented Programming. Untuk sekarang tinggal diikuti dulu saja.
+#### 2. Statement pada Pyhton dinyatakan dalam satu baris. Jadi akhir dari sebuah pernyataan adalah baris baru (new line).
 
-Nama public class nya harus sama dengan nama file. Jika nama file sebelumnya yang kita buat adalah ProgramHelloWorld, maka nama public class nya harus ProgramHelloWorld. Besar kecilnya harus sama karena Java adalah bahasa pemrograman yang case sensitive (artinya huruf besar dan kecil dianggap berbeda).
+Selanjutnya kita isi kode Python nya dengan kode sebagai berikut.
 
-Selanjutnya kita akan menambahkan sebuah main method. Main adalah sebuah bagian kode program yang akan dieksekusi oleh Java ketika pertama kali program Java berjalan.
+```py title="KelasAwanPintar.py"
+print("luas = panjang * lebar")
+print('luas = panjang * lebar')
 
-```java title="ProgramHelloWorld.java"
-public class ProgramHelloWorld {
+# Pada kode diatas kita membuat sebuah program sederhana. Teman-teman sekarang coba diikuti dulu.
 
-  public static void main(String[] args) {
-
-    
-
-  }
-
-}
+# Jika sukses, maka akan menghasilkan output dari syntax diatas
+luas = panjang * lebar
+luas = panjang * lebar
 ```
 
-Ada banyak istilah diatas mungkin yang asing, seperti apa itu static? void? main? String[] args? dan lain-lain. Sampai saat ini teman-teman cukup ikuti saja. Nanti sambil berjalan teman-teman akan tiap istilah yang kita ketikkan diatas.
+#### 3. Jika ada pernyataan yang panjangnya terdiri lebih dari 1 baris, maka dapat dilakukan dengan menggunakan tanda backslash (\).
 
-Di dalam kurung kurawal buka dan kurung kurawal tutup main method diatas lah. Kode program kita perlu kita tempatkan. Jadi selanjutnya setiap teman-teman membuat program Java, teman-teman akan selalu melakukan hal diatas.
+Selanjutnya kita isi kode Python nya dengan kode sebagai berikut.
 
-- Membuat public class yang sama dengan nama file Java, dan
-- Membuat main method seperti pada kode diatas
+```py title="KelasAwanPintar.py"
+print("volume = panjang * lebar *\
+ tinggi")
 
-Selanjutnya jika kita ingin membuat tulisan, kita bisa menggunakan kode System.out.println("Isi Kode"); Dimana "Isi Kode" bisa kita ganti dengan tulisan yang akan kita keluarkan, misal "Hello World".
+ # Pada kode diatas kita membuat sebuah program sederhana. Teman-teman sekarang coba diikuti dulu.
 
-```java title="ProgramHelloWorld.java"
-public class ProgramHelloWorld {
-
-  public static void main(String[] args) {
-
-    System.out.println("Hello World");
-
-  }
-
-}
+ # Jika sukses, maka akan menghasilkan output dari syntax diatas
+ volume = panjang * lebar * tinggi
 ```
 
-Kode program Java selalu diakhiri dengan ; (titik koma). Mirip seperti bahasa pemrograman C, PHP dan JavaScript. Jika kita tidak menambah titik koma, maka secara otomatis akan Error
+#### 4. Statement yang ada di dalam atau diapit oleh tanda kurung seperti "[],{},()" tidak memerlukan tanda "".
 
-Sekarang kita sudah selesai membuat program Hello World. Selanjutnya kita perlu lakukan kompilasi agar menjadi binary file Java menggunakan JDK, baru nanti file binary file Java tersebut bisa kita jalankan menggunakan JRE.
+Selanjutnya kita isi kode Python nya dengan kode sebagai berikut.
 
-## Kompilasi Kode Java
+```py title="KelasAwanPintar.py"
+  nama_hari = ['Senin','Selasa','Rabu','Kamis','Jumat','Sabtu']
+  print(nama_hari)
 
-Setelah membuat program Hello World, selanjutnya kita perlu melakukan kompilasi menggunakan JDK. Untuk melakukan kompilasi, teman-teman bisa buka terminal / command line. Lalu silahkan masuk ke folder dimana kita menyimpan kode program Java nya.
+  # Pada kode diatas kita membuat sebuah program sederhana. Teman-teman sekarang coba diikuti dulu.
 
-Untuk melakukan kompilasi, kita bisa menggunakan perintah javac lalu diikuti dengan nama file Java nya, misalnya : javac ProgramHelloWorld.java
+  # Jika sukses, maka akan menghasilkan output dari syntax diatas
+  ['Senin', 'Selasa', 'Rabu', 'Kamis', 'Jumat', 'Sabtu']
+```
+
+#### 5. Python menggunakan tanda indentasi (spasi) sebagai penanda blok. Panjang spasi atau indentasi untuk setiap baris yang ada dalam satu blok kode harus sama. Bila spasi atau indentasi dalam satu grup kode tersebut tidak sama, python akan menamplikan sintaks error.
+
+Selanjutnya kita isi kode Python nya dengan kode sebagai berikut.
+
+```py title="KelasAwanPintar.py"
+usia = 7
+if usia >= 7:
+    print("diterima masuk SD")
+    print("dinyatakan lulus")
+else:
+    print("tidak diterima masuk SD")
+    print("dinyatakan gagal")
+
+    # Pada kode diatas kita membuat sebuah program sederhana. Teman-teman sekarang coba diikuti dulu.
+
+    # Jika sukses, maka akan menghasilkan output dari syntax diatas
+    diterima masuk sd
+    dinyatakan lulus
+```
+
+#### 6. Sebaga penanda string, Python menggunakan tanda kutip, baik tunggal ('), maupun ganda("). Tanda kutip tiga(""") digunakan untuk string multibaris.
+
+Selanjutnya kita isi kode Python nya dengan kode sebagai berikut.
+
+```py title="KelasAwanPintar.py"
+namadepan = 'Kelas'
+namalengkap = "Kelas Awan Pintar"
+alinea = """Berikut ini adalah alinea
+yang terdiri dari beberapa baris."""
+print(namadepan)
+print(namalengkap)
+print(alinea)
+
+# Pada kode diatas kita membuat sebuah program sederhana. Teman-teman sekarang coba diikuti dulu.
+
+# Jika sukses, maka akan menghasilkan output dari syntax diatas
+Kelas
+Kelas Awan Pintar
+Berikut ini adalah alinea
+yang terdiri dari beberapa baris.
+```
+
+#### 7. Bahasa Python bersifat case sensitif, yang berarti membedakan huruf besar dan huruf kecil (memiliki nilai yang berbeda).
+
+Selanjutnya kita isi kode Python nya dengan kode sebagai berikut.
+
+```py title="KelasAwanPintar.py"
+# Contoh statement yang benar
+luas = 15*3
+print(luas)
+
+# Jika sukses, maka akan menghasilkan output dari syntax diatas
+45
+
+# Pada kode diatas kita membuat sebuah program sederhana. Teman-teman sekarang coba diikuti dulu.
+
+# Contoh statement yang salah
+#luas = 15*3
+#Print(luas)
+#PRINT(luas)
+```
+
+#### 8. Untuk komentar di awali dengan tanda "#" yang artinya tidak diproses sebagai statement code.
+
+Selanjutnya kita isi kode Python nya dengan kode sebagai berikut.
+
+```py title="KelasAwanPintar.py"
+# panjang = 15
+# lebar = 3
+# luas = (panjang*lebar)
+# print(luas)
+
+# Pada kode diatas kita membuat sebuah program sederhana. Teman-teman sekarang coba diikuti dulu.
+```
+
+### Error : Lupa dengan tanda titik-koma
 
 ```shell
-javac ProgramHelloWorld.java
+File "<ipython-input-1-15e524463a94>", line 1
+    print (hello word)
+                    ^
+SyntaxError: invalid syntax
 ```
 
-Jika sukses, maka akan ada file baru dengan nama file sama, namun extensinya adalah .class, misal ProgramHelloWorld.class. Ini adalah binary file Java. File ini tidak akan bisa dibuka oleh Text Editor, hanya bisa dijalankan oleh JRE.
+Jika terjadi error seperti diatas, berarti Syntax Error.
+Syntax Error adalah suatu keadaan saat kode python mengalami kesalahan penulisan.
+Python interpreter dapat mendeteksi kesalahan ini saat kode dieksekusi.
 
-## Error Saat Kompilasi Kode Java
+### Error : Lupa dengan tanda titik-koma1
+
+```shell
+File "<ipython-input-2-f7de7ca50565>", line 2
+print("panjang = 100)
+^
+SyntaxError: EOL while scanning string literal
+```
+
+EOL adalah singkatan dari " End of line ,"
+Ada kesalahan Sintaks berarti bahwa kami tidak mengikuti pedoman Pemrograman Python.
+
+Di Python biasanya terjadi beberapa kasus diantaranya
+Tanda kutip hilang, kutipan yang tidak cocok, Menggunakan garis miring terbalik
+sebelum tanda kutip akhir, String yang merentang beberapa baris menggunakan sintaks yang salah
+
+### Error saat kompilasi kode Python pada Statement pada Pyhton dinyatakan dalam satu baris. Jadi akhir dari sebuah pernyataan adalah baris baru (new line).
+
+```shell
+#print(luas = panjang * lebar)
+
+ameError                                 Traceback (most recent call last)
+<ipython-input-12-389fc960dc39> in <module>()
+----> 1 print(luas = panjang * lebar)
+
+NameError: name 'panjang' is not defined
+===================================================================================
+Jika terjadi error seperti diatas, berarti.
+Variable panjang tidak didefinisikan atau tidak dikenal.
+Sedangkan variabel yang berusaha kita panggil adalah "luas = panjang * lebar".
+===================================================================================
+```
+
+<!-- ## Error Saat Kompilasi Kode Java
 
 Jika teman-teman tidak mengalamahi error, berarti bagus. Teman-teman susah mengikuti tutorialnya dengan baik. Namun jika ternyata ada error, berarti teman-teman kurang jeli mengikuti tutorial nya. Berikut saya bahas beberapa error yang sering terjadi.
 
@@ -125,7 +257,7 @@ Jika mengalami error seperti diatas. Berarti kita lupa menambahkan tanda ; (titi
 Jika sudah sukses melakukan kompilasi, saatnya menjalankan file hasil kompilasinya dengan extensi .class menggunakan JRE. Untuk menjalankan file binary tersebut, kita bisa menggunakan perintah java diikuti dengan nama file nya, namun tidak perlu menambahkan ekstensi .class nya, misal : java ProgramHelloWorld
 
 ```shell
-java ProgramHelloWorld 
+java ProgramHelloWorld
 Hello World
 ```
 
@@ -148,7 +280,7 @@ Jika kita mendapatkan error seperti diatas, artinya kita salah mengetikkan nama 
 ### Error : Main Method Tidak Ditemukan
 
 ```shell
-java ProgramHelloWorld 
+java ProgramHelloWorld
 Error: Main method not found in class ProgramHelloWorld, please define the main method as:
    public static void main(String[] args)
 or a JavaFX application class must extend javafx.application.Application
@@ -156,7 +288,8 @@ or a JavaFX application class must extend javafx.application.Application
 
 Jika kita mendapat error diatas, itu artinya main method tidak ditemukan. Biasanya ini karena kita salah membuat nama method nya. Ingat harus sama, silahkan ubah lagi kode program nya, dan pastikan nama method nya harus : public static void main(String[] args). Hurup besar kecil nya harus sama. Setelah dirubah, JANGAN LUPA LAKUKAN KOMPILASI ULANG.
 
----
+--- -->
 
 Demikianlah tutorial tentang program Hello World di Java. Jika teman-teman masih mendapat error, namun berbeda errornya dari yang saya jelaskan. Silahkan masukkan di komentar.
 
+Jika nama file sebelumnya yang kita buat adalah KelasAwanPintar, besar kecilnya harus sama karena Java adalah bahasa pemrograman yang case sensitive (artinya huruf besar dan kecil dianggap berbeda).

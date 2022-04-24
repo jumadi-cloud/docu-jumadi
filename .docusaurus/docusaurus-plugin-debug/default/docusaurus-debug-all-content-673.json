@@ -2077,7 +2077,7 @@
               "id": "dasar/integrated-development-environment",
               "isDocsHomePage": false,
               "title": "Integrated Development Environment",
-              "description": "Membuat Aplikasi Java sangat disarankan menggunakan IDE (Integrated Development Environment). IDE adalah sebuah code editor pintar yang lebih dari sekedar text editor. IDE memiliki kemampuan untuk melakukan code management, kompilasi kode program secara otomatis, sampai bisa digunakan untuk membuat distribution file dari kode program Java yang kita buat.",
+              "description": "Membuat Aplikasi Python sangat disarankan menggunakan IDE (Integrated Development Environment). IDE adalah sebuah code editor pintar yang lebih dari sekedar text editor. IDE memiliki kemampuan untuk melakukan code management, kompilasi kode program secara otomatis, sampai bisa digunakan untuk membuat distribution file dari kode program Python yang kita buat.",
               "source": "@site/tutorial/python/01-dasar/03-integrated-development-environment.md",
               "sourceDirName": "01-dasar",
               "slug": "/dasar/integrated-development-environment",
@@ -2169,7 +2169,7 @@
               "id": "dasar/program-hello-world",
               "isDocsHomePage": false,
               "title": "Program Hello World",
-              "description": "Saat belajar bahasa pemrograman, biasanya kita akan membuat sebuah program Hello World. Program Hello World adalah sebuah program sederhana yang hanya menampilkan tulisan Hello World. Dan pada tutorial ini, kita akan mencoba membuat program Hello World menggunakan Java",
+              "description": "Saat belajar bahasa pemrograman, biasanya kita akan membuat sebuah program Hello World. Program Hello World adalah sebuah program sederhana yang hanya menampilkan tulisan Hello World. Dan sebelum kita belajar lebih lanjut pada tutorial ini, kita harus mengetahui Ekstensi File Python dan Aturan Penulisan Statement Pada Basic Python.",
               "source": "@site/tutorial/python/01-dasar/04-program-hello-world.md",
               "sourceDirName": "01-dasar",
               "slug": "/dasar/program-hello-world",
@@ -2204,7 +2204,7 @@
             "editUrl": "https://github.com/jumadi-cloud/docu-tutorial/blog/2019-05-30-welcome.md",
             "source": "@site/blog/2019-05-30-welcome.md",
             "title": "About",
-            "description": "Saya memiliki pengalaman teknis langsung selama 9 tahun di bidang Supply Chain Management (SCM).",
+            "description": "Perkenalkan nama saya Jumadi, saya adalah seorang anak laki – laki ke enam dari 7 bersaudara. Lahir di Brebes,01 Juni 1992.",
             "date": "2019-05-30T00:00:00.000Z",
             "formattedDate": "May 30, 2019",
             "tags": [
@@ -2221,7 +2221,7 @@
                 "permalink": "/docu-jumadi/blog/tags/education"
               }
             ],
-            "readingTime": 0.465,
+            "readingTime": 0.555,
             "truncated": false,
             "nextItem": {
               "title": "Work Experience",

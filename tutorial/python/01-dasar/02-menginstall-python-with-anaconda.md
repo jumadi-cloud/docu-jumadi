@@ -82,4 +82,4 @@ python -V
 - Tampilan anaconda prompt
   ![Anaconda](/img/tutorial-python/dasar/anaconda9.png)
 
-### Jika sudah sukses, berarti sekarang kita sudah siap untuk melanjutkan belajar Python
+#### Jika sudah sukses, berarti sekarang kita sudah siap untuk melanjutkan belajar Python

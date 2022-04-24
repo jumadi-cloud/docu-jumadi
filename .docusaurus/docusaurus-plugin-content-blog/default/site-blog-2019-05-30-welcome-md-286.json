@@ -3,7 +3,7 @@
   "editUrl": "https://github.com/jumadi-cloud/docu-tutorial/blog/2019-05-30-welcome.md",
   "source": "@site/blog/2019-05-30-welcome.md",
   "title": "About",
-  "description": "Saya memiliki pengalaman teknis langsung selama 9 tahun di bidang Supply Chain Management (SCM).",
+  "description": "Perkenalkan nama saya Jumadi, saya adalah seorang anak laki – laki ke enam dari 7 bersaudara. Lahir di Brebes,01 Juni 1992.",
   "date": "2019-05-30T00:00:00.000Z",
   "formattedDate": "May 30, 2019",
   "tags": [
@@ -20,7 +20,7 @@
       "permalink": "/docu-jumadi/blog/tags/education"
     }
   ],
-  "readingTime": 0.465,
+  "readingTime": 0.555,
   "truncated": false,
   "nextItem": {
     "title": "Work Experience",
