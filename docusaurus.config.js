@@ -21,33 +21,10 @@ module.exports = {
       },
       items: [
         // {
-        //     type: 'doc',
-        //     docId: 'intro',
-        //     position: 'left',
-        //     label: 'Docs',
-        // },
-        // {
+        //   type: 'doc',
+        //   docId: 'intro',
         //   position: 'left',
-        //   to: 'https://kelas.programmerzamannow.com/',
-        //   label: 'Kelas Online',
-        // },
-        // {
-        //   position: 'left',
-        //   label: 'Promo',
-        //   items: [
-        //     {
-        //       to: 'https://kelas.programmerzamannow.com/',
-        //       label: 'Promo Kelas Online',
-        //     },
-        //     {
-        //       to: '/promo',
-        //       label: 'Promo Kelas Online di Udemy',
-        //     },
-        //     {
-        //       to: 'https://codepolitan.com/mentor/khannedy/',
-        //       label: 'Promo Kelas Online di Codepolitan',
-        //     },
-        //   ],
+        //   label: 'Docs',
         // },
         {
           to: '/blog',
@@ -177,47 +154,6 @@ module.exports = {
           ],
         },
 
-        // {
-        //   to: '/blog',
-        //   label: 'About',
-        //   position: 'right',
-        // },
-        // {
-        //   position: 'right',
-        //   label: 'Komunitas',
-        //   items: [
-        //     // {
-        //     //     href: 'https://discord.com',
-        //     //     label: 'Discord',
-        //     // },
-        //     {
-        //       href: 'https://web.facebook.com/groups/programmerzamannow',
-        //       label: 'Facebook Group',
-        //     },
-        //   ],
-        // },
-        // {
-        //   position: 'right',
-        //   label: 'Social Media',
-        //   items: [
-        //     {
-        //       href: 'https://youtube.com/c/ProgrammerZamanNow',
-        //       label: 'Youtube',
-        //     },
-        //     {
-        //       href: 'https://instagram.com/ProgrammerZamanNow',
-        //       label: 'Instagram',
-        //     },
-        //     {
-        //       href: 'https://facebook.com/ProgrammerZamanNow',
-        //       label: 'Facebook',
-        //     },
-        //     {
-        //       href: 'https://t.me/ProgrammerZamanNow',
-        //       label: 'Telegram',
-        //     },
-        //   ],
-        // },
         {
           href: 'https://github.com/jumadi-cloud',
           label: 'GitHub',
