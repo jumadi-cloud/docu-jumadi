@@ -261,85 +261,6 @@
         }
       ]
     },
-    "tutorial-kotlin": {
-      "path": "/tutorial-kotlin",
-      "versions": [
-        {
-          "name": "current",
-          "label": "Next",
-          "isLast": true,
-          "path": "/tutorial-kotlin",
-          "mainDocId": "intro",
-          "docs": [
-            {
-              "id": "collection/manage-docs-versions",
-              "path": "/tutorial-kotlin/collection/manage-docs-versions",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "collection/translate-your-site",
-              "path": "/tutorial-kotlin/collection/translate-your-site",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "dasar/congratulations",
-              "path": "/tutorial-kotlin/dasar/congratulations",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "dasar/create-a-blog-post",
-              "path": "/tutorial-kotlin/dasar/create-a-blog-post",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "dasar/create-a-document",
-              "path": "/tutorial-kotlin/dasar/create-a-document",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "dasar/create-a-page",
-              "path": "/tutorial-kotlin/dasar/create-a-page",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "dasar/deploy-your-site",
-              "path": "/tutorial-kotlin/dasar/deploy-your-site",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "dasar/markdown-features",
-              "path": "/tutorial-kotlin/dasar/markdown-features",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "generic/manage-docs-versions",
-              "path": "/tutorial-kotlin/generic/manage-docs-versions",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "generic/translate-your-site",
-              "path": "/tutorial-kotlin/generic/translate-your-site",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "intro",
-              "path": "/tutorial-kotlin/intro",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "oop/manage-docs-versions",
-              "path": "/tutorial-kotlin/oop/manage-docs-versions",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "oop/translate-your-site",
-              "path": "/tutorial-kotlin/oop/translate-your-site",
-              "sidebar": "tutorialSidebar"
-            }
-          ]
-        }
-      ]
-    },
     "tutorial-php": {
       "path": "/tutorial-php",
       "versions": [
@@ -432,6 +353,85 @@
             {
               "id": "dasar/program-hello-world",
               "path": "/tutorial-python/dasar/program-hello-world",
+              "sidebar": "tutorialSidebar"
+            }
+          ]
+        }
+      ]
+    },
+    "tutorial-kotlin": {
+      "path": "/tutorial-kotlin",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/tutorial-kotlin",
+          "mainDocId": "intro",
+          "docs": [
+            {
+              "id": "collection/manage-docs-versions",
+              "path": "/tutorial-kotlin/collection/manage-docs-versions",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "collection/translate-your-site",
+              "path": "/tutorial-kotlin/collection/translate-your-site",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "dasar/congratulations",
+              "path": "/tutorial-kotlin/dasar/congratulations",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "dasar/create-a-blog-post",
+              "path": "/tutorial-kotlin/dasar/create-a-blog-post",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "dasar/create-a-document",
+              "path": "/tutorial-kotlin/dasar/create-a-document",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "dasar/create-a-page",
+              "path": "/tutorial-kotlin/dasar/create-a-page",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "dasar/deploy-your-site",
+              "path": "/tutorial-kotlin/dasar/deploy-your-site",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "dasar/markdown-features",
+              "path": "/tutorial-kotlin/dasar/markdown-features",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "generic/manage-docs-versions",
+              "path": "/tutorial-kotlin/generic/manage-docs-versions",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "generic/translate-your-site",
+              "path": "/tutorial-kotlin/generic/translate-your-site",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "intro",
+              "path": "/tutorial-kotlin/intro",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "oop/manage-docs-versions",
+              "path": "/tutorial-kotlin/oop/manage-docs-versions",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "oop/translate-your-site",
+              "path": "/tutorial-kotlin/oop/translate-your-site",
               "sidebar": "tutorialSidebar"
             }
           ]

@@ -2102,7 +2102,7 @@
               "id": "dasar/komentar",
               "isDocsHomePage": false,
               "title": "Komentar",
-              "description": "Tipe Data String Pada Python 3",
+              "description": "Tutorial selanjutnya akan membahas topik:",
               "source": "@site/tutorial/python/01-dasar/05-komentar.md",
               "sourceDirName": "01-dasar",
               "slug": "/dasar/komentar",

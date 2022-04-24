@@ -176,11 +176,13 @@ File "<ipython-input-1-15e524463a94>", line 1
 SyntaxError: invalid syntax
 ```
 
-Jika terjadi error seperti diatas, berarti Syntax Error.
+Jika terjadi error seperti diatas, <i>SyntaxError: invalid syntax.</i>
+
 Syntax Error adalah suatu keadaan saat kode python mengalami kesalahan penulisan.
+
 Python interpreter dapat mendeteksi kesalahan ini saat kode dieksekusi.
 
-### Error : Lupa dengan tanda titik-koma1
+### Error : EOL while scanning string literal
 
 ```shell
 File "<ipython-input-2-f7de7ca50565>", line 2
@@ -189,14 +191,24 @@ print("panjang = 100)
 SyntaxError: EOL while scanning string literal
 ```
 
+Jika terjadi error seperti diatas, <i>EOL while scanning string literal.</i>
+
 EOL adalah singkatan dari " End of line ,"
+
 Ada kesalahan Sintaks berarti bahwa kami tidak mengikuti pedoman Pemrograman Python.
 
-Di Python biasanya terjadi beberapa kasus diantaranya
-Tanda kutip hilang, kutipan yang tidak cocok, Menggunakan garis miring terbalik
-sebelum tanda kutip akhir, String yang merentang beberapa baris menggunakan sintaks yang salah
+Maksudnya adalah Python adalah bahasa yang ditafsirkan yang berarti, tidak seperti bahasa lain ( Java, C++, C#, dll. ), Python tidak mengubah seluruh kode menjadi kode mesin tingkat rendah sekaligus melainkan, setiap baris kode dieksekusi baris demi baris.
 
-### Error saat kompilasi kode Python pada Statement pada Pyhton dinyatakan dalam satu baris. Jadi akhir dari sebuah pernyataan adalah baris baru (new line).
+Kesalahan EOL biasanya terjadi karna <i>"kehilangan tanda kurung"</i>, <i>"tanda kutip hilang"</i>, <i>"ketidakcocokan if-else"</i>, dll.
+
+Berikut kesalahan Sintaks <i>EOL</i> di Python biasanya terjadi beberapa kasus diantaranya:
+
+- Tanda kutip hilang
+- Menggunakan string beberapa baris dan menggunakan sintaks yang salah
+- Kutipan yang tidak cocok
+- Menggunakan garis miring terbalik
+
+### Error : File Tidak Ditemukan
 
 ```shell
 #print(luas = panjang * lebar)
@@ -206,90 +218,16 @@ ameError                                 Traceback (most recent call last)
 ----> 1 print(luas = panjang * lebar)
 
 NameError: name 'panjang' is not defined
-===================================================================================
+```
+
 Jika terjadi error seperti diatas, berarti.
 Variable panjang tidak didefinisikan atau tidak dikenal.
-Sedangkan variabel yang berusaha kita panggil adalah "luas = panjang * lebar".
-===================================================================================
-```
+Sedangkan variabel yang berusaha kita panggil adalah <i>"luas = panjang \* lebar"</i>.
 
-<!-- ## Error Saat Kompilasi Kode Java
+Solusinya adalah perhatikan lagi sintaks Python yang sudah di jelaskan di atas.
 
-Jika teman-teman tidak mengalamahi error, berarti bagus. Teman-teman susah mengikuti tutorialnya dengan baik. Namun jika ternyata ada error, berarti teman-teman kurang jeli mengikuti tutorial nya. Berikut saya bahas beberapa error yang sering terjadi.
+Demikianlah tutorial tentang program Hello World di Python dan tutorial tentang Aturan Penulisan Statement Pada Basic Python. Jika teman-teman masih mendapat error, namun berbeda errornya dari yang saya jelaskan. Silahkan masukkan di komentar, bisa cari di komunitas [Stackoverflow](https://stackoverflow.com/) atau di Google.com.
 
-### Error : File Tidak Ditemukan
+Selamat belajar Python dan Keep Learning Sahabat Kelas Awan Pintar
 
-```shell
-javac ProgramHelloWorld.java
-error: file not found: ProgramHelloWorld.java
-Usage: javac <options> <source files>
-use --help for a list of possible options
-```
-
-Jika terjadi error seperti diatas, berarti file Java yang dikompilasi tidak ditemukan. Kemungkinannya antara nama file yang teman-teman ketik salah. Atau teman-teman tidak berada di folder yang sama dengan file Java nya. Silahkan perbaiki nama file Java nya, atau silahkan pindah ke folder dimana teman-teman menyimpan file java nya dengan menggunakan perintah cd diikuti folder lokasinya, misal : cd /Users/khannedy/Projects/BelajarJava/
-
-### Error : Nama Class Salah
-
-```shell
-javac ProgramHelloWorld.java
-ProgramHelloWorld.java:1: error: class ProgramHelloworld is public, should be declared in a file named ProgramHelloworld.java
-public class ProgramHelloworld {
-       ^
-1 error
-```
-
-Jika teman-teman mengalami error seperti diatas, artinya nama class nya berbeda dengan nama file Java nya. Saya sudah jelaskan diatas kalo nama class harus sama dengan nama file, dan juga besar kecil huruf nya harus sama, karena di Java case sensitive. Jadi jika nama file nya ProgramHelloWorld.java, nama nama class nya harus ProgramHelloWorld. Silahkan diperbaiki lagi
-
-### Error : Lupa Titik Koma
-
-```shell
-javac ProgramHelloWorld.java
-ProgramHelloWorld.java:5: error: ';' expected
-    System.out.println("Hello World")
-                                     ^
-1 error
-```
-
-Jika mengalami error seperti diatas. Berarti kita lupa menambahkan tanda ; (titik koma). Di Java semua kode program harus diakhiri dengan ; (titik koma). Silahkan tambahkan titik koma.
-
-## Menjalankan Program Java
-
-Jika sudah sukses melakukan kompilasi, saatnya menjalankan file hasil kompilasinya dengan extensi .class menggunakan JRE. Untuk menjalankan file binary tersebut, kita bisa menggunakan perintah java diikuti dengan nama file nya, namun tidak perlu menambahkan ekstensi .class nya, misal : java ProgramHelloWorld
-
-```shell
-java ProgramHelloWorld
-Hello World
-```
-
-Jika setelah di ENTER keluar tulisan Hello World, selamat, berarti kita sudah berhasil membuat program Hello World menggunakan Java.
-
-## Error Saat Menjalankan Program Java
-
-Jika teman-teman gagal menjalankan program Java, berarti ada yang salah dengan file binary nya. Berikut saya jelaskan beberapa error yang sering dihadapi.
-
-### Error : Class Tidak Ditemukan
-
-```shell
-java ProgramHelloworld
-Error: Could not find or load main class ProgramHelloworld
-Caused by: java.lang.NoClassDefFoundError: ProgramHelloWorld (wrong name: ProgramHelloworld)
-```
-
-Jika kita mendapatkan error seperti diatas, artinya kita salah mengetikkan nama file nya. Ingat di Java itu case sensitive, pastikan mengetikkan nama file yang benar dengan file binary .class yang sudah terbuat
-
-### Error : Main Method Tidak Ditemukan
-
-```shell
-java ProgramHelloWorld
-Error: Main method not found in class ProgramHelloWorld, please define the main method as:
-   public static void main(String[] args)
-or a JavaFX application class must extend javafx.application.Application
-```
-
-Jika kita mendapat error diatas, itu artinya main method tidak ditemukan. Biasanya ini karena kita salah membuat nama method nya. Ingat harus sama, silahkan ubah lagi kode program nya, dan pastikan nama method nya harus : public static void main(String[] args). Hurup besar kecil nya harus sama. Setelah dirubah, JANGAN LUPA LAKUKAN KOMPILASI ULANG.
-
---- -->
-
-Demikianlah tutorial tentang program Hello World di Java. Jika teman-teman masih mendapat error, namun berbeda errornya dari yang saya jelaskan. Silahkan masukkan di komentar.
-
-Jika nama file sebelumnya yang kita buat adalah KelasAwanPintar, besar kecilnya harus sama karena Java adalah bahasa pemrograman yang case sensitive (artinya huruf besar dan kecil dianggap berbeda).
+<i>Note: CODING BUKAN UNTUK DI HAFAL MELAINKAN DI PAHAMI KONSEP DAN LOGIKA</i>
