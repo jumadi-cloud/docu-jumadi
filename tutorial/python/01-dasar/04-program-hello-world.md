@@ -213,6 +213,8 @@ Sedangkan variabel yang berusaha kita panggil adalah "luas = panjang * lebar".
 ===================================================================================
 ```
 
+TEST TETS TEST TETSTEST TETSTEST TETSTEST TETSTEST TETSTEST TETSTEST TETSTEST TETSTEST TETSTEST TETS
+
 <!-- ## Error Saat Kompilasi Kode Java
 
 Jika teman-teman tidak mengalamahi error, berarti bagus. Teman-teman susah mengikuti tutorialnya dengan baik. Namun jika ternyata ada error, berarti teman-teman kurang jeli mengikuti tutorial nya. Berikut saya bahas beberapa error yang sering terjadi.
