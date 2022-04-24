@@ -2102,7 +2102,7 @@
               "id": "dasar/komentar",
               "isDocsHomePage": false,
               "title": "Komentar",
-              "description": "Setiap bahasa pemrograman pasti memiliki fitur yang namanya komentar. Komentar adalah kode program yang tidak akan dieksekusi ketika dijalankan. Biasanya komentar digunakan untuk memberi informasi tambahan pada kode program kita agar mudah dimengerti.",
+              "description": "Tipe Data String Pada Python 3",
               "source": "@site/tutorial/python/01-dasar/05-komentar.md",
               "sourceDirName": "01-dasar",
               "slug": "/dasar/komentar",
