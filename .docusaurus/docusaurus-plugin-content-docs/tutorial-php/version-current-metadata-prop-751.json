@@ -9,7 +9,7 @@
       {
         "type": "link",
         "label": "PHP",
-        "href": "/docu-jumadi/tutorial-php/intro"
+        "href": "/tutorial-php/intro"
       },
       {
         "type": "category",
@@ -18,32 +18,32 @@
           {
             "type": "link",
             "label": "Create a Page",
-            "href": "/docu-jumadi/tutorial-php/dasar/create-a-page"
+            "href": "/tutorial-php/dasar/create-a-page"
           },
           {
             "type": "link",
             "label": "Create a Document",
-            "href": "/docu-jumadi/tutorial-php/dasar/create-a-document"
+            "href": "/tutorial-php/dasar/create-a-document"
           },
           {
             "type": "link",
             "label": "Create a Blog Post",
-            "href": "/docu-jumadi/tutorial-php/dasar/create-a-blog-post"
+            "href": "/tutorial-php/dasar/create-a-blog-post"
           },
           {
             "type": "link",
             "label": "Markdown Features",
-            "href": "/docu-jumadi/tutorial-php/dasar/markdown-features"
+            "href": "/tutorial-php/dasar/markdown-features"
           },
           {
             "type": "link",
             "label": "Deploy your site",
-            "href": "/docu-jumadi/tutorial-php/dasar/deploy-your-site"
+            "href": "/tutorial-php/dasar/deploy-your-site"
           },
           {
             "type": "link",
             "label": "Congratulations!",
-            "href": "/docu-jumadi/tutorial-php/dasar/congratulations"
+            "href": "/tutorial-php/dasar/congratulations"
           }
         ],
         "collapsed": true,
@@ -56,12 +56,12 @@
           {
             "type": "link",
             "label": "Manage Docs Versions",
-            "href": "/docu-jumadi/tutorial-php/oop/manage-docs-versions"
+            "href": "/tutorial-php/oop/manage-docs-versions"
           },
           {
             "type": "link",
             "label": "Translate your site",
-            "href": "/docu-jumadi/tutorial-php/oop/translate-your-site"
+            "href": "/tutorial-php/oop/translate-your-site"
           }
         ],
         "collapsed": true,

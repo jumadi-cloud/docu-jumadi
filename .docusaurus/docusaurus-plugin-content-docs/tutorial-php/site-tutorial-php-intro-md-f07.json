@@ -7,7 +7,7 @@
   "source": "@site/tutorial/php/intro.md",
   "sourceDirName": ".",
   "slug": "/intro",
-  "permalink": "/docu-jumadi/tutorial-php/intro",
+  "permalink": "/tutorial-php/intro",
   "version": "current",
   "sidebarPosition": 1,
   "frontMatter": {
@@ -16,6 +16,6 @@
   "sidebar": "tutorialSidebar",
   "next": {
     "title": "Create a Page",
-    "permalink": "/docu-jumadi/tutorial-php/dasar/create-a-page"
+    "permalink": "/tutorial-php/dasar/create-a-page"
   }
 }

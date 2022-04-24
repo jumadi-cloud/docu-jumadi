@@ -7,7 +7,7 @@
   "source": "@site/tutorial/java/01-dasar/06-tipe-data-number.md",
   "sourceDirName": "01-dasar",
   "slug": "/dasar/tipe-data-number",
-  "permalink": "/docu-jumadi/tutorial-java/dasar/tipe-data-number",
+  "permalink": "/tutorial-java/dasar/tipe-data-number",
   "version": "current",
   "sidebarPosition": 6,
   "frontMatter": {
@@ -16,10 +16,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Komentar",
-    "permalink": "/docu-jumadi/tutorial-java/dasar/komentar"
+    "permalink": "/tutorial-java/dasar/komentar"
   },
   "next": {
     "title": "Tipe Data Boolean",
-    "permalink": "/docu-jumadi/tutorial-java/dasar/tipe-data-boolean"
+    "permalink": "/tutorial-java/dasar/tipe-data-boolean"
   }
 }

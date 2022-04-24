@@ -7,7 +7,7 @@
   "source": "@site/tutorial/php/03-oop/manage-docs-versions.md",
   "sourceDirName": "03-oop",
   "slug": "/oop/manage-docs-versions",
-  "permalink": "/docu-jumadi/tutorial-php/oop/manage-docs-versions",
+  "permalink": "/tutorial-php/oop/manage-docs-versions",
   "version": "current",
   "sidebarPosition": 1,
   "frontMatter": {
@@ -16,10 +16,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Congratulations!",
-    "permalink": "/docu-jumadi/tutorial-php/dasar/congratulations"
+    "permalink": "/tutorial-php/dasar/congratulations"
   },
   "next": {
     "title": "Translate your site",
-    "permalink": "/docu-jumadi/tutorial-php/oop/translate-your-site"
+    "permalink": "/tutorial-php/oop/translate-your-site"
   }
 }

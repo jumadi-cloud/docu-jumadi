@@ -9,7 +9,7 @@
       {
         "type": "link",
         "label": "JavaScript",
-        "href": "/docu-jumadi/tutorial-javascript/intro"
+        "href": "/tutorial-javascript/intro"
       },
       {
         "type": "category",
@@ -18,32 +18,32 @@
           {
             "type": "link",
             "label": "Create a Page",
-            "href": "/docu-jumadi/tutorial-javascript/dasar/create-a-page"
+            "href": "/tutorial-javascript/dasar/create-a-page"
           },
           {
             "type": "link",
             "label": "Create a Document",
-            "href": "/docu-jumadi/tutorial-javascript/dasar/create-a-document"
+            "href": "/tutorial-javascript/dasar/create-a-document"
           },
           {
             "type": "link",
             "label": "Create a Blog Post",
-            "href": "/docu-jumadi/tutorial-javascript/dasar/create-a-blog-post"
+            "href": "/tutorial-javascript/dasar/create-a-blog-post"
           },
           {
             "type": "link",
             "label": "Markdown Features",
-            "href": "/docu-jumadi/tutorial-javascript/dasar/markdown-features"
+            "href": "/tutorial-javascript/dasar/markdown-features"
           },
           {
             "type": "link",
             "label": "Deploy your site",
-            "href": "/docu-jumadi/tutorial-javascript/dasar/deploy-your-site"
+            "href": "/tutorial-javascript/dasar/deploy-your-site"
           },
           {
             "type": "link",
             "label": "Congratulations!",
-            "href": "/docu-jumadi/tutorial-javascript/dasar/congratulations"
+            "href": "/tutorial-javascript/dasar/congratulations"
           }
         ],
         "collapsed": true,
@@ -56,12 +56,12 @@
           {
             "type": "link",
             "label": "Manage Docs Versions",
-            "href": "/docu-jumadi/tutorial-javascript/oop/manage-docs-versions"
+            "href": "/tutorial-javascript/oop/manage-docs-versions"
           },
           {
             "type": "link",
             "label": "Translate your site",
-            "href": "/docu-jumadi/tutorial-javascript/oop/translate-your-site"
+            "href": "/tutorial-javascript/oop/translate-your-site"
           }
         ],
         "collapsed": true,

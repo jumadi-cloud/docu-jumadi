@@ -7,7 +7,7 @@
   "source": "@site/tutorial/java/01-dasar/01-pengenalan-java.md",
   "sourceDirName": "01-dasar",
   "slug": "/dasar/pengenalan-java",
-  "permalink": "/docu-jumadi/tutorial-java/dasar/pengenalan-java",
+  "permalink": "/tutorial-java/dasar/pengenalan-java",
   "version": "current",
   "sidebarPosition": 1,
   "frontMatter": {
@@ -16,6 +16,6 @@
   "sidebar": "tutorialSidebar",
   "next": {
     "title": "Menginstall Java",
-    "permalink": "/docu-jumadi/tutorial-java/dasar/menginstall-java"
+    "permalink": "/tutorial-java/dasar/menginstall-java"
   }
 }

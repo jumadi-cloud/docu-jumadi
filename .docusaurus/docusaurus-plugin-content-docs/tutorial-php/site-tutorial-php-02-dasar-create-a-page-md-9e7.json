@@ -7,7 +7,7 @@
   "source": "@site/tutorial/php/02-dasar/create-a-page.md",
   "sourceDirName": "02-dasar",
   "slug": "/dasar/create-a-page",
-  "permalink": "/docu-jumadi/tutorial-php/dasar/create-a-page",
+  "permalink": "/tutorial-php/dasar/create-a-page",
   "version": "current",
   "sidebarPosition": 1,
   "frontMatter": {
@@ -16,10 +16,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "PHP",
-    "permalink": "/docu-jumadi/tutorial-php/intro"
+    "permalink": "/tutorial-php/intro"
   },
   "next": {
     "title": "Create a Document",
-    "permalink": "/docu-jumadi/tutorial-php/dasar/create-a-document"
+    "permalink": "/tutorial-php/dasar/create-a-document"
   }
 }

@@ -7,7 +7,7 @@
   "source": "@site/tutorial/kotlin/intro.md",
   "sourceDirName": ".",
   "slug": "/intro",
-  "permalink": "/docu-jumadi/tutorial-kotlin/intro",
+  "permalink": "/tutorial-kotlin/intro",
   "version": "current",
   "sidebarPosition": 1,
   "frontMatter": {
@@ -16,6 +16,6 @@
   "sidebar": "tutorialSidebar",
   "next": {
     "title": "Create a Page",
-    "permalink": "/docu-jumadi/tutorial-kotlin/dasar/create-a-page"
+    "permalink": "/tutorial-kotlin/dasar/create-a-page"
   }
 }

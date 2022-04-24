@@ -9,7 +9,7 @@
       {
         "type": "link",
         "label": "Kotlin",
-        "href": "/docu-jumadi/tutorial-kotlin/intro"
+        "href": "/tutorial-kotlin/intro"
       },
       {
         "type": "category",
@@ -18,32 +18,32 @@
           {
             "type": "link",
             "label": "Create a Page",
-            "href": "/docu-jumadi/tutorial-kotlin/dasar/create-a-page"
+            "href": "/tutorial-kotlin/dasar/create-a-page"
           },
           {
             "type": "link",
             "label": "Create a Document",
-            "href": "/docu-jumadi/tutorial-kotlin/dasar/create-a-document"
+            "href": "/tutorial-kotlin/dasar/create-a-document"
           },
           {
             "type": "link",
             "label": "Create a Blog Post",
-            "href": "/docu-jumadi/tutorial-kotlin/dasar/create-a-blog-post"
+            "href": "/tutorial-kotlin/dasar/create-a-blog-post"
           },
           {
             "type": "link",
             "label": "Markdown Features",
-            "href": "/docu-jumadi/tutorial-kotlin/dasar/markdown-features"
+            "href": "/tutorial-kotlin/dasar/markdown-features"
           },
           {
             "type": "link",
             "label": "Deploy your site",
-            "href": "/docu-jumadi/tutorial-kotlin/dasar/deploy-your-site"
+            "href": "/tutorial-kotlin/dasar/deploy-your-site"
           },
           {
             "type": "link",
             "label": "Congratulations!",
-            "href": "/docu-jumadi/tutorial-kotlin/dasar/congratulations"
+            "href": "/tutorial-kotlin/dasar/congratulations"
           }
         ],
         "collapsed": true,
@@ -56,12 +56,12 @@
           {
             "type": "link",
             "label": "Manage Docs Versions",
-            "href": "/docu-jumadi/tutorial-kotlin/oop/manage-docs-versions"
+            "href": "/tutorial-kotlin/oop/manage-docs-versions"
           },
           {
             "type": "link",
             "label": "Translate your site",
-            "href": "/docu-jumadi/tutorial-kotlin/oop/translate-your-site"
+            "href": "/tutorial-kotlin/oop/translate-your-site"
           }
         ],
         "collapsed": true,
@@ -74,12 +74,12 @@
           {
             "type": "link",
             "label": "Manage Docs Versions",
-            "href": "/docu-jumadi/tutorial-kotlin/generic/manage-docs-versions"
+            "href": "/tutorial-kotlin/generic/manage-docs-versions"
           },
           {
             "type": "link",
             "label": "Translate your site",
-            "href": "/docu-jumadi/tutorial-kotlin/generic/translate-your-site"
+            "href": "/tutorial-kotlin/generic/translate-your-site"
           }
         ],
         "collapsed": true,
@@ -92,12 +92,12 @@
           {
             "type": "link",
             "label": "Manage Docs Versions",
-            "href": "/docu-jumadi/tutorial-kotlin/collection/manage-docs-versions"
+            "href": "/tutorial-kotlin/collection/manage-docs-versions"
           },
           {
             "type": "link",
             "label": "Translate your site",
-            "href": "/docu-jumadi/tutorial-kotlin/collection/translate-your-site"
+            "href": "/tutorial-kotlin/collection/translate-your-site"
           }
         ],
         "collapsed": true,

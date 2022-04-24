@@ -7,7 +7,7 @@
   "source": "@site/tutorial/kotlin/02-dasar/deploy-your-site.md",
   "sourceDirName": "02-dasar",
   "slug": "/dasar/deploy-your-site",
-  "permalink": "/docu-jumadi/tutorial-kotlin/dasar/deploy-your-site",
+  "permalink": "/tutorial-kotlin/dasar/deploy-your-site",
   "version": "current",
   "sidebarPosition": 5,
   "frontMatter": {
@@ -16,10 +16,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Markdown Features",
-    "permalink": "/docu-jumadi/tutorial-kotlin/dasar/markdown-features"
+    "permalink": "/tutorial-kotlin/dasar/markdown-features"
   },
   "next": {
     "title": "Congratulations!",
-    "permalink": "/docu-jumadi/tutorial-kotlin/dasar/congratulations"
+    "permalink": "/tutorial-kotlin/dasar/congratulations"
   }
 }

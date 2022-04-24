@@ -7,7 +7,7 @@
   "source": "@site/tutorial/php/02-dasar/congratulations.md",
   "sourceDirName": "02-dasar",
   "slug": "/dasar/congratulations",
-  "permalink": "/docu-jumadi/tutorial-php/dasar/congratulations",
+  "permalink": "/tutorial-php/dasar/congratulations",
   "version": "current",
   "sidebarPosition": 6,
   "frontMatter": {
@@ -16,10 +16,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Deploy your site",
-    "permalink": "/docu-jumadi/tutorial-php/dasar/deploy-your-site"
+    "permalink": "/tutorial-php/dasar/deploy-your-site"
   },
   "next": {
     "title": "Manage Docs Versions",
-    "permalink": "/docu-jumadi/tutorial-php/oop/manage-docs-versions"
+    "permalink": "/tutorial-php/oop/manage-docs-versions"
   }
 }

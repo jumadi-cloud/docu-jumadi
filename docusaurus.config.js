@@ -6,21 +6,13 @@ module.exports = {
   title: 'Kelas Awan Pintar',
   tagline: 'Buka Masa Depanmu Dengan Terus Belajar!',
   url: 'https://jumadi-cloud.github.io.git',
-  baseUrl: '/docu-jumadi/',
+  baseUrl: '/', // /docu-jumadi/
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/kap.png',
   organizationName: 'jumadi-cloud',
   projectName: 'docu-jumadi',
   themeConfig: {
-    // googleAnalytics: {
-    //     trackingID: 'G-EL58ST4JHS',
-    //     anonymizeIP: true,
-    // },
-    // gtag: {
-    //     trackingID: 'G-EL58ST4JHS',
-    //     anonymizeIP: true,
-    // },
     navbar: {
       title: 'Kelas Awan Pintar',
       logo: {

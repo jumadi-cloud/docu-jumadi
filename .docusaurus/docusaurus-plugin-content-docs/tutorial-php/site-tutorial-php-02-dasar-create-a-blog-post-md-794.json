@@ -7,7 +7,7 @@
   "source": "@site/tutorial/php/02-dasar/create-a-blog-post.md",
   "sourceDirName": "02-dasar",
   "slug": "/dasar/create-a-blog-post",
-  "permalink": "/docu-jumadi/tutorial-php/dasar/create-a-blog-post",
+  "permalink": "/tutorial-php/dasar/create-a-blog-post",
   "version": "current",
   "sidebarPosition": 3,
   "frontMatter": {
@@ -16,10 +16,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Create a Document",
-    "permalink": "/docu-jumadi/tutorial-php/dasar/create-a-document"
+    "permalink": "/tutorial-php/dasar/create-a-document"
   },
   "next": {
     "title": "Markdown Features",
-    "permalink": "/docu-jumadi/tutorial-php/dasar/markdown-features"
+    "permalink": "/tutorial-php/dasar/markdown-features"
   }
 }

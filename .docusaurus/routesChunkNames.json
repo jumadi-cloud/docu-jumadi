@@ -1,476 +1,476 @@
 {
-  "/docu-jumadi/-7ca": {
+  "/-deb": {
     "component": "component---site-src-pages-index-jsc-4-f-f99",
-    "config": "config---docu-jumadi-5-e-9-bf6"
+    "config": "config---5-e-9-4f3"
   },
-  "/docu-jumadi/__docusaurus/debug-fa3": {
+  "/__docusaurus/debug-3d6": {
     "component": "component---theme-debug-config-23-a-2ff"
   },
-  "/docu-jumadi/__docusaurus/debug/config-50f": {
+  "/__docusaurus/debug/config-914": {
     "component": "component---theme-debug-config-23-a-2ff"
   },
-  "/docu-jumadi/__docusaurus/debug/content-45e": {
+  "/__docusaurus/debug/content-c28": {
     "component": "component---theme-debug-contentba-8-ce7",
-    "allContent": "allContent---docu-jumadi-docusaurus-debug-content-246-fc4"
+    "allContent": "allContent---docusaurus-debug-content-246-9aa"
   },
-  "/docu-jumadi/__docusaurus/debug/globalData-fd2": {
+  "/__docusaurus/debug/globalData-3cf": {
     "component": "component---theme-debug-global-dataede-0fa"
   },
-  "/docu-jumadi/__docusaurus/debug/metadata-7d4": {
+  "/__docusaurus/debug/metadata-31b": {
     "component": "component---theme-debug-site-metadata-68-e-3d4"
   },
-  "/docu-jumadi/__docusaurus/debug/registry-ccf": {
+  "/__docusaurus/debug/registry-0da": {
     "component": "component---theme-debug-registry-679-501"
   },
-  "/docu-jumadi/__docusaurus/debug/routes-7f2": {
+  "/__docusaurus/debug/routes-244": {
     "component": "component---theme-debug-routes-946-699"
   },
-  "/docu-jumadi/blog-1ec": {
+  "/blog-569": {
     "component": "component---theme-blog-list-pagea-6-a-7ba",
-    "sidebar": "sidebar---docu-jumadi-blog-814-ade",
+    "sidebar": "sidebar---blog-814-8ac",
     "items": [
       {
-        "content": "content---docu-jumadi-blogaf-1-0b6"
+        "content": "content---blogaf-1-856"
       },
       {
-        "content": "content---docu-jumadi-blog-357-d34"
+        "content": "content---blog-357-22b"
       },
       {
-        "content": "content---docu-jumadi-blog-8-e-9-a48"
+        "content": "content---blog-8-e-9-35c"
       }
     ],
-    "metadata": "metadata---docu-jumadi-blog-700-e90"
+    "metadata": "metadata---blogb-2-b-df1"
   },
-  "/docu-jumadi/blog/About-ee2": {
+  "/blog/About-02e": {
     "component": "component---theme-blog-post-pageccc-cab",
-    "sidebar": "sidebar---docu-jumadi-blog-814-ade",
-    "content": "content---docu-jumadi-blog-about-286-f6c"
+    "sidebar": "sidebar---blog-814-8ac",
+    "content": "content---blog-about-286-d5f"
   },
-  "/docu-jumadi/blog/hello-world-0e4": {
+  "/blog/hello-world-07a": {
     "component": "component---theme-blog-post-pageccc-cab",
-    "sidebar": "sidebar---docu-jumadi-blog-814-ade",
-    "content": "content---docu-jumadi-blog-hello-worldd-61-bd4"
+    "sidebar": "sidebar---blog-814-8ac",
+    "content": "content---blog-hello-worldd-61-086"
   },
-  "/docu-jumadi/blog/helo-a0b": {
+  "/blog/helo-d0b": {
     "component": "component---theme-blog-post-pageccc-cab",
-    "sidebar": "sidebar---docu-jumadi-blog-814-ade",
-    "content": "content---docu-jumadi-blog-helobdd-eff"
+    "sidebar": "sidebar---blog-814-8ac",
+    "content": "content---blog-helobdd-a5c"
   },
-  "/docu-jumadi/blog/tags-ec9": {
+  "/blog/tags-e13": {
     "component": "component---theme-blog-tags-list-page-01-a-d0b",
-    "sidebar": "sidebar---docu-jumadi-blog-814-ade",
-    "tags": "tags---docu-jumadi-blog-tagsb-69-f91"
+    "sidebar": "sidebar---blog-814-8ac",
+    "tags": "tags---blog-tagsa-70-da2"
   },
-  "/docu-jumadi/blog/tags/education-6cc": {
+  "/blog/tags/education-84b": {
     "component": "component---theme-blog-tags-posts-page-687-b6c",
-    "sidebar": "sidebar---docu-jumadi-blog-814-ade",
+    "sidebar": "sidebar---blog-814-8ac",
     "items": [
       {
-        "content": "content---docu-jumadi-blogaf-1-0b6"
+        "content": "content---blogaf-1-856"
       },
       {
-        "content": "content---docu-jumadi-blog-8-e-9-a48"
+        "content": "content---blog-8-e-9-35c"
       }
     ],
-    "metadata": "metadata---docu-jumadi-blog-tags-education-4-a-2-dec"
+    "metadata": "metadata---blog-tags-educatione-17-55a"
   },
-  "/docu-jumadi/blog/tags/facebook-ad2": {
+  "/blog/tags/facebook-2fe": {
     "component": "component---theme-blog-tags-posts-page-687-b6c",
-    "sidebar": "sidebar---docu-jumadi-blog-814-ade",
+    "sidebar": "sidebar---blog-814-8ac",
     "items": [
       {
-        "content": "content---docu-jumadi-blogaf-1-0b6"
+        "content": "content---blogaf-1-856"
       }
     ],
-    "metadata": "metadata---docu-jumadi-blog-tags-facebook-6-b-6-fd3"
+    "metadata": "metadata---blog-tags-facebook-031-c52"
   },
-  "/docu-jumadi/blog/tags/work-experience-5c4": {
+  "/blog/tags/work-experience-b85": {
     "component": "component---theme-blog-tags-posts-page-687-b6c",
-    "sidebar": "sidebar---docu-jumadi-blog-814-ade",
+    "sidebar": "sidebar---blog-814-8ac",
     "items": [
       {
-        "content": "content---docu-jumadi-blogaf-1-0b6"
+        "content": "content---blogaf-1-856"
       },
       {
-        "content": "content---docu-jumadi-blog-357-d34"
+        "content": "content---blog-357-22b"
       }
     ],
-    "metadata": "metadata---docu-jumadi-blog-tags-work-experience-46-f-b53"
+    "metadata": "metadata---blog-tags-work-experience-15-f-457"
   },
-  "/docu-jumadi/kelas-online-dc2": {
+  "/kelas-online-e39": {
     "component": "component---site-src-pages-kelas-online-js-6-d-3-12f",
-    "config": "config---docu-jumadi-5-e-9-bf6"
+    "config": "config---5-e-9-4f3"
   },
-  "/docu-jumadi/kelas-online/android-758": {
+  "/kelas-online/android-8ce": {
     "component": "component---theme-mdx-page-1-f-3-b90",
-    "content": "content---docu-jumadi-kelas-online-androidd-2-e-3dc"
+    "content": "content---kelas-online-androidd-2-e-65b"
   },
-  "/docu-jumadi/kelas-online/dart-f6d": {
+  "/kelas-online/dart-b4d": {
     "component": "component---theme-mdx-page-1-f-3-b90",
-    "content": "content---docu-jumadi-kelas-online-dart-9-f-8-ada"
+    "content": "content---kelas-online-dart-9-f-8-9b9"
   },
-  "/docu-jumadi/kelas-online/docker-ddd": {
+  "/kelas-online/docker-9b6": {
     "component": "component---theme-mdx-page-1-f-3-b90",
-    "content": "content---docu-jumadi-kelas-online-docker-448-b2b"
+    "content": "content---kelas-online-docker-448-e52"
   },
-  "/docu-jumadi/kelas-online/git-127": {
+  "/kelas-online/git-6db": {
     "component": "component---theme-mdx-page-1-f-3-b90",
-    "content": "content---docu-jumadi-kelas-online-git-789-ac5"
+    "content": "content---kelas-online-git-789-500"
   },
-  "/docu-jumadi/kelas-online/golang-4ff": {
+  "/kelas-online/golang-532": {
     "component": "component---theme-mdx-page-1-f-3-b90",
-    "content": "content---docu-jumadi-kelas-online-golang-9-b-9-c2c"
+    "content": "content---kelas-online-golang-9-b-9-21b"
   },
-  "/docu-jumadi/kelas-online/http-49d": {
+  "/kelas-online/http-b56": {
     "component": "component---theme-mdx-page-1-f-3-b90",
-    "content": "content---docu-jumadi-kelas-online-http-2-d-3-5fd"
+    "content": "content---kelas-online-http-2-d-3-20c"
   },
-  "/docu-jumadi/kelas-online/java-2fa": {
+  "/kelas-online/java-c04": {
     "component": "component---theme-mdx-page-1-f-3-b90",
-    "content": "content---docu-jumadi-kelas-online-java-2-b-0-d53"
+    "content": "content---kelas-online-java-2-b-0-68c"
   },
-  "/docu-jumadi/kelas-online/javascript-5ca": {
+  "/kelas-online/javascript-ef2": {
     "component": "component---theme-mdx-page-1-f-3-b90",
-    "content": "content---docu-jumadi-kelas-online-javascripte-91-cff"
+    "content": "content---kelas-online-javascripte-91-fd9"
   },
-  "/docu-jumadi/kelas-online/kotlin-b2b": {
+  "/kelas-online/kotlin-81c": {
     "component": "component---theme-mdx-page-1-f-3-b90",
-    "content": "content---docu-jumadi-kelas-online-kotlin-11-a-23f"
+    "content": "content---kelas-online-kotlin-11-a-4ab"
   },
-  "/docu-jumadi/kelas-online/mysql-4b6": {
+  "/kelas-online/mysql-5f6": {
     "component": "component---theme-mdx-page-1-f-3-b90",
-    "content": "content---docu-jumadi-kelas-online-mysql-2-ea-1f1"
+    "content": "content---kelas-online-mysql-2-ea-404"
   },
-  "/docu-jumadi/kelas-online/nodejs-b49": {
+  "/kelas-online/nodejs-9a0": {
     "component": "component---theme-mdx-page-1-f-3-b90",
-    "content": "content---docu-jumadi-kelas-online-nodejsb-00-4fd"
+    "content": "content---kelas-online-nodejsb-00-135"
   },
-  "/docu-jumadi/kelas-online/openapi-34c": {
+  "/kelas-online/openapi-8ec": {
     "component": "component---theme-mdx-page-1-f-3-b90",
-    "content": "content---docu-jumadi-kelas-online-openapie-70-289"
+    "content": "content---kelas-online-openapie-70-57b"
   },
-  "/docu-jumadi/kelas-online/php-fca": {
+  "/kelas-online/php-ee0": {
     "component": "component---theme-mdx-page-1-f-3-b90",
-    "content": "content---docu-jumadi-kelas-online-php-995-575"
+    "content": "content---kelas-online-php-995-1e8"
   },
-  "/docu-jumadi/kelas-online/restful-api-bd9": {
+  "/kelas-online/restful-api-c7e": {
     "component": "component---theme-mdx-page-1-f-3-b90",
-    "content": "content---docu-jumadi-kelas-online-restful-apib-60-c57"
+    "content": "content---kelas-online-restful-apib-60-528"
   },
-  "/docu-jumadi/kelas-online/spring-boot-2eb": {
+  "/kelas-online/spring-boot-a2d": {
     "component": "component---theme-mdx-page-1-f-3-b90",
-    "content": "content---docu-jumadi-kelas-online-spring-boot-351-e8c"
+    "content": "content---kelas-online-spring-boot-351-d0d"
   },
-  "/docu-jumadi/kelas-online/spring-boot-design-patterns-11e": {
+  "/kelas-online/spring-boot-design-patterns-cc1": {
     "component": "component---theme-mdx-page-1-f-3-b90",
-    "content": "content---docu-jumadi-kelas-online-spring-boot-design-patternsc-8-f-3d4"
+    "content": "content---kelas-online-spring-boot-design-patternsc-8-f-d8f"
   },
-  "/docu-jumadi/markdown-page-62b": {
+  "/markdown-page-be1": {
     "component": "component---theme-mdx-page-1-f-3-b90",
-    "content": "content---docu-jumadi-markdown-page-393-772"
+    "content": "content---markdown-page-393-028"
   },
-  "/docu-jumadi/promo-889": {
+  "/promo-b1d": {
     "component": "component---theme-mdx-page-1-f-3-b90",
-    "content": "content---docu-jumadi-promo-261-77d"
+    "content": "content---promo-261-61d"
   },
-  "/docu-jumadi/docs-3f7": {
+  "/docs-87d": {
     "component": "component---theme-doc-page-1-be-9be",
-    "versionMetadata": "versionMetadata---docu-jumadi-docs-935-b07"
+    "versionMetadata": "versionMetadata---docs-935-398"
   },
-  "/docu-jumadi/docs/intro-893": {
+  "/docs/intro-aed": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docu-jumadi-docs-intro-0-e-3-dc7"
+    "content": "content---docs-intro-0-e-3-be1"
   },
-  "/docu-jumadi/docs/tutorial-basics/congratulations-91f": {
+  "/docs/tutorial-basics/congratulations-793": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docu-jumadi-docs-tutorial-basics-congratulations-822-c97"
+    "content": "content---docs-tutorial-basics-congratulations-822-958"
   },
-  "/docu-jumadi/docs/tutorial-basics/create-a-blog-post-9dd": {
+  "/docs/tutorial-basics/create-a-blog-post-68e": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docu-jumadi-docs-tutorial-basics-create-a-blog-post-533-ab0"
+    "content": "content---docs-tutorial-basics-create-a-blog-post-533-e85"
   },
-  "/docu-jumadi/docs/tutorial-basics/create-a-document-667": {
+  "/docs/tutorial-basics/create-a-document-c2d": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docu-jumadi-docs-tutorial-basics-create-a-document-1-e-4-af5"
+    "content": "content---docs-tutorial-basics-create-a-document-1-e-4-078"
   },
-  "/docu-jumadi/docs/tutorial-basics/create-a-page-d56": {
+  "/docs/tutorial-basics/create-a-page-f44": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docu-jumadi-docs-tutorial-basics-create-a-page-5-c-8-462"
+    "content": "content---docs-tutorial-basics-create-a-page-5-c-8-e19"
   },
-  "/docu-jumadi/docs/tutorial-basics/deploy-your-site-a1a": {
+  "/docs/tutorial-basics/deploy-your-site-e46": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docu-jumadi-docs-tutorial-basics-deploy-your-sitef-55-a99"
+    "content": "content---docs-tutorial-basics-deploy-your-sitef-55-a3f"
   },
-  "/docu-jumadi/docs/tutorial-basics/markdown-features-dbe": {
+  "/docs/tutorial-basics/markdown-features-4b7": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docu-jumadi-docs-tutorial-basics-markdown-features-18-c-ea3"
+    "content": "content---docs-tutorial-basics-markdown-features-18-c-a79"
   },
-  "/docu-jumadi/docs/tutorial-extras/manage-docs-versions-786": {
+  "/docs/tutorial-extras/manage-docs-versions-fdd": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docu-jumadi-docs-tutorial-extras-manage-docs-versionsdff-82a"
+    "content": "content---docs-tutorial-extras-manage-docs-versionsdff-6d4"
   },
-  "/docu-jumadi/docs/tutorial-extras/translate-your-site-d39": {
+  "/docs/tutorial-extras/translate-your-site-2d7": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docu-jumadi-docs-tutorial-extras-translate-your-sitee-44-efa"
+    "content": "content---docs-tutorial-extras-translate-your-sitee-44-ddf"
   },
-  "/docu-jumadi/tutorial-golang-c7f": {
+  "/tutorial-golang-6b1": {
     "component": "component---theme-doc-page-1-be-9be",
-    "versionMetadata": "versionMetadata---docu-jumadi-tutorial-golang-024-798"
+    "versionMetadata": "versionMetadata---tutorial-golang-024-8fe"
   },
-  "/docu-jumadi/tutorial-golang/dasar/manage-docs-versions-b66": {
+  "/tutorial-golang/dasar/manage-docs-versions-84f": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docu-jumadi-tutorial-golang-dasar-manage-docs-versions-429-3ef"
+    "content": "content---tutorial-golang-dasar-manage-docs-versions-429-11b"
   },
-  "/docu-jumadi/tutorial-golang/dasar/translate-your-site-b9f": {
+  "/tutorial-golang/dasar/translate-your-site-814": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docu-jumadi-tutorial-golang-dasar-translate-your-site-6-a-1-1ba"
+    "content": "content---tutorial-golang-dasar-translate-your-site-6-a-1-60b"
   },
-  "/docu-jumadi/tutorial-golang/intro-41d": {
+  "/tutorial-golang/intro-6af": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docu-jumadi-tutorial-golang-intro-9-c-5-6a7"
+    "content": "content---tutorial-golang-intro-9-c-5-444"
   },
-  "/docu-jumadi/tutorial-golang/modules/congratulations-7a1": {
+  "/tutorial-golang/modules/congratulations-b99": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docu-jumadi-tutorial-golang-modules-congratulations-455-315"
+    "content": "content---tutorial-golang-modules-congratulations-455-504"
   },
-  "/docu-jumadi/tutorial-golang/modules/create-a-blog-post-3df": {
+  "/tutorial-golang/modules/create-a-blog-post-5a3": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docu-jumadi-tutorial-golang-modules-create-a-blog-post-071-c3a"
+    "content": "content---tutorial-golang-modules-create-a-blog-post-071-d1a"
   },
-  "/docu-jumadi/tutorial-golang/modules/create-a-document-4f6": {
+  "/tutorial-golang/modules/create-a-document-593": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docu-jumadi-tutorial-golang-modules-create-a-document-3-c-0-302"
+    "content": "content---tutorial-golang-modules-create-a-document-3-c-0-978"
   },
-  "/docu-jumadi/tutorial-golang/modules/create-a-page-82e": {
+  "/tutorial-golang/modules/create-a-page-27f": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docu-jumadi-tutorial-golang-modules-create-a-page-449-feb"
+    "content": "content---tutorial-golang-modules-create-a-page-449-277"
   },
-  "/docu-jumadi/tutorial-golang/modules/deploy-your-site-813": {
+  "/tutorial-golang/modules/deploy-your-site-68f": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docu-jumadi-tutorial-golang-modules-deploy-your-sitee-6-b-094"
+    "content": "content---tutorial-golang-modules-deploy-your-sitee-6-b-bdd"
   },
-  "/docu-jumadi/tutorial-golang/modules/markdown-features-9cd": {
+  "/tutorial-golang/modules/markdown-features-00c": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docu-jumadi-tutorial-golang-modules-markdown-features-02-f-e5e"
+    "content": "content---tutorial-golang-modules-markdown-features-02-f-e3d"
   },
-  "/docu-jumadi/tutorial-java-f85": {
+  "/tutorial-java-468": {
     "component": "component---theme-doc-page-1-be-9be",
-    "versionMetadata": "versionMetadata---docu-jumadi-tutorial-java-086-48d"
+    "versionMetadata": "versionMetadata---tutorial-java-086-d05"
   },
-  "/docu-jumadi/tutorial-java/dasar/integrated-development-environment-5de": {
+  "/tutorial-java/dasar/integrated-development-environment-012": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docu-jumadi-tutorial-java-dasar-integrated-development-environment-680-5e9"
+    "content": "content---tutorial-java-dasar-integrated-development-environment-680-46b"
   },
-  "/docu-jumadi/tutorial-java/dasar/komentar-daa": {
+  "/tutorial-java/dasar/komentar-2e1": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docu-jumadi-tutorial-java-dasar-komentarb-07-b3b"
+    "content": "content---tutorial-java-dasar-komentarb-07-64d"
   },
-  "/docu-jumadi/tutorial-java/dasar/menginstall-java-3a2": {
+  "/tutorial-java/dasar/menginstall-java-d22": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docu-jumadi-tutorial-java-dasar-menginstall-java-01-d-a2c"
+    "content": "content---tutorial-java-dasar-menginstall-java-01-d-ce4"
   },
-  "/docu-jumadi/tutorial-java/dasar/null-a90": {
+  "/tutorial-java/dasar/null-4de": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docu-jumadi-tutorial-java-dasar-null-062-00c"
+    "content": "content---tutorial-java-dasar-null-062-fd4"
   },
-  "/docu-jumadi/tutorial-java/dasar/operator-matematika-ca4": {
+  "/tutorial-java/dasar/operator-matematika-362": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docu-jumadi-tutorial-java-dasar-operator-matematika-7-cd-d2d"
+    "content": "content---tutorial-java-dasar-operator-matematika-7-cd-62e"
   },
-  "/docu-jumadi/tutorial-java/dasar/pengenalan-java-12b": {
+  "/tutorial-java/dasar/pengenalan-java-ae8": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docu-jumadi-tutorial-java-dasar-pengenalan-java-465-5e5"
+    "content": "content---tutorial-java-dasar-pengenalan-java-465-eef"
   },
-  "/docu-jumadi/tutorial-java/dasar/program-hello-world-80a": {
+  "/tutorial-java/dasar/program-hello-world-fdd": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docu-jumadi-tutorial-java-dasar-program-hello-world-4-f-3-832"
+    "content": "content---tutorial-java-dasar-program-hello-world-4-f-3-5a2"
   },
-  "/docu-jumadi/tutorial-java/dasar/tipe-data-array-70f": {
+  "/tutorial-java/dasar/tipe-data-array-77f": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docu-jumadi-tutorial-java-dasar-tipe-data-array-27-e-64b"
+    "content": "content---tutorial-java-dasar-tipe-data-array-27-e-49c"
   },
-  "/docu-jumadi/tutorial-java/dasar/tipe-data-boolean-1c1": {
+  "/tutorial-java/dasar/tipe-data-boolean-a03": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docu-jumadi-tutorial-java-dasar-tipe-data-booleanbcc-5e3"
+    "content": "content---tutorial-java-dasar-tipe-data-booleanbcc-52b"
   },
-  "/docu-jumadi/tutorial-java/dasar/tipe-data-bukan-primitif-96e": {
+  "/tutorial-java/dasar/tipe-data-bukan-primitif-5b1": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docu-jumadi-tutorial-java-dasar-tipe-data-bukan-primitif-65-e-c02"
+    "content": "content---tutorial-java-dasar-tipe-data-bukan-primitif-65-e-b12"
   },
-  "/docu-jumadi/tutorial-java/dasar/tipe-data-character-dd1": {
+  "/tutorial-java/dasar/tipe-data-character-3f0": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docu-jumadi-tutorial-java-dasar-tipe-data-characterc-37-f23"
+    "content": "content---tutorial-java-dasar-tipe-data-characterc-37-e78"
   },
-  "/docu-jumadi/tutorial-java/dasar/tipe-data-number-2a8": {
+  "/tutorial-java/dasar/tipe-data-number-f40": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docu-jumadi-tutorial-java-dasar-tipe-data-numberea-2-1b8"
+    "content": "content---tutorial-java-dasar-tipe-data-numberea-2-2e4"
   },
-  "/docu-jumadi/tutorial-java/dasar/tipe-data-string-22a": {
+  "/tutorial-java/dasar/tipe-data-string-2f0": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docu-jumadi-tutorial-java-dasar-tipe-data-string-769-15c"
+    "content": "content---tutorial-java-dasar-tipe-data-string-769-9d1"
   },
-  "/docu-jumadi/tutorial-java/dasar/variable-778": {
+  "/tutorial-java/dasar/variable-fa6": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docu-jumadi-tutorial-java-dasar-variablebbe-3f6"
+    "content": "content---tutorial-java-dasar-variablebbe-5d3"
   },
-  "/docu-jumadi/tutorial-javascript-79d": {
+  "/tutorial-javascript-36c": {
     "component": "component---theme-doc-page-1-be-9be",
-    "versionMetadata": "versionMetadata---docu-jumadi-tutorial-javascript-9-cc-39f"
+    "versionMetadata": "versionMetadata---tutorial-javascript-9-cc-b5a"
   },
-  "/docu-jumadi/tutorial-javascript/dasar/congratulations-20a": {
+  "/tutorial-javascript/dasar/congratulations-494": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docu-jumadi-tutorial-javascript-dasar-congratulations-4-ce-b30"
+    "content": "content---tutorial-javascript-dasar-congratulations-4-ce-48d"
   },
-  "/docu-jumadi/tutorial-javascript/dasar/create-a-blog-post-42a": {
+  "/tutorial-javascript/dasar/create-a-blog-post-754": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docu-jumadi-tutorial-javascript-dasar-create-a-blog-postc-9-b-ee4"
+    "content": "content---tutorial-javascript-dasar-create-a-blog-postc-9-b-8ff"
   },
-  "/docu-jumadi/tutorial-javascript/dasar/create-a-document-c78": {
+  "/tutorial-javascript/dasar/create-a-document-ff4": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docu-jumadi-tutorial-javascript-dasar-create-a-documentfbd-c6d"
+    "content": "content---tutorial-javascript-dasar-create-a-documentfbd-53a"
   },
-  "/docu-jumadi/tutorial-javascript/dasar/create-a-page-2a2": {
+  "/tutorial-javascript/dasar/create-a-page-769": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docu-jumadi-tutorial-javascript-dasar-create-a-page-536-ec7"
+    "content": "content---tutorial-javascript-dasar-create-a-page-536-a86"
   },
-  "/docu-jumadi/tutorial-javascript/dasar/deploy-your-site-244": {
+  "/tutorial-javascript/dasar/deploy-your-site-657": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docu-jumadi-tutorial-javascript-dasar-deploy-your-sited-9-c-0e5"
+    "content": "content---tutorial-javascript-dasar-deploy-your-sited-9-c-b96"
   },
-  "/docu-jumadi/tutorial-javascript/dasar/markdown-features-3c9": {
+  "/tutorial-javascript/dasar/markdown-features-077": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docu-jumadi-tutorial-javascript-dasar-markdown-features-6-d-5-016"
+    "content": "content---tutorial-javascript-dasar-markdown-features-6-d-5-3e4"
   },
-  "/docu-jumadi/tutorial-javascript/intro-440": {
+  "/tutorial-javascript/intro-847": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docu-jumadi-tutorial-javascript-intro-2-ca-022"
+    "content": "content---tutorial-javascript-intro-2-ca-a4c"
   },
-  "/docu-jumadi/tutorial-javascript/oop/manage-docs-versions-776": {
+  "/tutorial-javascript/oop/manage-docs-versions-801": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docu-jumadi-tutorial-javascript-oop-manage-docs-versionsb-37-586"
+    "content": "content---tutorial-javascript-oop-manage-docs-versionsb-37-694"
   },
-  "/docu-jumadi/tutorial-javascript/oop/translate-your-site-dc0": {
+  "/tutorial-javascript/oop/translate-your-site-3d1": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docu-jumadi-tutorial-javascript-oop-translate-your-site-4-fc-a08"
+    "content": "content---tutorial-javascript-oop-translate-your-site-4-fc-4a5"
   },
-  "/docu-jumadi/tutorial-kotlin-4f6": {
+  "/tutorial-kotlin-4dd": {
     "component": "component---theme-doc-page-1-be-9be",
-    "versionMetadata": "versionMetadata---docu-jumadi-tutorial-kotlin-259-54b"
+    "versionMetadata": "versionMetadata---tutorial-kotlin-259-ffb"
   },
-  "/docu-jumadi/tutorial-kotlin/collection/manage-docs-versions-923": {
+  "/tutorial-kotlin/collection/manage-docs-versions-1e8": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docu-jumadi-tutorial-kotlin-collection-manage-docs-versions-9-e-0-c1a"
+    "content": "content---tutorial-kotlin-collection-manage-docs-versions-9-e-0-46e"
   },
-  "/docu-jumadi/tutorial-kotlin/collection/translate-your-site-34f": {
+  "/tutorial-kotlin/collection/translate-your-site-342": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docu-jumadi-tutorial-kotlin-collection-translate-your-site-4-a-1-2b8"
+    "content": "content---tutorial-kotlin-collection-translate-your-site-4-a-1-aac"
   },
-  "/docu-jumadi/tutorial-kotlin/dasar/congratulations-96a": {
+  "/tutorial-kotlin/dasar/congratulations-c51": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docu-jumadi-tutorial-kotlin-dasar-congratulations-382-45a"
+    "content": "content---tutorial-kotlin-dasar-congratulations-382-0aa"
   },
-  "/docu-jumadi/tutorial-kotlin/dasar/create-a-blog-post-d47": {
+  "/tutorial-kotlin/dasar/create-a-blog-post-6f6": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docu-jumadi-tutorial-kotlin-dasar-create-a-blog-postdd-5-d6b"
+    "content": "content---tutorial-kotlin-dasar-create-a-blog-postdd-5-c40"
   },
-  "/docu-jumadi/tutorial-kotlin/dasar/create-a-document-c08": {
+  "/tutorial-kotlin/dasar/create-a-document-674": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docu-jumadi-tutorial-kotlin-dasar-create-a-document-133-0bd"
+    "content": "content---tutorial-kotlin-dasar-create-a-document-133-2a3"
   },
-  "/docu-jumadi/tutorial-kotlin/dasar/create-a-page-483": {
+  "/tutorial-kotlin/dasar/create-a-page-d39": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docu-jumadi-tutorial-kotlin-dasar-create-a-pagedfd-e86"
+    "content": "content---tutorial-kotlin-dasar-create-a-pagedfd-e57"
   },
-  "/docu-jumadi/tutorial-kotlin/dasar/deploy-your-site-708": {
+  "/tutorial-kotlin/dasar/deploy-your-site-eb3": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docu-jumadi-tutorial-kotlin-dasar-deploy-your-site-341-2c2"
+    "content": "content---tutorial-kotlin-dasar-deploy-your-site-341-427"
   },
-  "/docu-jumadi/tutorial-kotlin/dasar/markdown-features-f6f": {
+  "/tutorial-kotlin/dasar/markdown-features-6c9": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docu-jumadi-tutorial-kotlin-dasar-markdown-features-2-af-3b6"
+    "content": "content---tutorial-kotlin-dasar-markdown-features-2-af-bdb"
   },
-  "/docu-jumadi/tutorial-kotlin/generic/manage-docs-versions-21a": {
+  "/tutorial-kotlin/generic/manage-docs-versions-3eb": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docu-jumadi-tutorial-kotlin-generic-manage-docs-versions-8-c-9-bc1"
+    "content": "content---tutorial-kotlin-generic-manage-docs-versions-8-c-9-24a"
   },
-  "/docu-jumadi/tutorial-kotlin/generic/translate-your-site-d7d": {
+  "/tutorial-kotlin/generic/translate-your-site-fa3": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docu-jumadi-tutorial-kotlin-generic-translate-your-site-0-de-2d1"
+    "content": "content---tutorial-kotlin-generic-translate-your-site-0-de-51d"
   },
-  "/docu-jumadi/tutorial-kotlin/intro-009": {
+  "/tutorial-kotlin/intro-b56": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docu-jumadi-tutorial-kotlin-intro-3-ea-474"
+    "content": "content---tutorial-kotlin-intro-3-ea-885"
   },
-  "/docu-jumadi/tutorial-kotlin/oop/manage-docs-versions-0d8": {
+  "/tutorial-kotlin/oop/manage-docs-versions-bbc": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docu-jumadi-tutorial-kotlin-oop-manage-docs-versions-6-b-0-534"
+    "content": "content---tutorial-kotlin-oop-manage-docs-versions-6-b-0-f5b"
   },
-  "/docu-jumadi/tutorial-kotlin/oop/translate-your-site-392": {
+  "/tutorial-kotlin/oop/translate-your-site-24e": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docu-jumadi-tutorial-kotlin-oop-translate-your-sitec-8-f-e61"
+    "content": "content---tutorial-kotlin-oop-translate-your-sitec-8-f-7ab"
   },
-  "/docu-jumadi/tutorial-php-f75": {
+  "/tutorial-php-85f": {
     "component": "component---theme-doc-page-1-be-9be",
-    "versionMetadata": "versionMetadata---docu-jumadi-tutorial-php-0-ab-988"
+    "versionMetadata": "versionMetadata---tutorial-php-0-ab-871"
   },
-  "/docu-jumadi/tutorial-php/dasar/congratulations-2d5": {
+  "/tutorial-php/dasar/congratulations-1e0": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docu-jumadi-tutorial-php-dasar-congratulations-6-ca-8a2"
+    "content": "content---tutorial-php-dasar-congratulations-6-ca-cb5"
   },
-  "/docu-jumadi/tutorial-php/dasar/create-a-blog-post-8c3": {
+  "/tutorial-php/dasar/create-a-blog-post-2d4": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docu-jumadi-tutorial-php-dasar-create-a-blog-post-794-86e"
+    "content": "content---tutorial-php-dasar-create-a-blog-post-794-c73"
   },
-  "/docu-jumadi/tutorial-php/dasar/create-a-document-7c9": {
+  "/tutorial-php/dasar/create-a-document-0ff": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docu-jumadi-tutorial-php-dasar-create-a-documentd-34-a1b"
+    "content": "content---tutorial-php-dasar-create-a-documentd-34-020"
   },
-  "/docu-jumadi/tutorial-php/dasar/create-a-page-65a": {
+  "/tutorial-php/dasar/create-a-page-8a1": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docu-jumadi-tutorial-php-dasar-create-a-page-9-e-7-b17"
+    "content": "content---tutorial-php-dasar-create-a-page-9-e-7-e03"
   },
-  "/docu-jumadi/tutorial-php/dasar/deploy-your-site-271": {
+  "/tutorial-php/dasar/deploy-your-site-003": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docu-jumadi-tutorial-php-dasar-deploy-your-site-599-c99"
+    "content": "content---tutorial-php-dasar-deploy-your-site-599-02f"
   },
-  "/docu-jumadi/tutorial-php/dasar/markdown-features-2bd": {
+  "/tutorial-php/dasar/markdown-features-894": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docu-jumadi-tutorial-php-dasar-markdown-features-3-ce-e01"
+    "content": "content---tutorial-php-dasar-markdown-features-3-ce-67e"
   },
-  "/docu-jumadi/tutorial-php/intro-74c": {
+  "/tutorial-php/intro-629": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docu-jumadi-tutorial-php-introf-07-842"
+    "content": "content---tutorial-php-introf-07-474"
   },
-  "/docu-jumadi/tutorial-php/oop/manage-docs-versions-b20": {
+  "/tutorial-php/oop/manage-docs-versions-2a4": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docu-jumadi-tutorial-php-oop-manage-docs-versions-9-f-3-35b"
+    "content": "content---tutorial-php-oop-manage-docs-versions-9-f-3-03a"
   },
-  "/docu-jumadi/tutorial-php/oop/translate-your-site-ff3": {
+  "/tutorial-php/oop/translate-your-site-bfe": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docu-jumadi-tutorial-php-oop-translate-your-siteeb-1-b03"
+    "content": "content---tutorial-php-oop-translate-your-siteeb-1-fb4"
   },
-  "/docu-jumadi/tutorial-python-7c7": {
+  "/tutorial-python-95f": {
     "component": "component---theme-doc-page-1-be-9be",
-    "versionMetadata": "versionMetadata---docu-jumadi-tutorial-pythone-3-c-8a4"
+    "versionMetadata": "versionMetadata---tutorial-pythone-3-c-020"
   },
-  "/docu-jumadi/tutorial-python/dasar/integrated-development-environment-258": {
+  "/tutorial-python/dasar/integrated-development-environment-762": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docu-jumadi-tutorial-python-dasar-integrated-development-environmentfe-6-a1f"
+    "content": "content---tutorial-python-dasar-integrated-development-environmentfe-6-67e"
   },
-  "/docu-jumadi/tutorial-python/dasar/komentar-39e": {
+  "/tutorial-python/dasar/komentar-c15": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docu-jumadi-tutorial-python-dasar-komentarc-5-a-681"
+    "content": "content---tutorial-python-dasar-komentarc-5-a-4cf"
   },
-  "/docu-jumadi/tutorial-python/dasar/menginstall-python-with-anaconda-d9c": {
+  "/tutorial-python/dasar/menginstall-python-with-anaconda-618": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docu-jumadi-tutorial-python-dasar-menginstall-python-with-anaconda-1-fb-37e"
+    "content": "content---tutorial-python-dasar-menginstall-python-with-anaconda-1-fb-300"
   },
-  "/docu-jumadi/tutorial-python/dasar/pengenalan-python-fb0": {
+  "/tutorial-python/dasar/pengenalan-python-cfd": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docu-jumadi-tutorial-python-dasar-pengenalan-pythone-8-f-8c4"
+    "content": "content---tutorial-python-dasar-pengenalan-pythone-8-f-018"
   },
-  "/docu-jumadi/tutorial-python/dasar/program-hello-world-c10": {
+  "/tutorial-python/dasar/program-hello-world-934": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docu-jumadi-tutorial-python-dasar-program-hello-world-2-b-4-bf3"
+    "content": "content---tutorial-python-dasar-program-hello-world-2-b-4-972"
   }
 }

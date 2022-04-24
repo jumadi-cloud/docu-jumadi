@@ -7,7 +7,7 @@
   "source": "@site/tutorial/golang/03-modules/create-a-document.md",
   "sourceDirName": "03-modules",
   "slug": "/modules/create-a-document",
-  "permalink": "/docu-jumadi/tutorial-golang/modules/create-a-document",
+  "permalink": "/tutorial-golang/modules/create-a-document",
   "version": "current",
   "sidebarPosition": 2,
   "frontMatter": {
@@ -16,10 +16,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Create a Page",
-    "permalink": "/docu-jumadi/tutorial-golang/modules/create-a-page"
+    "permalink": "/tutorial-golang/modules/create-a-page"
   },
   "next": {
     "title": "Create a Blog Post",
-    "permalink": "/docu-jumadi/tutorial-golang/modules/create-a-blog-post"
+    "permalink": "/tutorial-golang/modules/create-a-blog-post"
   }
 }

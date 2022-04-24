@@ -2,7 +2,7 @@ export default {
   "title": "Kelas Awan Pintar",
   "tagline": "Buka Masa Depanmu Dengan Terus Belajar!",
   "url": "https://jumadi-cloud.github.io.git",
-  "baseUrl": "/docu-jumadi/",
+  "baseUrl": "/",
   "onBrokenLinks": "throw",
   "onBrokenMarkdownLinks": "warn",
   "favicon": "img/kap.png",

@@ -7,7 +7,7 @@
   "source": "@site/tutorial/java/01-dasar/04-program-hello-world.md",
   "sourceDirName": "01-dasar",
   "slug": "/dasar/program-hello-world",
-  "permalink": "/docu-jumadi/tutorial-java/dasar/program-hello-world",
+  "permalink": "/tutorial-java/dasar/program-hello-world",
   "version": "current",
   "sidebarPosition": 4,
   "frontMatter": {
@@ -16,10 +16,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Integrated Development Environment",
-    "permalink": "/docu-jumadi/tutorial-java/dasar/integrated-development-environment"
+    "permalink": "/tutorial-java/dasar/integrated-development-environment"
   },
   "next": {
     "title": "Komentar",
-    "permalink": "/docu-jumadi/tutorial-java/dasar/komentar"
+    "permalink": "/tutorial-java/dasar/komentar"
   }
 }

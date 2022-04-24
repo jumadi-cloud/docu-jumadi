@@ -7,7 +7,7 @@
   "source": "@site/tutorial/java/01-dasar/03-integrated-development-environment.md",
   "sourceDirName": "01-dasar",
   "slug": "/dasar/integrated-development-environment",
-  "permalink": "/docu-jumadi/tutorial-java/dasar/integrated-development-environment",
+  "permalink": "/tutorial-java/dasar/integrated-development-environment",
   "version": "current",
   "sidebarPosition": 3,
   "frontMatter": {
@@ -16,10 +16,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Menginstall Java",
-    "permalink": "/docu-jumadi/tutorial-java/dasar/menginstall-java"
+    "permalink": "/tutorial-java/dasar/menginstall-java"
   },
   "next": {
     "title": "Program Hello World",
-    "permalink": "/docu-jumadi/tutorial-java/dasar/program-hello-world"
+    "permalink": "/tutorial-java/dasar/program-hello-world"
   }
 }

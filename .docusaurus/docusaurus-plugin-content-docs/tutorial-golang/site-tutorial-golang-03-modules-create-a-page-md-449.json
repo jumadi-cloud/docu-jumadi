@@ -7,7 +7,7 @@
   "source": "@site/tutorial/golang/03-modules/create-a-page.md",
   "sourceDirName": "03-modules",
   "slug": "/modules/create-a-page",
-  "permalink": "/docu-jumadi/tutorial-golang/modules/create-a-page",
+  "permalink": "/tutorial-golang/modules/create-a-page",
   "version": "current",
   "sidebarPosition": 1,
   "frontMatter": {
@@ -16,10 +16,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Translate your site",
-    "permalink": "/docu-jumadi/tutorial-golang/dasar/translate-your-site"
+    "permalink": "/tutorial-golang/dasar/translate-your-site"
   },
   "next": {
     "title": "Create a Document",
-    "permalink": "/docu-jumadi/tutorial-golang/modules/create-a-document"
+    "permalink": "/tutorial-golang/modules/create-a-document"
   }
 }
