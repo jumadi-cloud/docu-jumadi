@@ -261,6 +261,65 @@
         }
       ]
     },
+    "tutorial-php": {
+      "path": "/tutorial-php",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/tutorial-php",
+          "mainDocId": "intro",
+          "docs": [
+            {
+              "id": "dasar/congratulations",
+              "path": "/tutorial-php/dasar/congratulations",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "dasar/create-a-blog-post",
+              "path": "/tutorial-php/dasar/create-a-blog-post",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "dasar/create-a-document",
+              "path": "/tutorial-php/dasar/create-a-document",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "dasar/create-a-page",
+              "path": "/tutorial-php/dasar/create-a-page",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "dasar/deploy-your-site",
+              "path": "/tutorial-php/dasar/deploy-your-site",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "dasar/markdown-features",
+              "path": "/tutorial-php/dasar/markdown-features",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "intro",
+              "path": "/tutorial-php/intro",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "oop/manage-docs-versions",
+              "path": "/tutorial-php/oop/manage-docs-versions",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "oop/translate-your-site",
+              "path": "/tutorial-php/oop/translate-your-site",
+              "sidebar": "tutorialSidebar"
+            }
+          ]
+        }
+      ]
+    },
     "tutorial-kotlin": {
       "path": "/tutorial-kotlin",
       "versions": [
@@ -334,65 +393,6 @@
             {
               "id": "oop/translate-your-site",
               "path": "/tutorial-kotlin/oop/translate-your-site",
-              "sidebar": "tutorialSidebar"
-            }
-          ]
-        }
-      ]
-    },
-    "tutorial-php": {
-      "path": "/tutorial-php",
-      "versions": [
-        {
-          "name": "current",
-          "label": "Next",
-          "isLast": true,
-          "path": "/tutorial-php",
-          "mainDocId": "intro",
-          "docs": [
-            {
-              "id": "dasar/congratulations",
-              "path": "/tutorial-php/dasar/congratulations",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "dasar/create-a-blog-post",
-              "path": "/tutorial-php/dasar/create-a-blog-post",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "dasar/create-a-document",
-              "path": "/tutorial-php/dasar/create-a-document",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "dasar/create-a-page",
-              "path": "/tutorial-php/dasar/create-a-page",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "dasar/deploy-your-site",
-              "path": "/tutorial-php/dasar/deploy-your-site",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "dasar/markdown-features",
-              "path": "/tutorial-php/dasar/markdown-features",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "intro",
-              "path": "/tutorial-php/intro",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "oop/manage-docs-versions",
-              "path": "/tutorial-php/oop/manage-docs-versions",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "oop/translate-your-site",
-              "path": "/tutorial-php/oop/translate-your-site",
               "sidebar": "tutorialSidebar"
             }
           ]

@@ -2043,7 +2043,7 @@
             "tutorialSidebar": [
               {
                 "type": "category",
-                "label": "Python",
+                "label": "Introduction Python",
                 "items": [
                   {
                     "type": "doc",

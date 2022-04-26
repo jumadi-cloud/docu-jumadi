@@ -6,12 +6,12 @@ import Link from '@docusaurus/Link';
 const FeatureList = [
   {
     title: 'Roadmap',
-    Svg: require('../../static/img/undraw_scrum_board_re_wk7v.svg').default,
+    Svg: require('../../static/img/undraw_thought_process_re_om58.svg').default,
     description: <>Semua yang diajarkan dari Fundamental. Setiap tutorial sudah di susun sesuai dengan Roadmap nya. Sehingga yang baru belajar tidak akan tersesat ketika belajar, cukup ikuti, pahami konsepnya dan praktekan.</>,
   },
   {
     title: 'Materi Kekinian',
-    Svg: require('../../static/img/undraw_docusaurus_tree.svg').default,
+    Svg: require('../../static/img/undraw_react_y-7-wq.svg').default,
     description: (
       <>
         Materi di sini kami mengambil dari beberapa sumber di antara <i>eBook</i>, <i>Jurnal</i>, <i>Youtube</i>, <i>Internet</i> dan <i>Documentasi Resminya</i> sesuai dengan perkembangan teknologi saat ini. Sehingga yang baru belajar akan
@@ -21,7 +21,7 @@ const FeatureList = [
   },
   {
     title: 'Instruktur Berpengalaman',
-    Svg: require('../../static/img/undraw_docusaurus_react.svg').default,
+    Svg: require('../../static/img/undraw_programming_re_kg9v.svg').default,
     description: (
       <>
         Instruktur belajar nya dari praktisi dalam dunia industri. Sehingga yang baru belajar tidak hanya bisa belajar teknologi saja, namun bisa belajar best practice dan kami juga open jika ada yang ingin berpartisipasi dalam pembuatan
