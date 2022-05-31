@@ -6,8 +6,8 @@ sidebar_position: 5
 
 Tutorial selanjutnya akan membahas topik:
 
-- Python as Calculator and Logic Operator
 - Basic Type Object pada Python
+- Python as Calculator and Logic Operator
 - Structure Data pada Python
 - Dll
 

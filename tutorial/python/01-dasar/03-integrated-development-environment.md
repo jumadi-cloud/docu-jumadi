@@ -27,17 +27,46 @@ PyCharm adalah lingkungan pengembangan terintegrasi yang digunakan dalam pemrogr
 
 PyCharm bisa di download di halaman websitenya : [https://www.jetbrains.com/pycharm/](https://www.jetbrains.com/pycharm/)
 
+## Visual Studio Code
+
+Sebenarnya Visual Studio Code bukanlah IDE melainkan Text Editor. Kemampuannya tidak secanggih IDE seperti Python IDLE, PyCharm atau Spyder. Namun untuk belajar Python bagi pemula, Visual Studio Code pun cukup bisa diandalkan. Selain itu Visual Studio Code sudah pasti lebih ringan.
+
+Visual Studio Code bisa di download di halaman websitenya : [https://code.visualstudio.com](https://code.visualstudio.com)
+
 ## Jupyter Notebook
 
 Jupyter Notebook adalah aplikasi web asli untuk membuat dan berbagi dokumen komputasi. Ini menawarkan pengalaman yang sederhana, efisien, dan berpusat pada dokumen dan Jupyter Notebook termasuk dalam Distribusi Anaconda. [Jupyter](https://jupyter.org/)
 
 Jupyter Notebook bisa di download di halaman websitenya : [https://jupyter.org/](https://jupyter.org/)
 
-## Visual Studio Code
+### Cara Menjalankan Jupyter Notebook di Windows
 
-Sebenarnya Visual Studio Code bukanlah IDE melainkan Text Editor. Kemampuannya tidak secanggih IDE seperti Python IDLE, PyCharm atau Spyder. Namun untuk belajar Python bagi pemula, Visual Studio Code pun cukup bisa diandalkan. Selain itu Visual Studio Code sudah pasti lebih ringan.
+Ada 2 cara untuk menjalankan Jupyter Notebook di Windows
 
-Visual Studio Code bisa di download di halaman websitenya : [https://code.visualstudio.com](https://code.visualstudio.com)
+1. Tuliskan Jupyter Notebook di Windows dan Enter
+
+   test
+
+   ![Anaconda](/img/tutorial-python/dasar/jupyternotebook1.png)
+
+   test
+
+   ![Anaconda](/img/tutorial-python/dasar/jupyternotebook2.png)
+
+   test
+
+   ![Anaconda](/img/tutorial-python/dasar/jupyternotebook3.png)
+
+   test
+
+   ![Anaconda](/img/tutorial-python/dasar/jupyternotebook4.png)
+
+   test
+
+   ![Anaconda](/img/tutorial-python/dasar/jupyternotebook5.png)
+   test
+
+   ![Anaconda](/img/tutorial-python/dasar/jupyternotebook6.png)
 
 #### Jika teman-teman menginstall IDE yang teman-teman sukai. Berarti sekarang kita sudah siap untuk melanjutkan belajar Python
 

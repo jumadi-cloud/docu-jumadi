@@ -594,8 +594,14 @@ export default [
   },
   {
     path: '/tutorial-python',
-    component: ComponentCreator('/tutorial-python','95f'),
+    component: ComponentCreator('/tutorial-python','96b'),
     routes: [
+      {
+        path: '/tutorial-python/dasar/aturan-penulisan-statement-pada-basic-python',
+        component: ComponentCreator('/tutorial-python/dasar/aturan-penulisan-statement-pada-basic-python','a79'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
       {
         path: '/tutorial-python/dasar/integrated-development-environment',
         component: ComponentCreator('/tutorial-python/dasar/integrated-development-environment','762'),
@@ -617,12 +623,6 @@ export default [
       {
         path: '/tutorial-python/dasar/pengenalan-python',
         component: ComponentCreator('/tutorial-python/dasar/pengenalan-python','cfd'),
-        exact: true,
-        'sidebar': "tutorialSidebar"
-      },
-      {
-        path: '/tutorial-python/dasar/program-hello-world',
-        component: ComponentCreator('/tutorial-python/dasar/program-hello-world','934'),
         exact: true,
         'sidebar': "tutorialSidebar"
       }
