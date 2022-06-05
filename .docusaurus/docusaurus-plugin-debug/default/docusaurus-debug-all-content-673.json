@@ -2063,6 +2063,10 @@
                   },
                   {
                     "type": "doc",
+                    "id": "dasar/basic-type-object-pada-python"
+                  },
+                  {
+                    "type": "doc",
                     "id": "dasar/komentar"
                   }
                 ],
@@ -2091,6 +2095,31 @@
               "previous": {
                 "title": "Integrated Development Environment",
                 "permalink": "/tutorial-python/dasar/integrated-development-environment"
+              },
+              "next": {
+                "title": "Basic Type Object pada Python",
+                "permalink": "/tutorial-python/dasar/basic-type-object-pada-python"
+              }
+            },
+            {
+              "unversionedId": "dasar/basic-type-object-pada-python",
+              "id": "dasar/basic-type-object-pada-python",
+              "isDocsHomePage": false,
+              "title": "Basic Type Object pada Python",
+              "description": "Tutorial selanjutnya akan membahas topik:",
+              "source": "@site/tutorial/python/01-dasar/05-basic-type-object-pada-python.md",
+              "sourceDirName": "01-dasar",
+              "slug": "/dasar/basic-type-object-pada-python",
+              "permalink": "/tutorial-python/dasar/basic-type-object-pada-python",
+              "version": "current",
+              "sidebarPosition": 5,
+              "frontMatter": {
+                "sidebar_position": 5
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Aturan Penulisan Statement Pada Basic Python",
+                "permalink": "/tutorial-python/dasar/aturan-penulisan-statement-pada-basic-python"
               },
               "next": {
                 "title": "Komentar",
@@ -2128,19 +2157,19 @@
               "isDocsHomePage": false,
               "title": "Komentar",
               "description": "Tutorial selanjutnya akan membahas topik:",
-              "source": "@site/tutorial/python/01-dasar/05-komentar.md",
+              "source": "@site/tutorial/python/01-dasar/06-komentar.md",
               "sourceDirName": "01-dasar",
               "slug": "/dasar/komentar",
               "permalink": "/tutorial-python/dasar/komentar",
               "version": "current",
-              "sidebarPosition": 5,
+              "sidebarPosition": 6,
               "frontMatter": {
-                "sidebar_position": 5
+                "sidebar_position": 6
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Aturan Penulisan Statement Pada Basic Python",
-                "permalink": "/tutorial-python/dasar/aturan-penulisan-statement-pada-basic-python"
+                "title": "Basic Type Object pada Python",
+                "permalink": "/tutorial-python/dasar/basic-type-object-pada-python"
               }
             },
             {

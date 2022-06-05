@@ -59,59 +59,84 @@
         }
       ]
     },
-    "tutorial-golang": {
-      "path": "/tutorial-golang",
+    "tutorial-java": {
+      "path": "/tutorial-java",
       "versions": [
         {
           "name": "current",
           "label": "Next",
           "isLast": true,
-          "path": "/tutorial-golang",
-          "mainDocId": "intro",
+          "path": "/tutorial-java",
+          "mainDocId": "dasar/pengenalan-java",
           "docs": [
             {
-              "id": "dasar/manage-docs-versions",
-              "path": "/tutorial-golang/dasar/manage-docs-versions",
+              "id": "dasar/integrated-development-environment",
+              "path": "/tutorial-java/dasar/integrated-development-environment",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "dasar/translate-your-site",
-              "path": "/tutorial-golang/dasar/translate-your-site",
+              "id": "dasar/komentar",
+              "path": "/tutorial-java/dasar/komentar",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "intro",
-              "path": "/tutorial-golang/intro",
+              "id": "dasar/menginstall-java",
+              "path": "/tutorial-java/dasar/menginstall-java",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "modules/congratulations",
-              "path": "/tutorial-golang/modules/congratulations",
+              "id": "dasar/null",
+              "path": "/tutorial-java/dasar/null",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "modules/create-a-blog-post",
-              "path": "/tutorial-golang/modules/create-a-blog-post",
+              "id": "dasar/operator-matematika",
+              "path": "/tutorial-java/dasar/operator-matematika",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "modules/create-a-document",
-              "path": "/tutorial-golang/modules/create-a-document",
+              "id": "dasar/pengenalan-java",
+              "path": "/tutorial-java/dasar/pengenalan-java",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "modules/create-a-page",
-              "path": "/tutorial-golang/modules/create-a-page",
+              "id": "dasar/program-hello-world",
+              "path": "/tutorial-java/dasar/program-hello-world",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "modules/deploy-your-site",
-              "path": "/tutorial-golang/modules/deploy-your-site",
+              "id": "dasar/tipe-data-array",
+              "path": "/tutorial-java/dasar/tipe-data-array",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "modules/markdown-features",
-              "path": "/tutorial-golang/modules/markdown-features",
+              "id": "dasar/tipe-data-boolean",
+              "path": "/tutorial-java/dasar/tipe-data-boolean",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "dasar/tipe-data-bukan-primitif",
+              "path": "/tutorial-java/dasar/tipe-data-bukan-primitif",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "dasar/tipe-data-character",
+              "path": "/tutorial-java/dasar/tipe-data-character",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "dasar/tipe-data-number",
+              "path": "/tutorial-java/dasar/tipe-data-number",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "dasar/tipe-data-string",
+              "path": "/tutorial-java/dasar/tipe-data-string",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "dasar/variable",
+              "path": "/tutorial-java/dasar/variable",
               "sidebar": "tutorialSidebar"
             }
           ]
@@ -256,6 +281,109 @@
         }
       ]
     },
+    "tutorial-golang": {
+      "path": "/tutorial-golang",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/tutorial-golang",
+          "mainDocId": "intro",
+          "docs": [
+            {
+              "id": "dasar/manage-docs-versions",
+              "path": "/tutorial-golang/dasar/manage-docs-versions",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "dasar/translate-your-site",
+              "path": "/tutorial-golang/dasar/translate-your-site",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "intro",
+              "path": "/tutorial-golang/intro",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "modules/congratulations",
+              "path": "/tutorial-golang/modules/congratulations",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "modules/create-a-blog-post",
+              "path": "/tutorial-golang/modules/create-a-blog-post",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "modules/create-a-document",
+              "path": "/tutorial-golang/modules/create-a-document",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "modules/create-a-page",
+              "path": "/tutorial-golang/modules/create-a-page",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "modules/deploy-your-site",
+              "path": "/tutorial-golang/modules/deploy-your-site",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "modules/markdown-features",
+              "path": "/tutorial-golang/modules/markdown-features",
+              "sidebar": "tutorialSidebar"
+            }
+          ]
+        }
+      ]
+    },
+    "tutorial-python": {
+      "path": "/tutorial-python",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/tutorial-python",
+          "mainDocId": "dasar/pengenalan-python",
+          "docs": [
+            {
+              "id": "dasar/aturan-penulisan-statement-pada-basic-python",
+              "path": "/tutorial-python/dasar/aturan-penulisan-statement-pada-basic-python",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "dasar/basic-type-object-pada-python",
+              "path": "/tutorial-python/dasar/basic-type-object-pada-python",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "dasar/integrated-development-environment",
+              "path": "/tutorial-python/dasar/integrated-development-environment",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "dasar/komentar",
+              "path": "/tutorial-python/dasar/komentar",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "dasar/menginstall-python-with-anaconda",
+              "path": "/tutorial-python/dasar/menginstall-python-with-anaconda",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "dasar/pengenalan-python",
+              "path": "/tutorial-python/dasar/pengenalan-python",
+              "sidebar": "tutorialSidebar"
+            }
+          ]
+        }
+      ]
+    },
     "tutorial-php": {
       "path": "/tutorial-php",
       "versions": [
@@ -309,129 +437,6 @@
             {
               "id": "oop/translate-your-site",
               "path": "/tutorial-php/oop/translate-your-site",
-              "sidebar": "tutorialSidebar"
-            }
-          ]
-        }
-      ]
-    },
-    "tutorial-java": {
-      "path": "/tutorial-java",
-      "versions": [
-        {
-          "name": "current",
-          "label": "Next",
-          "isLast": true,
-          "path": "/tutorial-java",
-          "mainDocId": "dasar/pengenalan-java",
-          "docs": [
-            {
-              "id": "dasar/integrated-development-environment",
-              "path": "/tutorial-java/dasar/integrated-development-environment",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "dasar/komentar",
-              "path": "/tutorial-java/dasar/komentar",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "dasar/menginstall-java",
-              "path": "/tutorial-java/dasar/menginstall-java",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "dasar/null",
-              "path": "/tutorial-java/dasar/null",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "dasar/operator-matematika",
-              "path": "/tutorial-java/dasar/operator-matematika",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "dasar/pengenalan-java",
-              "path": "/tutorial-java/dasar/pengenalan-java",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "dasar/program-hello-world",
-              "path": "/tutorial-java/dasar/program-hello-world",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "dasar/tipe-data-array",
-              "path": "/tutorial-java/dasar/tipe-data-array",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "dasar/tipe-data-boolean",
-              "path": "/tutorial-java/dasar/tipe-data-boolean",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "dasar/tipe-data-bukan-primitif",
-              "path": "/tutorial-java/dasar/tipe-data-bukan-primitif",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "dasar/tipe-data-character",
-              "path": "/tutorial-java/dasar/tipe-data-character",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "dasar/tipe-data-number",
-              "path": "/tutorial-java/dasar/tipe-data-number",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "dasar/tipe-data-string",
-              "path": "/tutorial-java/dasar/tipe-data-string",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "dasar/variable",
-              "path": "/tutorial-java/dasar/variable",
-              "sidebar": "tutorialSidebar"
-            }
-          ]
-        }
-      ]
-    },
-    "tutorial-python": {
-      "path": "/tutorial-python",
-      "versions": [
-        {
-          "name": "current",
-          "label": "Next",
-          "isLast": true,
-          "path": "/tutorial-python",
-          "mainDocId": "dasar/pengenalan-python",
-          "docs": [
-            {
-              "id": "dasar/aturan-penulisan-statement-pada-basic-python",
-              "path": "/tutorial-python/dasar/aturan-penulisan-statement-pada-basic-python",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "dasar/integrated-development-environment",
-              "path": "/tutorial-python/dasar/integrated-development-environment",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "dasar/komentar",
-              "path": "/tutorial-python/dasar/komentar",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "dasar/menginstall-python-with-anaconda",
-              "path": "/tutorial-python/dasar/menginstall-python-with-anaconda",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "dasar/pengenalan-python",
-              "path": "/tutorial-python/dasar/pengenalan-python",
               "sidebar": "tutorialSidebar"
             }
           ]

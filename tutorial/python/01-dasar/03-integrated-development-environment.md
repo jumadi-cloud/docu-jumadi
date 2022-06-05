@@ -41,15 +41,17 @@ Jupyter Notebook bisa di download di halaman websitenya : [https://jupyter.org/]
 
 ### Cara Menjalankan Jupyter Notebook di Windows
 
-Ada 2 cara untuk menjalankan Jupyter Notebook di Windows
+Cara untuk menjalankan Jupyter Notebook di Windows dan Penulis menganggap sudah install anaconda yang sudah di tutorial sebelumnya.
 
 1. Tuliskan Jupyter Notebook di Windows dan Enter
 
-   test
+   Untuk menjalankan Jupyter Notebook di Windows, kamu cukup tulis Jupyter Notebook seperti gambar di bawah.
 
    ![Anaconda](/img/tutorial-python/dasar/jupyternotebook1.png)
 
-   test
+2. Setelah beberapa saat akan muncul CMD seperti gambar di bawah.
+
+   Setelah beberapa saat akan muncul CMD, tidak usah panik karna itu tandanya Jupyter Notebook sudah bisa di gunakan.
 
    ![Anaconda](/img/tutorial-python/dasar/jupyternotebook2.png)
 
