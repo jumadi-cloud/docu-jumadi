@@ -61,7 +61,7 @@ export default {
             },
             {
               "to": "#",
-              "label": "GCP"
+              "label": "Google Cloud Platform"
             }
           ]
         },
@@ -69,10 +69,6 @@ export default {
           "position": "right",
           "label": "Teknologi",
           "items": [
-            {
-              "to": "#",
-              "label": "Artificial Intelligence"
-            },
             {
               "to": "#",
               "label": "Github"

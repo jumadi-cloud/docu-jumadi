@@ -103,7 +103,7 @@ module.exports = {
             },
             {
               to: '#',
-              label: 'GCP',
+              label: 'Google Cloud Platform',
             },
           ],
         },
@@ -139,10 +139,10 @@ module.exports = {
             //   to: '/tutorial-java/dasar/pengenalan-java',
             //   label: 'Java',
             // },
-            {
-              to: '#',
-              label: 'Artificial Intelligence',
-            },
+            // {
+            //   to: '#',
+            //   label: 'Artificial Intelligence',
+            // },
             {
               to: '#',
               label: 'Github',
