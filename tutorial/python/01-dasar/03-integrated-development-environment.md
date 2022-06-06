@@ -49,27 +49,46 @@ Cara untuk menjalankan Jupyter Notebook di Windows dan Penulis menganggap sudah 
 
    ![Anaconda](/img/tutorial-python/dasar/jupyternotebook1.png)
 
-2. Setelah beberapa saat akan muncul CMD seperti gambar di bawah.
+2. Jupyter notebook server.
 
-   Setelah beberapa saat akan muncul CMD, tidak usah panik karna itu tandanya Jupyter Notebook sudah bisa di gunakan.
+   Setelah beberapa saat akan muncul CMD seperti gambar di bawah, tidak usah panik karna itu tandanya server Jupyter Notebook sudah running.
 
    ![Anaconda](/img/tutorial-python/dasar/jupyternotebook2.png)
 
-   test
+3. Dashboard Jupyter Notebook.
+
+   Setelah beberapa menit, maka akan terbuka browser baru dengan URL: http://localhost:8888/tree. Sehingga Anda akan melihat tampilan browser seperti gambar di bawah ini:
 
    ![Anaconda](/img/tutorial-python/dasar/jupyternotebook3.png)
 
-   test
+4. Membuat Folder Baru.
+
+   Adapun cara membuat folder baru bisa dengan cara klik new lalu pilih folder dan akan tampil seperti tutorial di bawah ini.
 
    ![Anaconda](/img/tutorial-python/dasar/jupyternotebook4.png)
 
-   test
+5. Membuat Notebook Baru di dalam Folder Baru.
+
+   Adapun cara membuat dokumen (notebook ) di dalam folder baru bisa dengan cara klik nama folder bisa di lihat di gambar di atas yang kami lingkarin (No 3) dan klik new lalu pilih python3 seperti gambar di bawah ini.
 
    ![Anaconda](/img/tutorial-python/dasar/jupyternotebook5.png)
-   test
 
-   ![Anaconda](/img/tutorial-python/dasar/jupyternotebook6.png)
+6. Studi Kasus.
 
-#### Jika teman-teman menginstall IDE yang teman-teman sukai. Berarti sekarang kita sudah siap untuk melanjutkan belajar Python
+   kita akan menguji cara menggunakan jupyter notebook di studi kasus kasus kali ini kita akan coba membuat scraping sedehana untuk menampilkan Hallo Word, seperti gambar di bawah ini.
 
-Dalam tutorial kali ini penulis akan mengunakan Integrated Development Environment Jupyter Notebook.
+   ```py "
+   print ("Hello Word")
+   =======================
+   Hello Word
+   ```
+
+![Anaconda](/img/tutorial-python/dasar/jupyternotebook6.png)
+
+```
+Note: Dalam tutorial kali ini penulis menganggap sudah mengistall Anaconda.
+
+      Dalam tutorial kali ini penulis akan mengunakan IDE Jupyter Notebook.
+```
+
+#### Berarti sekarang kita sudah siap untuk melanjutkan belajar Python

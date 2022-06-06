@@ -2,10 +2,6 @@
 sidebar_position: 5
 ---
 
-# Basic Type Object pada Python
+# Basic Type Object Pada Python
 
-Tutorial selanjutnya akan membahas topik:
-
-- Basic Type Object pada Python
-
-Saat ini masih dalam proses dan Keep Learning Sahabat Kelas Awan Pintar
+- Saat ini masih dalam proses dan Keep Learning Sahabat Kelas Awan Pintar

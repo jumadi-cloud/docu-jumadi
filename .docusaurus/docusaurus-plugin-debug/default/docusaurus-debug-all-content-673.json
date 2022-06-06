@@ -2097,7 +2097,7 @@
                 "permalink": "/tutorial-python/dasar/integrated-development-environment"
               },
               "next": {
-                "title": "Basic Type Object pada Python",
+                "title": "Basic Type Object Pada Python",
                 "permalink": "/tutorial-python/dasar/basic-type-object-pada-python"
               }
             },
@@ -2105,8 +2105,8 @@
               "unversionedId": "dasar/basic-type-object-pada-python",
               "id": "dasar/basic-type-object-pada-python",
               "isDocsHomePage": false,
-              "title": "Basic Type Object pada Python",
-              "description": "Tutorial selanjutnya akan membahas topik:",
+              "title": "Basic Type Object Pada Python",
+              "description": "- Saat ini masih dalam proses dan Keep Learning Sahabat Kelas Awan Pintar",
               "source": "@site/tutorial/python/01-dasar/05-basic-type-object-pada-python.md",
               "sourceDirName": "01-dasar",
               "slug": "/dasar/basic-type-object-pada-python",
@@ -2168,7 +2168,7 @@
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Basic Type Object pada Python",
+                "title": "Basic Type Object Pada Python",
                 "permalink": "/tutorial-python/dasar/basic-type-object-pada-python"
               }
             },
